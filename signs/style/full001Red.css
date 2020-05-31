@@ -1,0 +1,51 @@
+* {
+  margin: 0; padding: 0;
+}
+#wrapper{
+  width: 920px;
+  height: 680px;
+  margin: auto;
+  border: solid 2px #000000;
+  text-align: center;
+}
+#title{
+  display: block;
+  margin: auto;
+  width: 900px;
+  border: none;
+  font-family: Verdana;
+  font-size: 100px;
+  text-align: center;
+}
+#line{
+  margin-top: -20px;
+  z-index: 2000;
+}
+#text{
+  display: block;
+  margin: auto;
+  border: none;
+  font-family: Verdana;
+  font-size: 75px;
+  text-align: center;
+  width: 900px;
+}
+#price{
+  padding-top: 40px;
+  padding-bottom: 50px;
+  display: block;
+  margin: auto;
+  width: 900px;
+  border: none;
+  font-family: Verdana;
+  font-size: 160px;
+  text-align: center;
+  color: #CC0000;
+}
+#footer{
+  margin: auto;
+  padding-top: 8px;
+  border-top: thin solid #000000;
+  font-family: Arial;
+  font-size: 20px;
+}

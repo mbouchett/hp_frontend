@@ -1,0 +1,44 @@
+#qty{
+	width: 30px;
+}
+#vendor{
+	width: 150px;
+}
+#sku{
+	width: 100px;
+	font-size: 12px;
+	height: 17px;
+}
+#price{
+	width: 75px;
+}
+#desc{
+	width: 300px;
+	font-size: 12px;
+	height: 17px;
+}
+#location {
+	width: 150px;
+}
+#pic {
+	width: 150px;
+}
+.data {
+	border-style: solid;
+	border-width: 1px;
+	border-color: #000000;
+	background-color: #eeeeee;
+	padding: 5px;
+}
+.title {
+	margin: auto;
+	text-align: center;
+	font-weight: bold;
+}
+.result td {
+	border-style: solid;
+	border-width: 1px;
+	border-color: #000000;
+	text-align: center;
+	font-size: 24px
+}

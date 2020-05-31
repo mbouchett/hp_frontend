@@ -1,0 +1,3 @@
+10:50,6:00,,,,,,,9:50,6:00,,,11:50,8:00
+1st,1st,OFF,OFF,OFF,OFF,OFF,OFF,1st,1st,OFF,OFF,1st,1st
+,,,,,,

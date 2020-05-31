@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*Global Tags Alphabetical*/
+
+/*IDs Alphabetical*/
+
+
+/*Classes Alphabetical*/
+
+.alert{
+	color: rgb(255,0,0);
+}
+.amt {
+	border-style: solid;
+	background-color: rgb(242, 242, 242);
+	width: 150px;
+	text-align: right;
+}
+.month {
+	border-style: none;
+	width: 100px;
+	text-align: right;
+}
+.totals {
+	text-align: right;
+	font-weight: bold;
+}

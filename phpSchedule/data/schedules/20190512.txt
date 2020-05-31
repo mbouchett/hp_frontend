@@ -1,0 +1,96 @@
+Lauren Belanger
+,,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00,,
+OFF,OFF,1st,1st,1st,1st,1st,1st,1st,1st,1st,1st,OFF,OFF
+,Report/Bank Run,Report,,,Bank Run,
+Shawna Bevins
+,,,,9:00,5:00,9:00,5:00,9:00,5:00,9:00,5:00,9:00,5:00
+OFF,OFF,OFF,OFF,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd
+,,,,,,
+Julia Bley
+,,11:50,8:00,11:50,8:00,11:50,8:00,,,,,11:50,8:00
+OFF,OFF,1st,1st,1st,1st,1st,1st,OFF,OFF,OFF,OFF,1st,1st
+,,,,,,
+Angelie Bouchett
+,,9:00,6:00,9:50,6:00,,,9:00,6:00,9:50,6:00,,
+OFF,OFF,MZZ,NOF,OFF,NOF,OFF,OFF,NOF,NOF,NOF,NOF,OFF,OFF
+,,,,,,
+Carolle Bouchett
+,,,,,,,,9:50,6:00,,,,
+OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF
+,,,,,,
+Francois Bouchett
+,,,,8:30,6:00,8:30,6:00,9:50,6:00,9:50,6:00,9:50,6:00
+OFF,OFF,OFF,OFF,1st,1st,NOF,NOF,1st,1st,1st,1st,1st,1st
+,,,,,,
+Stacey Carson
+9:50,6:00,11:50,8:00,,,,,4:00,8:00,9:50,6:00,11:50,8:00
+1st,1st,MZZ,MZZ,OFF,OFF,OFF,OFF,1st,1st,1st,1st,1st,1st
+,,,,,,
+Angela Cefarello
+,,,,11:50,8:00,9:50,6:00,9:50,6:00,11:50,8:00,9:50,6:00
+OFF,OFF,OFF,OFF,1st,1st,1st,1st,1st,1st,1st,1st,1st,1st
+,,,,,,
+Naomi Chandler
+,,,,11:50,8:00,11:50,8:00,9:50,6:00,11:50,8:00,9:50,6:00
+OFF,OFF,OFF,OFF,VCA,VCA,VCA,VCA,VCA,VCA,VCA,VCA,VCA,VCA
+,,,,,,
+Alexa Croto
+,,9:50,6:00,,,,,,,,,,
+OFF,OFF,2nd,2nd,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF
+,,,,,,
+Maya Davila
+9:50,6:00,,,,,9:50,6:00,11:50,8:00,11:50,8:00,9:50,6:00
+MZZ,MZZ,OFF,OFF,OFF,OFF,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ
+Hider/Report,,,Report,Hider,,
+Phoebe Diamond
+9:50,6:00,,,,,11:50,8:00,9:50,6:00,9:50,6:00,11:50,8:00
+1st,1st,OFF,OFF,OFF,OFF,1st,1st,1st,1st,1st,1st,1st,1st
+Report,,,Closer/Report,Report,,Closer/Report
+Sarah Erickson
+,,,,,,,,,,,,11:50,8:00
+OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,2nd,2nd
+,,,,,,
+Willa Harrington
+9:50,6:00,11:50,8:00,11:50,8:00,9:50,6:00,9:50,6:00,,,,
+1st,1st,1st,1st,1st,1st,1st,1st,1st,1st,OFF,OFF,OFF,OFF
+,,,,,,
+Teri Lacroix
+10:50,6:00,12:50,8:00,,,,,12:50,8:00,12:50,8:00,12:50,8:00
+2nd,2nd,2nd,2nd,OFF,OFF,OFF,OFF,2nd,2nd,2nd,2nd,2nd,2nd
+,,,,,Closer,
+Taryn Maitland
+,,,,8:30,6:00,8:30,6:00,9:50,6:00,9:50,6:00,9:50,6:00
+OFF,OFF,OFF,OFF,1st,1st,1st,1st,1st,1st,1st,1st,1st,1st
+,,,,,,Report
+Aidan Marble
+9:50,6:00,11:50,8:00,9:50,6:00,,,,,9:50,6:00,11:50,8:00
+HLD,HLD,HLD,HLD,HLD,HLD,OFF,OFF,OFF,OFF,HLD,HLD,HLD,HLD
+,,,,,,
+Annie Mattogno
+9:50,6:00,9:50,6:00,11:50,8:00,9:50,6:00,,,,,9:50,6:00
+REG,REG,REG,REG,REG,REG,REG,REG,OFF,OFF,OFF,OFF,REG,REG
+,,,,,,
+Taylor Maynard
+9:50,6:00,9:50,6:00,9:50,6:00,,,,,9:50,6:00,9:50,6:00
+WHS,WHS,WHS,WHS,WHS,WHS,OFF,OFF,OFF,OFF,WHS,WHS,WHS,WHS
+,,,,,,
+Alex Medina
+9:50,6:00,9:50,6:00,11:50,8:00,11:50,8:00,,,,,9:50,6:00
+2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,OFF,OFF,OFF,OFF,2nd,2nd
+,,,,,,
+Miranda Post
+9:50,6:00,9:50,6:00,,,,,11:50,8:00,9:50,6:00,11:50,8:00
+1st,1st,1st,1st,OFF,OFF,OFF,OFF,REG,REG,REG,REG,1st,REG
+,,,,Closer/Report,Report,Hider
+Virginia Schiavetta
+9:50,6:00,11:50,8:00,9:50,6:00,11:50,8:00,,,,,,
+1st,1st,1st,1st,1st,1st,1st,1st,OFF,OFF,OFF,OFF,OFF,OFF
+,Hider,,Hider,,,
+Caroline Slack
+,,,,,,,,11:50,8:00,11:50,8:00,11:50,8:00
+OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,1st,1st,1st,1st,1st,1st
+,,,,,,
+Uma Tuco
+,,,,9:50,6:00,11:50,8:00,9:50,6:00,11:50,8:00,9:50,6:00
+OFF,OFF,OFF,OFF,1st,1st,1st,1st,1st,1st,1st,1st,1st,1st
+,,,,,,

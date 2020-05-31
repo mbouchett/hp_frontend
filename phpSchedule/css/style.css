@@ -1,0 +1,69 @@
+body {
+  font-family: Montserrat;
+    
+}
+
+
+table {
+  border-collapse: collapse;
+  border: none;
+}
+td {
+    border: none;
+    padding: 1px 2px;
+}
+input {
+    border: none;
+}
+option {
+    border: none;
+}
+.bgcolor1 {
+  background-color: #CCFFFF;
+}
+
+.bgcolor2 {
+  background-color: #3399FF;
+}
+.btn {
+    width: 200px;
+    padding: 1em 0;
+}
+.header {
+    text-align: center
+    
+}
+.hpfont {
+    font-family: Engravers;
+    font-size: 100px;
+}
+.TFtableCol{
+		border-collapse:collapse;
+	}
+	.TFtableCol td{
+		padding:5px;
+	}
+
+	/*  Define the background color for all the ODD table columns  */
+	.TFtableCol td:nth-child(odd){
+		background: #3399FF;
+	}
+	/*  Define the background color for all the EVEN table columns  */
+	.TFtableCol td:nth-child(even){
+		background: #FFFFFF;
+    }
+    /*  Define the background color for all the First table columns  */
+	.TFtableCol td:first-child {
+		background: #FFFFFF;
+    }
+
+
+.schedulecells td{
+    border-left: solid;
+    border-right: solid;
+}
+@media print{
+    .printhide {
+        display: none;
+    }
+}

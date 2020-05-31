@@ -1,0 +1,92 @@
+Shawna Bevins
+,,,,9:00,5:00,9:00,5:00,9:00,5:00,9:00,5:00,9:00,5:00
+OFF,OFF,OFF,OFF,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd
+,,,,,,
+Angelie Bouchett
+,,9:00,6:00,9:50,6:00,9:00,6:00,9:00,6:00,,,,
+OFF,OFF,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,OFF,OFF,OFF,OFF
+,(R),,,,,
+Carolle Bouchett
+,,,,,,,,9:50,6:00,,,,
+OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF
+,,,,,,
+Francois Bouchett
+,,,,8:30,6:00,8:30,6:00,9:50,6:00,9:50,6:00,9:50,6:00
+OFF,OFF,OFF,OFF,1st,1st,NOF,NOF,1st,1st,1st,1st,1st,1st
+,,,,,,
+Maggie Brown
+,,,,,,,,,,11:50,8:00,,
+OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,1st,1st,OFF,OFF
+,,,,,,
+Angela Cefarello
+10:50,6:00,,,,,,,,,,,,
+1st,1st,VCA,VCA,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF
+,,,,,,
+Alex Deneve
+,,,,,,,,,,3:50,6:00,11:50,8:00
+OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,1st,1st,1st,1st
+,,,,,,
+Phoebe Diamond
+10:50,6:00,9:50,6:00,,,,,9:50,6:00,9:50,6:00,11:50,8:00
+1st,1st,1st,1st,OFF,OFF,OFF,OFF,1st,1st,1st,1st,1st,1st
+,,,,,,
+Josie Fox
+,,,,,,,,,,,,9:50,6:00
+OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,1st,1st
+,,,,,,
+Manriel Grant
+9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00,,,,
+1st,1st,1st,1st,1st,1st,1st,1st,1st,1st,OFF,OFF,OFF,OFF
+Hider,,,,,,
+Teri Lacroix
+9:50,6:00,12:50,6:00,,,,,12:50,6:00,12:50,8:00,12:50,8:00
+2nd,2nd,2nd,2nd,OFF,OFF,OFF,OFF,2nd,2nd,2nd,2nd,2nd,2nd
+,,,,,Closer,
+Feora Leveillee
+,,,,,,,,,,,,,
+OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF
+,,,,,,
+Taryn Maitland
+,,,,8:30,6:00,8:30,6:00,9:50,6:00,9:50,6:00,9:50,6:00
+OFF,OFF,OFF,OFF,1st,1st,1st,1st,1st,1st,1st,1st,1st,1st
+,,,,,,
+Alister Marble
+10:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00,,,,
+1st,1st,1st,1st,1st,1st,1st,1st,1st,1st,OFF,OFF,OFF,OFF
+Closer,Closer,Hider,Closer,,,
+Victoria Martin
+,,,,9:50,6:00,9:50,6:00,9:50,6:00,11:50,8:00,11:50,8:00
+OFF,OFF,OFF,OFF,HLD,HLD,HLD,HLD,HLD,HLD,HLD,HLD,HLD,HLD
+,,,,,Hider,Closer
+Alex Medina
+10:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00,,,,,9:50,6:00
+2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,OFF,OFF,OFF,OFF,2nd,2nd
+,,,,,,
+Harrison Miller
+10:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00,,,,,9:50,6:00
+WHS,WHS,WHS,WHS,WHS,WHS,WHS,WHS,OFF,OFF,OFF,OFF,WHS,WHS
+,,,,,,
+Charlotte Nye
+,,,,12:30,4:30,3:15,6:00,12:30,4:30,2:30,8:00,,
+OFF,OFF,OFF,OFF,1st,1st,1st,1st,1st,1st,1st,1st,OFF,OFF
+,,,Hider,,,
+Miranda Post
+10:50,6:00,,,,,,,,,12:30,8:00,11:50,8:00
+1st,1st,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,1st,1st,1st,1st
+,,,,,,Hider
+Hannah Ryder
+10:50,6:00,,,,,,,,,,,9:50,6:00
+1st,1st,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,1st,1st
+,,,,,,
+Lauren Schmidt
+,,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00,,
+OFF,OFF,1st,1st,1st,1st,1st,1st,1st,1st,1st,1st,OFF,OFF
+,,Closer,,Closer,,
+Maggie Stevens
+,,9:50,5:00,9:50,5:00,12:00,5:00,,,,,,
+OFF,OFF,1st,1st,1st,1st,1st,1st,OFF,OFF,OFF,OFF,OFF,OFF
+,,,,,,
+Alyssa Zajan
+10:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00,,,,
+1st,1st,1st,1st,1st,1st,1st,1st,1st,1st,OFF,OFF,OFF,OFF
+,Hider,,,Hider,,

@@ -1,0 +1,279 @@
+/* CSS Document */
+body {
+    font-family: "Montserrat";
+    padding: 0;
+    margin: 0;
+}
+a {
+    text-decoration: none;
+    color: rgba(58,58,58,1.00);
+}
+a:hover {
+    color: rgba(108,0,1,1.00);
+}
+/*ID tags Alphabetical*/
+#container {
+    text-align: center;
+    display: block;
+    padding-top: 1%;
+    margin-left: auto;
+    margin-right: auto; 
+}
+.bottomlinks {
+    display: block;
+    margin-bottom: 3em;
+}
+.bottomlinks a{
+    display: block;
+    margin-top: .2em;
+    margin-bottom: .2em;
+    color: rgba(171,0,2,1.00);
+    font-size: 2em;
+    transition: 0.3s;
+}
+.bottomlinks a:hover{
+    color: rgba(228,0,2,1.00);
+}
+.disclineitem {
+    display: inline-flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 1.2em;
+	margin:0 0 .5em 0;
+	padding: 0 .5em 0 .5em;
+    background-color: rgba(255,100,100,1.00);
+	border-radius: 5px;
+	width: 100%;
+}
+.embolden {
+    font-family: MontserratBold;
+}
+.featuretitle {
+    margin: 2% 0 1% 0;
+    text-align: center;
+    font-size: 3em;
+    font-family: "MontserratBold";
+}
+.finaltotal {
+    display: inline-flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: baseline;
+    font-size: 1.6em;
+	padding: 0 .4em 0 .4em;
+    font-family: MontserratBold;
+	width: 100%;
+}
+.gclineitem {
+	display: inline-flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 1.2em;
+	margin:0 0 .5em 0;
+	padding: 0 .5em 0 .5em;
+    background-color: rgba(255,100,100,1.00);
+	border-radius: 5px;
+	width: 100%;
+}
+.itemcontainer {
+	width: 100%;
+    display: flex;
+    flex-direction: row;
+	padding: 1em 0;
+    font-family: "Montserrat", sans-serif;
+	border-bottom: 1px rgba(0,0,0,1.00) solid;
+}
+.invoice {
+    display: inline-block;
+    border-radius: 28px;
+    border: rgba(171,0,2,1.00) solid 1px;
+    background-color: rgba(255,255,255,1.00);
+    width: 50%;
+    padding: 2em;
+    text-align: center;
+}
+.lineitem {
+    display: inline-flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 1.2em;
+	padding: 0 .5em;
+    width: 100%;
+}
+
+.invlabels {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    font-family: "MontserratBold", sans-serif;
+    font-weight: bold;
+    margin-bottom: 1%;
+}
+.invlabeldesc {
+    width: 80%;
+    padding-left: 1%;
+    text-align: left;
+}
+.invlabelprice {
+    width: 10%;
+    text-align: center;
+}
+.invlabelquan {
+    width: 10%;
+    text-align: center;
+}
+.invdesc {
+    width: 80%;
+    padding-left: 1%;
+    text-align: left;
+}
+.invprice {
+    width: 10%;
+    text-align: center;
+}
+.invquan {
+    width: 10%;
+    text-align: center;
+	font-size: 1.5em;
+}
+.ordercomments {
+    text-align: left;
+    font: 1.2em;
+}
+.ordernumber {
+	text-align: right;
+	padding-right: .8em;
+	font-size: 1.5em;
+	font-family: MontserratBold;
+	margin-bottom: 2em;
+}
+.ordertotal {
+	display: inline-flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: baseline;
+    font-size: 1.2em;
+	padding: 0 .5em 0 .5em;
+    font-family: MontserratBold;
+	width: 100%;
+}
+.printbtn {
+	background-color: rgba(212,0,0,1.00);
+	border-radius: 5px;
+    border: none;
+	display: inline-block;
+	cursor: pointer;
+    font-size: 1.5em;
+    font-family: "MontserratBold";
+	color: rgba(255,255,255,1.00);
+    padding: .2em .5em;
+    margin: .5em 0 0 0;
+	text-decoration: none;
+    text-align: center;
+    transition: 0.3s;
+}
+.printbtn:hover {
+	background-color:rgba(230,230,230,1.00);
+    color: rgba(212,0,0,1.00);
+}
+.printbtn:active {
+	position:relative;
+	top:1px;
+}
+.totalline {
+    border-top: solid rgba(0,0,0,1.00) 1px;
+    width: 25%;
+    text-align: right;
+    color: rgba(212,0,0,1.00);
+}
+.totalsummary {
+    display: inline-flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 96%;
+	align-items: flex-end;
+    justify-content: flex-end;
+    text-align: left;
+    background-color: rgba(255,255,255,1.00);
+    padding: 1em 2em;
+    border-radius: 5px;
+    margin: 0 0 1em 0;
+}
+
+@media only screen and (max-width: 992px) {
+	body{
+		font-size: 1.5em;
+	}
+    .bottomlinks a{
+        margin-top: .5em;
+        font-size: 2.2em;
+    }
+	.invoice {
+		width: 85%;
+	}
+	.invlabeldesc {
+		width: 65%;
+	}
+	.invlabelprice {
+		width: 15%;
+	}
+	.invlabelquan {
+		width: 20%;
+	}
+	.invdesc {
+		width: 65%;
+	}
+	.invprice {
+		width: 15%;
+	}
+	.invquan {
+		width: 20%;
+	}
+	.orderinfo {
+		width: 36%;
+	}
+}
+@media print{
+	
+	.hiddenforprint {
+		display: none;
+	}
+	.invoice {
+		width: 90%;
+	}
+	.invlabeldesc {
+		width: 65%;
+	}
+	.invlabelprice {
+		width: 15%;
+	}
+	.invlabelquan {
+		width: 20%;
+	}
+	.invdesc {
+		width: 65%;
+	}
+	.invprice {
+		width: 15%;
+	}
+	.invquan {
+		width: 20%;
+	}
+	.orderinfo {
+		width: 36%;
+	}
+}
+.bottomnotes {
+	display: flex;
+	flex-direction: row;
+}
+
+.orderinfo {
+	padding: 1em;
+	width: 50%;
+}

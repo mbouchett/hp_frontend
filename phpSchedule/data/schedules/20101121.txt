@@ -1,0 +1,104 @@
+Gary Bevins
+,,,,,,,,,,,,,
+OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF
+,,,,thanksgiving-closed,,
+Angelie Bouchett
+,,9:50,6:00,,,9:50,6:00,,,9:50,6:00,,
+OFF,OFF,MZZ,1st,OFF,OFF,1st,1st,OFF,OFF,1st,1st,OFF,OFF
+,,,,thanksgiving-closed,,
+Betty Bouchett
+,,9:50,6:00,9:50,6:00,9:50,6:00,,,9:50,6:00,,
+OFF,OFF,OFC,OFC,OFC,OFC,OFC,OFC,OFF,OFF,OFC,OFC,OFF,OFF
+,,,,thanksgiving-closed,$,
+Carolle Bouchett
+,,,,,,,,,,,,,
+OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF
+,,,,thanksgiving-closed,,
+Francois Bouchett
+11:50,5:00,,,,,,,,,,,,
+WHS,WHS,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF
+,,,,thanksgiving-closed,,
+Frank Bouchett
+,,9:50,6:00,9:50,6:00,9:50,6:00,,,9:50,6:00,9:50,6:00
+OFF,OFF,1st,1st,HLD,1st,1st,1st,OFF,OFF,1st,1st,1st,1st
+,,,,thanksgiving-closed,,
+Mark Bouchett
+,,,,9:50,6:00,9:50,6:00,,,9:50,6:00,9:50,6:00
+OFF,OFF,OFF,OFF,MZZ,WHS,MZZ,WHS,OFF,OFF,WHS,WHS,WHS,WHS
+,,,,thanksgiving-closed,,
+Barbara Carlson
+11:50,5:00,11:50,8:00,9:50,6:00,9:50,6:00,,,,,9:50,6:00
+2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,OFF,OFF,OFF,OFF,2nd,2nd
+,Hider call Beth,,,thanksgiving-closed,,
+Sara  Champagne
+11:50,5:00,9:50,3:30,,,9:50,6:00,,,12:50,9:00,12:50,9:00
+1st,1st,HLD,HLD,OFF,OFF,HLD,HLD,OFF,OFF,HLD,HLD,HLD,HLD
+Closer,,,,thanksgiving-closed,Hider-Call Leigh,
+Lyndsay DeBord
+11:50,5:00,11:50,8:00,11:50,8:00,,,,,12:50,9:00,12:50,9:00
+MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,OFF,OFF,OFF,OFF,MZZ,MZZ,MZZ,MZZ
+Closer,,,,thanksgiving-closed,Closer,Hider-Call Ben
+Nicholas  Galante
+11:50,5:00,11:50,8:00,11:50,8:00,9:50,6:00,,,,,,
+HLD,HLD,1st,1st,1st,1st,1st,1st,OFF,OFF,OFF,OFF,OFF,OFF
+,,Hider-Call Beth,,thanksgiving-closed,,
+Ashley  Gamage
+11:50,5:00,11:50,8:00,3:30,8:00,3:30,6:00,,,,,,
+1st,1st,1st,1st,1st,1st,MZZ,MZZ,OFF,OFF,OFF,OFF,OFF,OFF
+,,,Hider-Call Beth,thanksgiving-closed,,
+Amber Gurney
+,,,,,,,,,,,,,
+OFF,OFF,OFF,OFF,OFF,OFF,HLD,HLD,OFF,OFF,OFF,OFF,OFF,OFF
+,,,,thanksgiving-closed,,
+Georgia Hendrickson
+,,,,,,9:50,6:00,,,9:50,6:00,9:50,6:00
+OFF,OFF,OFF,OFF,OFF,OFF,1st,1st,OFF,OFF,HLD,1st,HLD,1st
+,,,,thanksgiving-closed,,
+Ben Higgins
+11:50,5:00,9:00,5:00,11:50,8:00,,,,,12:50,9:00,12:50,9:00
+1st,1st,1st,1st,HLD,HLD,OFF,OFF,OFF,OFF,1st,1st,1st,1st
+$ ,vacuum ,,,thanksgiving-closed,,$ - Closer
+Teri Lacroix
+,,,,11:50,8:00,9:50,6:00,,,12:50,9:00,12:50,9:00
+OFF,OFF,OFF,OFF,2nd,2nd,2nd,2nd,OFF,OFF,2nd,2nd,2nd,2nd
+,,Closer,Closer,thanksgiving-closed,,
+Beth Lafountain
+,,9:00,9:00,9:00,4:00,9:00,4:00,,,9:00,9:00,,
+OFF,OFF,1st,HLD,1st,1st,1st,1st,OFF,OFF,1st,1st,OFF,OFF
+,$,,$,thanksgiving-closed,,
+Shawna Little
+11:50,5:00,9:50,6:00,,,,,,,9:50,6:00,9:50,6:00
+2nd,2nd,2nd,2nd,OFF,OFF,OFF,OFF,OFF,OFF,2nd,2nd,2nd,2nd
+Hider Call Beth,,,,thanksgiving-closed,,
+Kathryn  Long
+,,,,,,12:30,6:00,,,,,,
+OFF,OFF,OFF,OFF,OFF,OFF,MZZ,MZZ,OFF,OFF,OFF,OFF,1st,1st
+,,,,,,
+Jack Murphy
+11:50,8:00,,,,,,,,,,,11:00,7:00
+1st,1st,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,1st,1st
+,,,,thanksgiving-closed,,
+Leigh Studley
+,,,,9:50,6:00,9:50,4:00,,,9:00,5:00,9:50,6:00
+OFF,OFF,OFF,OFF,1st,1st,1st,1st,OFF,OFF,1st,1st,1st,1st
+,,$,,thanksgiving-closed,vacuum,
+ x1STx
+4,,3,2,2,2,3,2,2,2,2,2,2,2
+1st,1st,1st,1st,1st,1st,1st,1st,1st,1st,1st,1st,1st,1st
+,,,,,,
+ x2NDx
+2,,1,1,1,1,1,1,1,1,1,1,2,1
+2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd
+,,,,,,
+ xHLDSx
+1,,1,1,1,1,1,1,1,1,1,1,1,1
+HLD,HLD,HLD,HLD,HLD,HLD,HLD,HLD,HLD,HLD,HLD,HLD,HLD,HLD
+,,,,,,
+ xMEZZx
+1,,1,1,1,1,1,1,1,1,1,1,1,1
+MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ
+,,,,,,
+ xWHSx
+1,,1,,1,,1,,1,,1,,1,
+WHS,WHS,WHS,WHS,WHS,WHS,WHS,WHS,WHS,WHS,WHS,WHS,WHS,WHS
+,,,,,,

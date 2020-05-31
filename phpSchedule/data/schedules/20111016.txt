@@ -1,0 +1,88 @@
+Angelie Bouchett
+,,,,11:50,8:00,9:50,6:00,9:50,6:00,9:50,6:00,,
+OFF,OFF,OFF,OFF,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,OFF,OFF
+,,Hider,,,,
+Betty Bouchett
+,,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00,,
+OFF,OFF,OFC,OFC,OFC,OFC,OFC,OFC,OFC,OFC,OFC,OFC,OFF,OFF
+,,,,,,
+Carolle Bouchett
+,,,,,,,,9:50,6:00,,,,
+OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF
+,,,,,,
+Francois Bouchett
+,,,,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00
+OFF,OFF,OFF,OFF,1st,1st,1st,1st,WHS,WHS,1st,1st,1st,1st
+,,,,,Front Reg 10-12,
+Frank Bouchett
+,,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00,,
+OFF,OFF,MZZ,OFF,MZZ,OFF,OFF,OFF,OFF,OFF,HLD,OFF,OFF,OFF
+,,,,,,
+Mark Bouchett
+,,,,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00
+OFF,OFF,OFF,OFF,HLD,HLD,1st,OFF,OFF,OFF,1st,OFF,MZZ,1st
+,,,,,,
+Barbara Carlson
+11:50,5:00,11:50,8:00,9:50,6:00,9:50,6:00,,,,,9:50,6:00
+2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,OFF,OFF,OFF,OFF,2nd,2nd
+,Hider,,,,,
+Georgia Hendrickson
+,,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00,,,,
+OFF,OFF,MZZ,OFC,OFC,OFC,HLD,1st,HLD,1st,OFF,OFF,OFF,OFF
+,Mezz 10-12,Office,,,,
+Ben Higgins
+,,,,,,,,,,,,,
+OFF,OFF,VCA,VCA,VCA,VCA,VCA,VCA,VCA,VCA,VCA,VCA,OFF,OFF
+,,,,,,
+Teri Lacroix
+,,,,11:50,8:00,11:50,8:00,11:50,8:00,11:50,8:00,11:50,8:00
+OFF,OFF,OFF,OFF,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd
+,,,Closer,,,Closer
+Shawna Little
+11:50,5:00,9:50,6:00,,,,,9:50,6:00,9:50,6:00,9:50,6:00
+2nd,2nd,2nd,2nd,OFF,OFF,OFF,OFF,2nd,2nd,2nd,2nd,2nd,2nd
+Hider,,,,,,
+Kathryn  Long
+11:50,5:00,,,,,,,,,,,,
+1st,1st,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF
+,,,,,,
+Sara  Longo
+11:50,5:00,11:50,8:00,11:50,8:00,,,,,11:50,8:00,11:50,8:00
+1st,1st,1st,1st,1st,1st,OFF,OFF,OFF,OFF,HLD,HLD,HLD,HLD
+Closer $,,,,,Closer,$
+Jason Provencher
+,,9:50,8:00,9:50,8:00,9:50,6:00,,,9:50,6:00,9:50,6:00
+OFF,OFF,WHS,WHS,WHS,WHS,WHS,WHS,OFF,OFF,WHS,WHS,WHS,WHS
+,,,,,,
+Stephanie Riggs
+,,9:50,6:00,,,11:50,8:00,11:50,8:00,11:50,8:00,9:50,6:00
+OFF,OFF,1st,1st,VCA,VCA,HLD,HLD,HLD,HLD,1st,MZZ,1st,1st
+,For Leigh,,Hider,,,
+Ana  Rodriguez
+,,,,,,,,,,,,9:50,6:00
+OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,1st,1st
+,,,,,,
+Curtis Salata-Hartman
+11:50,5:00,,,1:00,8:00,1:00,8:00,1:00,8:00,,,11:50,8:00
+1st,1st,VCA,VCA,1st,1st,1st,MZZ,1st,MZZ,OFF,OFF,MZZ,MZZ
+,,,,Hider,,
+Quentin  Savage
+11:50,5:00,,,,,5:00,8:00,5:00,8:00,,,11:50,8:00
+1st,1st,OFF,OFF,OFF,OFF,1st,1st,1st,1st,OFF,OFF,1st,1st
+,,,,,,
+Leigh Studley
+,,,,9:50,6:00,9:50,6:00,9:30,5:30,11:50,8:00,,
+OFF,OFF,VCA,VCA,1st,1st,1st,1st,1st,1st,1st,1st,OFF,OFF
+,,$,$,,$,
+Brynna Thomas
+11:50,5:00,,,,,,,,,,,,
+1st,1st,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF
+,,,,,,
+Rose Vallesio
+11:50,5:00,1:00,8:00,,,,,,,,,,
+HLD,HLD,HLD,HLD,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF
+,,,,,,
+Erica Wilson
+,,11:50,8:00,11:50,8:00,11:50,8:00,11:50,8:00,11.50,8:00,,
+OFF,OFF,MZZ,MZZ,1st,1st,1st,1st,2nd,1st,2nd,1st,VCA,VCA
+,For Curtis,,,,,

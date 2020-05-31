@@ -1,0 +1,213 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+ a:visited { color: #000000; text-decoration: none; background: transparent;}
+ a:link { color: #000000; text-decoration: none; background: transparent;}
+ a:active { color: #000000; text-decoration: none; background: transparent;}
+ a:hover { color: #CC0000; text-decoration: none; background: transparent;}
+body{ background-color: #FFFF88;}
+h3{
+    display: inline;
+    font-family: Arial;
+    color: #CC0000;
+    font-size: 14px;
+}
+table{ border-collapse: collapse; }
+#layhead{
+  background-color: #000000;
+  color: #FFFFFF;
+  margin-bottom: 2px;
+}
+#addLayItem{
+  position: fixed;
+  top: 200px;
+  left: 75px;
+  visibility: hidden;
+  margin: auto;
+  height: 100px;
+  width: 450px;
+  background-color: #FFFFFF;
+  border: solid thin outset #000000;
+  z-index: 8750;
+  border-radius: 5px;
+  text-align: center;
+}
+#addLayItem table{ margin: auto;}
+#addLayPay{
+  position: fixed;
+  top: 200px;
+  left: 25px;
+  visibility: hidden;
+  margin: auto;
+  height: 100px;
+  width: 550px;
+  background-color: #FFFFFF;
+  border: solid thin outset #000000;
+  z-index: 8751;
+  border-radius: 5px;
+  text-align: center;
+}
+#addLayPay table{ margin: auto;}
+#alert{
+    position: fixed;
+    top: 300px;
+    left: 130px;
+    text-align: center;
+    font-family: Arial;
+    font-weight: bold;
+    color: #CC0000;
+    font-size: 36px;
+}
+#paid{
+  position: fixed;
+  top: 150px;
+  left: 150px;
+  opacity: .50;
+}
+
+.laynum{
+  float: right;
+  margin-right: 10px;
+  margin-top: 10px;
+  text-align: center;
+  font-family: Arial Black;
+  font-size: 24px;
+}
+.layname{
+  float: right;
+  margin-right: 10px;
+  text-align: right;
+  font-family: Arial;
+  font-size: 14px;
+}
+.unList{
+  display: inline-block;
+  margin-left: 5px;
+}
+.unList li{
+  display: inline;
+  background-color: #CCFF66;
+  border: solid thin #0000FF;
+  padding: 2px;
+  cursor: pointer;
+}
+.unList li:hover{
+  background-color: #FF66CC;
+  font-weight: bold;
+}
+.blackout {
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  background: #003300;
+  opacity: .65;
+  z-index: 8500;
+  visibility: hidden;
+}
+.lays{
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 20px;
+  border: solid thin #999966;
+  box-shadow: 2px 2px 2px 2px #CCCC55;
+  background-color: #FFFFFF;
+  max-height: 130px;
+  overflow: auto;
+}
+.lays table{ margin: auto;}
+.lays h1{ text-align: center;}
+.pays{
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 20px;
+  border: solid thin #999966;
+  box-shadow: 2px 2px 2px 2px #CCCC55;
+  background-color: #FFFFFF;
+  overflow: auto;
+  max-height: 130px;
+}
+.pays table{
+  margin: auto;
+  width: 90%;
+  text-align: center;
+}
+.pays h1{ text-align: center;}
+.tHead{
+  border-bottom: 1px solid #000000;
+  font-weight: bold;
+  text-align: center;
+}
+.money{ text-align: right; }
+#receipt{
+  position: fixed;
+  top: 25px;
+  left: 250px;
+  font-family: Arial;
+  font-size: 10px;
+  color: #CCFFFF;
+}
+#laydep {
+	margin-left: 5px;
+	width: 50px;
+	border: 1px solid;
+	font-size: 10px;
+	background-color: transparent;
+}
+#laydesc {
+	margin-left: 5px;
+	width: 175px;
+	border: 1px solid;
+	font-size: 10px;
+	background-color: transparent;
+}
+#layqty {
+	margin-left: 5px;
+	width: 30px;
+	border: 1px solid;
+	font-size: 10px;
+	background-color: transparent;
+}
+#layprice {
+	margin-left: 5px;
+	width: 70px;
+	border: 1px solid;
+	font-size: 10px;
+	background-color: transparent;
+}
+#pay_date {
+	margin-left: 5px;
+	width: 90px;
+	border: 1px solid;
+	font-size: 10px;
+	background-color: transparent;
+}
+
+#paytrans {
+	margin-left: 5px;
+	width: 70px;
+	border: 1px solid;
+	font-size: 10px;
+	background-color: transparent;
+}
+#pay_type {
+	margin-left: 5px;
+	width: 90px;
+	border: 1px solid;
+	font-size: 10px;
+	background-color: transparent;
+}
+#pay_amount {
+	margin-left: 5px;
+	width: 70px;
+	border: 1px solid;
+	font-size: 10px;
+	background-color: transparent;
+}
+#pay_employee {
+	margin-left: 5px;
+	width: 50px;
+	border: 1px solid;
+	font-size: 10px;
+	background-color: transparent;
+}

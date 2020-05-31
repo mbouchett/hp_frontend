@@ -1,0 +1,55 @@
+/* CSS Document */
+
+body {
+    font-family: "Montserrat";
+    padding: 0;
+    margin: 0;
+}
+a {
+    text-decoration: none;
+}
+
+/*ID tags Alphabetical*/
+#createregcontainer {
+    text-align: center;
+    display: block;
+    padding-top: 1%;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+/*Classes Alphabetical*/
+
+
+.link {
+    color: rgba(171,0,2,1.00);
+    transition: 0.3s;
+}
+.link:hover{
+    color: rgba(228,0,2,1.00);
+}
+
+.featuretitle {
+    margin: 2% 0 1% 0;
+    text-align: center;
+    font-size: 3em;
+    font-family: "MontserratBold";
+    
+}
+.checkforsigninform {
+    display: inline-block;
+    border-radius: 28px;
+    border: rgba(171,0,2,1.00) solid 1px;
+    width: 50%;
+    padding: 2em;
+    text-align: center;
+}
+
+
+
+@media only screen and (max-width: 992px) {
+   
+    .checkforsigninform {
+        width: 90%;
+    }
+}

@@ -1,0 +1,339 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*These Values are universal an will not need to change based on screen size */
+/*Global Tags*/
+a {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: "Montserrat";
+}
+
+/*IDs Alphabetical*/
+#feature {
+    flex: auto;
+}
+
+
+/*Classes Alphabetical*/
+.addtocartbtn {
+	background-color: rgba(212,0,0,1.00);
+	border-radius: 5px;
+    border: none;
+	display: inline-block;
+	cursor: pointer;
+    padding: .2em 0;
+    font-size: .6em;
+    width: 100%;
+    font-family: "MontserratBold";
+	color: rgba(255,255,255,1.00);
+    margin: 1em 0 0 0;
+	text-decoration: none;
+    text-align: center;
+    transition: 0.3s;
+}
+.addtocartbtn:hover {
+	background-color:rgba(225,225,225,1.00);
+    color: rgba(212,0,0,1.00);
+}
+.addtocartbtn:active {
+	position:relative;
+	top:1px;
+}
+.addtoregbtn {
+	background-color: rgba(0,195,253,1.00);
+	border-radius: 5px;
+    border: none;
+	display: inline-block;
+	cursor: pointer;
+    padding: .2em 0;
+    font-size: .5em;
+    width: 100%;
+    font-family: "MontserratBold";
+	color: rgba(255,255,255,1.00);
+    margin: .5em 0 0 0;
+	text-decoration: none;
+    text-align: center;
+    transition: 0.3s;
+}
+.addtoregbtn:hover {
+	background-color:rgba(225,225,225,1.00);
+    color: rgba(212,0,0,1.00);
+}
+.addtoregbtn:active {
+	position:relative;
+	top:1px;
+}
+.addtowishbtn {
+	background-color: rgba(150,150,150,1.00);
+	border-radius: 5px;
+    border: none;
+	display: inline-block;
+	cursor: pointer;
+    padding: .2em 0;
+    font-size: .5em;
+    width: 100%;
+    font-family: "MontserratBold";
+	color: rgba(255,255,255,1.00);
+    margin: .5em 0 0 0;
+	text-decoration: none;
+    text-align: center;
+    transition: 0.3s;
+}
+.addtowishbtn:hover {
+	background-color:rgba(225,225,225,1.00);
+    color: rgba(212,0,0,1.00);
+}
+.addtowishbtn:active {
+	position:relative;
+	top:1px;
+}
+.bold {
+    font-family: "MontserratBold", sans-sarif;
+}
+.deptitemcontainer img{
+    width: 100%;
+    vertical-align: middle;
+    border-radius: 50%;
+    border: rgba(0,0,0,0.00) solid .2em;
+}
+.deptitemcontainer img:hover {
+    border: rgba(255,0,0,1.00) solid .2em;
+}
+.deptitemcontainer {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 3em;
+}
+.deptlabel {
+    font-family: "MontserratBold", sans-serif;
+    font-size: 2.5em;
+    margin-top: .2em;
+}
+.deptitem {
+    border-radius: 50%;
+    flex: 22%;
+    text-align: center;
+    font-size: 1em;
+    margin: .5%; 
+    max-width: 24%;
+}
+.emptylikesmsg {
+    font-size: 3em;
+    text-align: center;
+    width: 100%;
+    margin:12% 0;
+}
+.item {
+    background-color: rgba(240,240,240,1.00);
+    position: relative;
+    flex: 1 1 auto;
+    text-align: center;
+    font-size: 2em;
+    margin: 1% 0px;
+    padding: .5em;
+    min-width: 20%;
+    max-width: 20%;
+}
+.item:hover {
+    background-color:rgba(200,200,200,1.00);
+    box-shadow: 0px 4px 5px -2px rgba(0,0,0,0.50);
+}
+.itembtns{
+    width: 100%;
+    display: inline-block;
+}
+.itemcontainer img{
+    width: 100%;  
+}
+.itemcontainer {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.itemdescription {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 100%;
+    font-size: .5em;
+    text-align: left;
+}
+.itemdescription:hover {
+    overflow: visible;
+    white-space: normal;
+}
+.likebtn {
+    position: absolute;
+    right:5px;
+    top:0px;
+    color: rgba(212,0,0,0.80);
+}
+.navbar {
+    display: block;
+    font-size: 2em;
+    margin: 1em auto;
+	width: 100%;
+}
+.navbtn{
+    background-color: rgba(255,255,255,1.00);
+	border-radius: 5px;
+	display: inline-block;
+	cursor: pointer;
+    padding: 0px 10px;
+    font-family: "Montserrat";
+	color: rgba(212,0,0,1.00);
+	text-decoration: none;
+    text-align: center;
+}
+.navbtn:hover {
+	background-color:rgba(230,230,230,1.00);
+}
+.navbtn:active {
+	position:relative;
+	top:1px;
+}
+
+.pagebtn{
+    background-color: rgba(230,230,230,1.00);
+	border-radius: 5px;
+	display: inline-block;
+	cursor: pointer;
+    padding: 0px 10px;
+    font-family: "Montserrat";
+	color: rgba(212,0,0,1.00);
+	text-decoration: none;
+    text-align: center;
+}
+.pagebtn:hover {
+	background-color: rgba(255,255,255,1.00);
+}
+.pagebtn:active {
+	position:relative;
+	top:1px;
+}
+.pagecontainer {
+    display: block;
+    padding-top: 1%;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto; 
+}
+.pagetitle {
+    margin: 2% 0 1% 0;
+    text-align: center;
+    font-size: 4em;
+    font-family: "MontserratBold"
+}
+.pricetag {
+    font-family: "MontserratBold", sans-serif;
+    font-size: 2vw;
+    margin-top: .2em;
+    text-align: left;
+    color: rgba(230,0,0,1.00);
+}
+.productlink {
+    color: rgba(0,0,0,1.00);
+}
+.regprice {
+    font-size: .6em;
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    text-align: left;
+    display: block;
+    color: rgba(0,0,0,1.00);
+}
+.strike {
+    text-decoration: line-through;
+}
+.select {
+    border: solid 2px rgba(212,0,0,1.00);
+}
+.subtext {
+    font-size: .4em;
+    margin-left: 2em;
+}
+.subtitle {
+    margin: 3% 0 1% 0;
+    text-align: center;
+    font-size: 3em;
+}
+.subtitle a{
+    color:rgba(58,58,58,1.00);
+}
+.subtitle a:hover{
+    color: rgba(108,0,1,1.00);
+}
+/* Large devices (phones, 992px and down) Changes for MOBILE go Here */
+@media only screen and (max-width: 992px) {
+    .hiddenformobile {
+       position: absolute !important;
+       top: -9999px !important;
+       left: -9999px !important;
+    }
+    .addtocartbtn {
+        font-size: 1.5em;
+    }
+    .addtoregbtn {
+        font-size: 1em;
+    }
+    .addtowishbtn {
+        font-size: 1em;
+    }
+    .deptitem {
+        border-radius: 50%;
+        flex: 47%;
+        max-width: 50%;
+    }
+    .deptlabel {
+        font-family: "MontserratBold", sans-serif;
+        font-size: 4em;
+        margin-top: .2em;
+    }
+    .item {
+        flex: 47%;
+        max-width: 43%;
+        background-color: rgba(200,200,200,1.00);
+        margin-bottom: 2%;
+    }
+    .itemdescription {
+        font-size: 1em;
+    }
+    .likebtn {
+        font-size: 2em;
+    }
+    .pagecontainer {
+        padding-top: 1%;
+        width: 98%;
+    }
+    .pagebtn {
+        font-size: 2em;
+    }
+    .pricetag {
+        font-size: 1.8em;
+    }
+	.navbar {
+		
+		text-align: center;
+	}
+    .navbtn {
+        font-size: 2em;
+    }
+}
+
+/* Large devices (laptops/desktops, 992px and up) Changes for DESKTOP go Here */
+@media only screen and (min-width: 992px) {
+    .hiddenfordesktop {
+        position: absolute !important;
+        top: -9999px !important;
+        left: -9999px !important;
+    }
+}

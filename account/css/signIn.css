@@ -1,0 +1,124 @@
+/* CSS Document */
+
+body {
+    font-family: "Montserrat";
+    padding: 0;
+    margin: 0;
+}
+a {
+    text-decoration: none;
+}
+
+/*ID tags Alphabetical*/
+#signincontainer {
+    text-align: center;
+    display: block;
+    padding-top: 1%;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+/*Classes Alphabetical*/
+.alert {
+    font-size: 2em;
+    font-family: "MontserratBold";
+    color: rgba(171,0,2,1.00);
+}
+.featuretitle {
+    margin: 2% 0 1% 0;
+    text-align: center;
+    font-size: 3em;
+    font-family: "MontserratBold";
+}
+.instructions {
+    font-size: 2em;
+    font-family: "MontserratBold";   
+}
+.signinbtn {
+	background-color: rgba(255,255,255,1.00);
+	border-radius: 5px;
+	display: inline-block;
+	cursor: pointer;
+    font-size: 2em;
+    font-family: "MontserratBold";
+	color: rgba(212,0,0,1.00);
+    padding: .2em 2em .2em 2em;
+    margin: 0em 0em 0em 0em;
+	text-decoration: none;
+    text-align: center;
+    min-width: 3%;
+    transition: 0.3s;
+    border: none;
+}
+.signinbtn:hover {
+	background-color:rgba(230,230,230,1.00);
+}
+.signinbtn:active {
+	position:relative;
+	top:1px;
+}
+.signinform {
+    display: inline-block;
+    border-radius: 28px;
+    border: rgba(171,0,2,1.00) solid 1px;
+    background-color: rgba(211,211,211,1.00);
+    width: 50%;
+    padding: 2em;
+}
+.signinform input[type="text"]{
+    padding: .2em;
+    margin: .5em 0 1em 0;
+    border-radius: 5px;
+    vertical-align: middle;
+    width: 90%;
+    font-size: 2em;
+    border: none;
+    text-align: center;
+    display: inline-block;
+}
+
+.signinform input[type="password"]{
+    padding: .2em;
+    margin: .0 0 1em 0;
+    border-radius: 5px;
+    vertical-align: middle;
+    width: 90%;
+    font-size: 2em;
+    border: none;
+    text-align: center;
+    -webkit-transition: width 1s; /* Safari */
+    transition: width 1s;
+    display: inline-block;
+}
+.signinform input[type="submit"]{
+    display: none;
+}
+.signinlinks {
+    display: block;
+    margin-bottom: 3em;
+}
+.signinlinks a{
+    display: block;
+    margin-top: .2em;
+    margin-bottom: .2em;
+    color: rgba(171,0,2,1.00);
+    font-size: 2em;
+    transition: 0.3s;
+}
+.signinlinks a:hover{
+    color: rgba(228,0,2,1.00);
+}
+@media only screen and (max-width: 992px) {
+    .signinbtn {
+        font-size: 4em;
+    }
+    .signinform {
+        width: 90%;
+    }
+    .signinform input[type="text"]{
+        font-size: 4em;
+    }
+    .signinform input[type="password"]{
+        font-size: 4em;
+    }
+}

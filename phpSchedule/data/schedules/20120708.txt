@@ -1,0 +1,84 @@
+NEW HIRE 
+,,,,9:50,6:00,11:50,8:00,11:50,8:00,11:50,8:00,11:50,8:00
+OFF,OFF,OFF,OFF,MZZ,1st,1st,MZZ,1st,1st,1st,HLD,1st,HLD
+,,,,,,
+Angelie Bouchett
+,,,,11:50,8:00,9:50,6:00,9:50,6:00,,,9:50,6:00
+OFF,OFF,OFF,OFF,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,OFF,OFF,MZZ,MZZ
+,,Hider,,,,
+Betty Bouchett
+,,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00,,
+OFF,OFF,OFC,OFC,OFC,OFC,OFC,OFC,OFC,OFC,OFC,OFC,OFF,OFF
+,,,,,,
+Carolle Bouchett
+,,,,,,,,9:50,6:00,,,,
+OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF
+,,,,,,
+Francois Bouchett
+,,,,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00
+OFF,OFF,OFF,OFF,WHS,WHS,WHS,WHS,WHS,WHS,WHS,WHS,WHS,WHS
+,,,,,,
+Frank Bouchett
+,,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00,,
+OFF,OFF,MZZ,OFF,OFF,OFF,OFF,OFF,OFF,OFF,MZZ,OFF,OFF,OFF
+,,,,,,
+Mark Bouchett
+,,,,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00
+OFF,OFF,OFF,OFF,OFF,OFF,HLD,OFF,HLD,OFF,OFF,OFF,OFF,OFF
+,,,,,,
+Julian Calleja
+11:50,5:00,9:50,6:00,11:50,8:00,11:50,8:00,9:50,6:00,,,,
+1st,1st,1st,1st,1st,1st,1st,1st,1st,1st,OFF,OFF,OFF,OFF
+Hider,,,Hider,,,
+Barbara Carlson
+11:50,5:00,11:50,8:00,,,,,,,,,,
+2nd,2nd,2nd,2nd,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF
+,,,,,,
+Lindsay Colbert
+11:50,5:00,9:50,6:00,11:50,8:00,,,,,,,,
+1st,1st,1st,1st,1st,1st,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF
+,,,,,,
+Kristen Currier
+,,,,11:50,8:00,9:50,6:00,9:50,6:00,11:50,8:00,12:50,8:00
+OFF,OFF,OFF,OFF,1st,1st,1st,1st,1st,1st,1st,1st,1st,1st
+,,,,,Hider,
+Justine Henault
+11:50,5:00,6:00,8:00,,,,,6:00,8:00,,,9:50,6:00
+HLD,HLD,HLD,HLD,OFF,OFF,OFF,OFF,HLD,HLD,OFF,OFF,HLD,HLD
+,,,,,,
+Georgia Hendrickson
+,,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00,,,,
+OFF,OFF,OFC,OFC,OFC,OFC,1st,1st,1st,1st,OFF,OFF,OFF,OFF
+,,,,,,
+Ben Higgins
+,,9:00,5:00,9:50,6:00,11:50,8:00,11:50,8:00,9:00,5:00,,
+OFF,OFF,HLD,HLD,HLD,HLD,HLD,HLD,HLD,1st,HLD,HLD,OFF,OFF
+,Vacuum,,Closer,Hider,Vacuum,
+Teri Lacroix
+,,,,11:50,8:00,11:50,8:00,11:50,8:00,11:50,8:00,11:50,8:00
+OFF,OFF,OFF,OFF,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd
+,,Closer,,Closer,Closer,
+Shawna Little
+11:50,3:00,9:50,1:00,,,,,9:50,1:00,9:50,1:00,,
+2nd,2nd,2nd,2nd,OFF,OFF,OFF,OFF,2nd,2nd,2nd,2nd,OFF,OFF
+,,,,,,
+Sara  Longo
+11:50,5:00,,,,,7:00,10:00,,,7:00,10:00,9:50,6:00
+1st,1st,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,1st,1st
+Closer,,,Vacuum,,,
+Stephanie Riggs
+,,11:50,8:00,9:50,6:00,9:50,6:00,9:50,6:00,,,11:50,8:00
+OFF,OFF,1st,1st,1st,1st,1st,2nd,1st,2nd,OFF,OFF,2nd,2nd
+,Closer,,,,,Closer
+Derek Spear
+,,,,,,2:00,6:00,2:00,6:00,11:50,8:00,,
+OFF,OFF,OFF,OFF,OFF,OFF,1st,1st,1st,1st,1st,1st,OFF,OFF
+,,,,,,
+Jonathan Topol
+11:50,5:00,11:50,8:00,,,,,11:50,8:00,9:50,6:00,11:50,8:00
+1st,1st,1st,1st,OFF,OFF,OFF,OFF,2nd,MZZ,2nd,2nd,2nd,MZZ
+,Hider,,,,,Hider
+Rose Vallesio
+11:50,5:00,,,,,,,,,11:00,7:00,11:00,7:00
+1st,1st,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,1st,1st,1st,1st
+,,,,,,

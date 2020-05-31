@@ -1,0 +1,104 @@
+Hayley Adams
+10:50,6:00,11:50,8:00,9:50,6:00,9:50,2:00,T,T,,,,
+1st,1st,1st,1st,1st,1st,1st,1st,1st,1st,OFF,OFF,OFF,OFF
+,,,,,,
+Shawna Bevins
+,,,,9:50,6:00,9:50,6:00,H,H,9:50,6:00,9:50,6:00
+OFF,OFF,OFF,OFF,2nd,2nd,2nd,2nd,WHS,WHS,2nd,2nd,2nd,2nd
+,,,,,,
+Angelie Bouchett
+,,9:00,6:00,,,9:50,6:00,A,A,7:50,4:00,,
+OFF,OFF,NOF,NOF,OFF,OFF,NOF,NOF,CVR,CVR,NOF,NOF,OFF,OFF
+,,,,,,
+Carolle Bouchett
+,,,,,,,,N,N,,,,
+OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,1st,1st,OFF,OFF,OFF,OFF
+,,,,,,
+Francois Bouchett
+10:50,6:00,,,,,9:50,6:00,K,K,7:50,6:00,7:50,6:00
+1st,1st,OFF,OFF,OFF,OFF,NOF,NOF,WHS,WHS,1st,1st,1st,1st
+Closer,,,,,,
+Jenny Brown
+10:50,6:00,11:50,8:00,9:50,6:00,,,S,S,12:50,9:00,11:50,8:00
+1st,1st,HLD,HLD,VCA,VCA,VCA,VCA,1st,1st,VCA,VCA,VCA,VCA
+,Closer,,,,,
+Keegan Buckley
+,,,,,,9:50,6:00,,,,,,
+OFF,OFF,OFF,OFF,OFF,OFF,VCA,VCA,1st,1st,OFF,OFF,OFF,OFF
+,,,,,,
+Anna Buhrmaster
+10:50,6:00,2:30,8:00,,,9:50,6:00,G,G,11:50,8:00,7:50,4:00
+1st,1st,1st,1st,OFF,OFF,1st,1st,WHS,WHS,1st,1st,1st,1st
+,,,,,,
+Alexa Delorge
+10:50,6:00,9:50,2:50,,,,,I,I,,,9:50,2:00
+MZZ,MZZ,MZZ,MZZ,OFF,OFF,OFF,OFF,CVR,CVR,OFF,OFF,MZZ,MZZ
+,,,,,,
+Ana DiMarino
+,,9:50,6:00,11:50,8:00,9:50,6:00,V,V,7:50,4:00,,
+OFF,OFF,1st,1st,1st,1st,1st,1st,1st,1st,1st,1st,OFF,OFF
+,,Hider,,,,
+Jesse Foote
+,,9:50,6:00,,,9:50,6:00,I,I,9:50,6:00,9:50,6:00
+OFF,OFF,WHS,WHS,OFF,OFF,WHS,WHS,WHS,WHS,VCA,VCA,WHS,WHS
+,,,,,,
+Jessie Holmes
+,,11:50,8:00,9:50,6:00,9:50,6:00,N,N,,,,
+OFF,OFF,1st,1st,1st,1st,1st,1st,1st,1st,OFF,OFF,OFF,OFF
+,Hider,,,,,
+Jade Humphreys
+,,9:50,2:00,,,9:50,2:00,G,G,,,,
+VCA,VCA,VCA,VCA,VCA,VCA,VCA,VCA,WHS,WHS,VCA,VCA,VCA,VCA
+,,,,,,
+Camille Koosman
+10:50,6:00,11:50,8:00,,,9:50,6:00,,,12:50,9:00,12:50,9:00
+1st,1st,1st,1st,OFF,OFF,1st,1st,CVR,CVR,1st,1st,1st,1st
+,,,,,,Hider
+Teri Lacroix
+11:50,6:00,12:50,8:00,,,,,D,D,12:50,9:00,12:50,9:00
+2nd,2nd,2nd,2nd,OFF,OFF,OFF,OFF,1st,1st,2nd,2nd,2nd,2nd
+,,,,,,Closer
+Taryn Maitland
+10:50,6:00,,,,,9:50,6:00,A,A,7:50,2:00,7:50,4:00
+1st,1st,OFF,OFF,OFF,OFF,1st,1st,WHS,WHS,1st,1st,1st,1st
+Hider,,,,,,
+Megan Majonen
+,,,,,,,,Y,Y,12:50,9:00,12:50,9:00
+OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,CVR,CVR,1st,1st,1st,1st
+,,,,,,
+Geoff Matthews
+10:50,6:00,9:50,6:00,11:50,8:00,9:50,6:00,!,!,,,9:50,6:00
+2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,1st,1st,OFF,OFF,2nd,2nd
+,,Closer,,,,
+Olivia Matthews
+,,,,,,,,!,!,12:50,9:00,11:50,8:00
+OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,WHS,WHS,1st,1st,1st,1st
+,,,,,Hider,
+Amanda Richard
+,,,,11:50,8:00,9:50,6:00,!,!,12:50,9:00,7:50,4:00
+OFF,OFF,OFF,OFF,MZZ,MZZ,MZZ,MZZ,CVR,CVR,MZZ,MZZ,MZZ,MZZ
+,,,,,Closer,
+Stephanie Riggs
+,,9:50,6:00,,,,,!,!,9:50,2:00,9:50,6:00
+OFF,OFF,2nd,2nd,OFF,OFF,OFF,OFF,1st,1st,OFF,OFF,2nd,2nd
+,,,,,,
+Lauren Schmidt
+10:50,6:00,11:50,8:00,11:50,8:00,9:50,6:00,!,!,,,12:50,9:00
+1st,1st,1st,1st,1st,1st,1st,1st,WHS,WHS,OFF,OFF,1st,1st
+,,,,,,
+Brian Shepard
+10:50,6:00,,,,,,,!,!,,,,
+WHS,WHS,OFF,OFF,OFF,OFF,OFF,OFF,CVR,CVR,OFF,OFF,OFF,OFF
+,,,,,,
+Derek Spear
+,,9:50,12:00,10:20,6:00,9:50,6:00,,,9:50,6:00,,
+OFF,OFF,1st,1st,1st,1st,1st,1st,1st,1st,1st,1st,OFF,OFF
+,,,,,,
+Maggie Stevens
+,,,,,,,,,,12:50,9:00,12:50,9:00
+OFF,OFF,OFF,OFF,VCA,VCA,OFF,OFF,WHS,WHS,1st,1st,1st,1st
+,,,,,,
+Toby Wasserman
+,,11:50,8:00,9:50,6:00,9:50,6:00,,,7:50,4:00,,
+OFF,OFF,VCA,VCA,VCA,VCA,1st,1st,CVR,CVR,1st,1st,OFF,OFF
+,,,,,,

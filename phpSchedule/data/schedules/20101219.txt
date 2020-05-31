@@ -1,0 +1,108 @@
+Extra Hours Available
+,,,,,,,,,,9:50,6:00,,
+1st,1st,1st,1st,1st,1st,1st,1st,1st,1st,1st,1st,OFF,OFF
+,,Sarah,,,Angelie,Christmas Closed
+Angelie Bouchett
+10:50,6:00,9:50,6:00,,,,,,,9:50,6:00,,
+1st,1st,MZZ,1st,OFF,OFF,OFF,OFF,OFF,OFF,1st,1st,OFF,OFF
+,,,,,,Christmas Closed
+Betty Bouchett
+,,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00,,
+OFF,OFF,OFC,OFC,OFC,OFC,OFC,OFC,OFC,OFC,OFC,OFC,OFF,OFF
+,,,,,,Christmas Closed
+Carolle Bouchett
+,,,,,,,,9:50,6:00,,,,
+OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFC,OFC,OFF,OFF,OFF,OFF
+,,,,,,Christmas Closed
+Francois Bouchett
+10:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00,,,,,,
+WHS,WHS,WHS,WHS,WHS,WHS,WHS,WHS,OFF,OFF,OFF,OFF,OFF,OFF
+,,,,,,Christmas Closed
+Frank Bouchett
+,,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00,,
+OFF,OFF,1st,1st,HLD,1st,1st,1st,MZZ,1st,1st,1st,OFF,OFF
+,,,,,,Christmas Closed
+Mark Bouchett
+,,,,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00,,
+OFF,OFF,OFF,OFF,MZZ,1st,MZZ,1st,MZZ,WHS,WHS,WHS,OFF,OFF
+,,,,,,Christmas Closed
+Barbara Carlson
+10:50,6:00,12:50,9:00,9:50,6:00,9:50,6:00,,,,,,
+2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,OFF,OFF,OFF,OFF,OFF,OFF
+,Hider call Beth,,,,,Christmas Closed
+Sara  Champagne
+10:50,6:00,9:50,3:30,12:50,9:00,12:30,9:00,,,9:50,6:00,,
+HLD,HLD,HLD,HLD,HLD,HLD,HLD,HLD,OFF,OFF,HLD,HLD,OFF,OFF
+Closer,,,,,Hider-Call Beth,Christmas Closed
+Lyndsay DeBord
+10:50,6:00,12:50,9:00,12:50,9:00,,,,,9:50,6:00,,
+MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,OFF,OFF,OFF,OFF,MZZ,MZZ,OFF,OFF
+,Closer,,,,Closer,Christmas Closed
+Nicholas  Galante
+10:50,6:00,12:50,9:00,12:50,9:00,12:50,9:00,12:50,9:00,,,,
+1st,1st,1st,1st,HLD,HLD,1st,1st,HLD,HLD,OFF,OFF,OFF,OFF
+,,Hider-Call Beth,,Hider-Call Beth,,Christmas Closed
+Ashley  Gamage
+10:50,6:00,12:50,9:00,3:30,9:00,12:50,9:00,3:30,9:00,,,,
+1st,1st,1st,1st,1st,1st,1st,1st,1st,1st,OFF,OFF,OFF,OFF
+,,,Hider-Call Beth,,,Christmas Closed
+Georgia Hendrickson
+,,,,,,9:50,6:00,9:50,6:00,9:50,6:00,,
+OFF,OFF,OFF,OFF,OFF,OFF,HLD,1st,HLD,1st,1st,1st,OFF,OFF
+,,,,,,Christmas Closed
+Ben Higgins
+10:50,6:00,9:00,5:00,,,,,12:50,9:00,9:50,6:00,,
+1st,1st,1st,1st,OFF,OFF,OFF,OFF,1st,1st,1st,1st,OFF,OFF
+$ ,vacuum ,,,$ - Closer,,Christmas Closed
+Teri Lacroix
+,,,,12:50,9:00,12:50,9:00,12:50,9:00,9:50,6:00,,
+OFF,OFF,OFF,OFF,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,OFF,OFF
+,,Closer,Closer,,,Christmas Closed
+Beth Lafountain
+,,9:00,9:00,9:00,4:00,9:00,4:00,9:00,4:00,,,,
+OFF,OFF,1st,HLD,1st,1st,1st,1st,1st,OFC,OFF,OFF,OFF,OFF
+,$,,$,,,Christmas Closed
+Shawna Little
+10:50,6:00,9:50,6:00,,,,,9:50,6:00,9:50,6:00,,
+2nd,2nd,2nd,2nd,OFF,OFF,OFF,OFF,2nd,2nd,2nd,2nd,OFF,OFF
+Hider Call Beth,,,,,,Christmas Closed
+Kathryn  Long
+,,,,,,12:30,9:00,4:00,9:00,,,,
+OFF,OFF,OFF,OFF,OFF,OFF,MZZ,MZZ,MZZ,MZZ,OFF,OFF,OFF,OFF
+,,,,,,Christmas Closed
+Jack Murphy
+10:50,6:00,,,,,,,,,,,,
+1st,1st,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF
+,,,,,,Christmas Closed
+Julie Oneil
+,,,,,,9:00,4:00,,,,,,
+1st,1st,1st,1st,1st,1st,1st,1st,1st,1st,1st,1st,OFF,OFF
+,,,,,,Christmas Closed
+Toy Person
+,,,,,,,,,,,,,
+1st,1st,1st,1st,1st,1st,1st,1st,1st,1st,1st,1st,OFF,OFF
+,,,,,,Christmas Closed
+Leigh Studley
+,,,,9:50,6:00,9:50,6:00,9:50,6:00,,,,
+OFF,OFF,OFF,OFF,1st,1st,1st,1st,1st,1st,OFF,OFF,OFF,OFF
+,,$,,,,Christmas Closed
+ x1STx
+4,,3,2,2,2,3,2,2,2,2,2,2,2
+1st,1st,1st,1st,1st,1st,1st,1st,1st,1st,1st,1st,1st,1st
+,,,,,,
+ x2NDx
+2,,1,1,1,1,1,1,1,1,1,1,2,1
+2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd
+,,,,,,
+ xHLDSx
+1,,1,1,1,1,1,1,1,1,1,1,1,1
+HLD,HLD,HLD,HLD,HLD,HLD,HLD,HLD,HLD,HLD,HLD,HLD,HLD,HLD
+,,,,,,
+ xMEZZx
+1,,1,1,1,1,1,1,1,1,1,1,1,1
+MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ
+,,,,,,
+ xWHSx
+1,,1,,1,,1,,1,,1,,1,
+WHS,WHS,WHS,WHS,WHS,WHS,WHS,WHS,WHS,WHS,WHS,WHS,WHS,WHS
+,,,,,,

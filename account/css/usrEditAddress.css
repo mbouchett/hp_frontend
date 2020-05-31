@@ -1,0 +1,224 @@
+/* CSS Document */
+
+body {
+    font-family: "Montserrat";
+    padding: 0;
+    margin: 0;
+}
+a {
+    text-decoration: none;
+    color: rgba(58,58,58,1.00);
+}
+a:hover {
+    color: rgba(108,0,1,1.00);
+}
+
+/*ID tags Alphabetical*/
+#container {
+    text-align: center;
+    display: block;
+    padding-top: 1%;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+/*Classes Alphabetical*/
+.addaddressfield input[type="text"]{
+    background-color: rgba(229,229,229,1.00);
+    vertical-align: middle;
+    text-align: center;
+    font-size: 1em;
+    border: none;
+    min-width: 1em;
+}
+.addaddressfield {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    font-size: 1.2em;
+    justify-content: space-between;
+    width: 100%;
+}
+.addaddressbtn {
+	background-color: rgba(255,255,255,1.00);
+	border-radius: 5px;
+    border: none;
+	display: inline-block;
+	cursor: pointer;
+    font-size: 2em;
+    font-family: "MontserratBold";
+	color: rgba(212,0,0,1.00);
+    padding: .2em .5em;
+    margin: .5em 0 0 0;
+	text-decoration: none;
+    text-align: center;
+    transition: 0.3s;
+}
+.addaddressbtn:hover {
+	background-color:rgba(230,230,230,1.00);
+}
+.addaddressbtn:active {
+	position:relative;
+	top:1px;
+}
+.alert {
+    font-size: 2em;
+    font-family: "MontserratBold";
+    color: rgba(171,0,2,1.00);
+    margin-bottom: 1em;
+}
+.bottomlinks {
+    display: block;
+    margin-bottom: 3em;
+}
+.bottomlinks a{
+    display: block;
+    margin-top: .2em;
+    margin-bottom: .2em;
+    color: rgba(171,0,2,1.00);
+    font-size: 2em;
+    transition: 0.3s;
+}
+.bottomlinks a:hover{
+    color: rgba(228,0,2,1.00);
+}
+.delineator {
+    width: 100%;
+    font-size: 1.5em;
+    text-align: center;
+    font-family: MontserratBold, Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+    margin-bottom: .5em;
+}
+
+.editaddressform {
+    display: inline-block;
+    border-radius: 28px;
+    border: rgba(171,0,2,1.00) solid 1px;
+    background-color: rgba(211,211,211,1.00);
+    width: 50%;
+    padding: 2em;
+    text-align: center;
+}
+.featuretitle {
+    margin: 2% 0 1% 0;
+    text-align: center;
+    font-size: 3em;
+    font-family: "MontserratBold";
+}
+.instructions {
+    font-size: 2em;
+    font-family: "MontserratBold";
+    margin-bottom: 1em;
+}
+
+.messagebox:focus{
+    text-align: left;
+}
+/*New Card Field Classes*/
+.newmonth{
+    width: 3em;
+    padding: .2em 0 .2em .2em;
+    margin: .5em 0em .5em .5em;
+    border-radius: 5px 0 0 5px;
+}
+.newdivider {
+    width: 1em;
+    padding: .2em 0;
+    margin: .5em 0 .5em 0;
+    border-radius: 0px;
+}
+.newyear{
+    width: 4em;
+    padding: .2em 0;
+    margin: .5em .5em .5em 0em;
+    border-radius: 0 5px 5px 0;
+}
+.newnumber{
+    flex-grow: 5;
+    padding: .2em 0;
+    margin: .5em .5em .5em 0em;
+    border-radius: 5px;
+}
+.newcvv2 {
+    width: 3em;
+    padding: .2em 0;
+    margin: .5em 0em .5em .5em;
+    border-radius: 5px;
+}
+.newaddress1 {
+    padding: .2em 0;
+    margin: .5em .5em 1em 0em;
+    border-radius: 5px;
+    width: 50%;
+}
+.newaddress2 {
+    padding: .2em 0;
+    margin: .5em .5em 1em .5em;
+    border-radius: 5px;
+}
+.newzip {
+    padding: .2em 0;
+    margin: .5em 0em 1em .5em;
+    border-radius: 5px;
+    width: 5em;
+}
+.paymentoptions {
+    display: inline-flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 96%;
+    justify-content: space-between;
+    text-align: left;
+    background-color: rgba(255,255,255,1.00);
+    padding: 2% 2%;
+    border-radius: 5px;
+}
+.savedaddress {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 2em;
+    margin: .5em 0;
+}
+.savedaddress a{
+    color: rgba(255,255,255,1.00);
+    background-color: rgba(212,0,0,1.00);
+    padding: .1em .2em;
+    border-radius: 5px;
+}
+.savedaddress a:hover{
+    color: rgba(212,0,0,1.00);
+    background-color: rgba(230,230,230,1.00);
+}
+.savedcard a:active{
+    position: relative;
+    top: 1px;
+}
+@media only screen and (max-width: 992px) {
+     .addaddressbtn {
+        font-size: 4em;
+        padding: .2em .8em;
+        width: 80%;
+    }
+    .bottomlinks a{
+        margin-top: .5em;
+        font-size: 3.5em;
+    }
+    .editaddressform {
+        width: 90%;
+    }
+  
+    .delineator {
+        font-size: 3em;
+    }
+    
+    .addaddressfield input[type="text"]{
+        background-color: #e5e5e5;
+        vertical-align: middle;
+        text-align: center;
+        font-size: 2em;
+        border: thick white;
+        min-width: 1em;
+    }
+}

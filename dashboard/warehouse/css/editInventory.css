@@ -1,0 +1,77 @@
+A:visited { 
+	color: black; 
+	text-decoration: none; 
+	background: transparent;
+}
+A:link { 
+	color: black; 
+	text-decoration: underline; 
+	background: transparent;
+}
+A:active { 
+	color: black; 
+	text-decoration: underline; 
+	background: transparent;
+}
+A:hover { 
+	color: orange; 
+	text-decoration: underline; 
+	background: transparent;
+}
+table {
+	margin: auto;
+}
+input {
+	border-style: solid;
+	border-width: 1px;
+	border-color: #000000;
+}
+.pic{
+	width: 80px;
+	font-size: 12px;
+}
+.vendor{
+	width: 120px;
+	font-size: 12px;
+}
+.sku{
+	width: 100px;
+	font-size: 12px;
+}
+.price{
+	width: 50px;
+	font-size: 12px;
+}
+.desc{
+	width: 300px;
+	font-size: 12px;
+}
+.location {
+	width: 100px;
+	font-size: 12px;
+}
+.dp {
+	width: 80px;
+	font-size: 12px;
+}
+.pb {
+	width: 120px;
+	font-size: 12px;
+}
+.emp {
+	width: 80px;
+	font-size: 12px;
+}
+.comment {
+	width: 120px;
+	font-size: 12px;
+}
+.title {
+	margin: auto;
+	text-align: center;
+	font-weight: bold;
+}
+#exit {
+	margin: auto;
+	text-align: center;
+}

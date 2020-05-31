@@ -1,0 +1,82 @@
+body {
+	background-color: #FFFFFF;
+	margin: 0;
+	padding: 0;
+    }
+input {
+	border: none;
+}   
+button {
+	display: none;
+	width: 100px;
+}  
+.add {
+   display: none;
+   text-align: center;
+   margin: auto;
+}
+.order { 
+	font-family: Arial, Helvetica, sans-serif;
+	width: 960px;
+	margin: auto;
+	
+}
+.terms { 
+	font-family: Arial, Helvetica, sans-serif;
+	width: 960px;
+	margin: auto;
+}
+.terms input {
+	width: 700px;
+}
+.items { 
+	border-right: thin solid;
+	
+}
+ .print {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	border-right: solid;
+	border-right-width: thin;
+}
+.imgdefault {
+	text-align: center;
+	border: none;
+}
+.center { text-align:center; }
+p.breakhere {page-break-before: always}
+th{ font-size: 24px; }
+.thsmall{
+  font-weight: normal;
+  font-size: 16px;
+}
+.menu {
+	border-style: solid;
+	border-width: 1px;
+	padding: 5px;
+	width: 150px;	
+	cursor: pointer;
+} 
+.ext {
+	border: 0px;
+	text-align: right;
+}
+.summary{
+  font-family: Arial;
+  text-align: center;
+}
+.button {
+	text-align: right;
+}
+.sent{
+  position: fixed;
+  top: 0px;
+  left: 0px;
+}
+.sent img{
+  opacity: .40;
+  max-height: 150px;
+}
+.checkbox{
+	display: none;
+}

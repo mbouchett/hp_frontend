@@ -1,0 +1,96 @@
+Need to Hire 
+11:50,5:00,11:50,8:00,11:50,8:00,11:50,8:00,11:50,8:00,,,,
+HLD,HLD,1st,MZZ,1st,MZZ,1st,1st,1st,MZZ,OFF,OFF,OFF,OFF
+,Hider-Train,,Hider,,,
+Gary Bevins
+,,,,,,,,,,,,,
+OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF
+,,,,,,
+Angelie Bouchett
+11:50,5:00,9:50,6:00,,,,,,,,,9:50,6:00
+1st,1st,MZZ,MZZ,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,MZZ,1st
+,,,,,,
+Betty Bouchett
+,,,,,,,,,,,,,
+OFF,OFF,VCA,VCA,VCA,VCA,VCA,VCA,VCA,VCA,OFF,VCA,OFF,OFF
+Vacation,Vacation,Vacation,Vacation,Vacation,Vacation,Vacation
+Carolle Bouchett
+,,,,,,,,,,9:50,6:00,,
+OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,HLD,OFC,OFF,OFF
+,,,,,,
+Francois Bouchett
+11:50,5:00,9:50,6:00,9:50,6:00,9:50,6:00,,,,,9:50,6:00
+HLD,HLD,HLD,WHS,HLD,WHS,WHS,WHS,OFF,OFF,OFF,OFF,WHS,WHS
+,,,,,,
+Frank Bouchett
+,,,,,,,,,,,,,
+OFF,OFF,VCA,VCA,VCA,VCA,VCA,VCA,VCA,VCA,VCA,VCA,OFF,OFF
+Vacation,Vacation,Vacation,Vacation,Vacation,Vacation,Vacation
+Mark Bouchett
+,,,,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00
+OFF,OFF,OFF,OFF,MZZ,MZZ,MZZ,MZZ,WHS,WHS,MZZ,WHS,HLD,1st
+,,,,,,
+Barbara Carlson
+11:50,5:00,11:50,8:00,9:50,6:00,9:50,6:00,,,,,9:50,6:00
+2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,OFF,OFF,OFF,OFF,2nd,2nd
+,,,,,,
+Sara  Champagne
+11:50,5:00,11:50,8:00,,,11:50,8:00,,,9:50,6:00,9:50,6:00
+1st,1st,1st,1st,OFF,OFF,1st,1st,OFF,OFF,OFC,OFC,1st,1st
+,Hider-train,,Closer,,Sidewalk Sale,
+Lyndsay DeBord
+11:50,5:00,11:50,8:00,11:50,8:00,,,,,11:50,8:00,11:50,8:00
+VCA,VCA,VCA,VCA,VCA,VCA,OFF,OFF,OFF,OFF,MZZ,MZZ,MZZ,MZZ
+Vacation,Vacation,Vacation,,,Closer,
+JD Graves
+11:50,5:00,,,,,11:50,8:00,11:50,8:00,11:50,8:00,11:50,8:00
+MZZ,MZZ,OFF,OFF,OFF,OFF,1st,MZZ,HLD,HLD,1st,1st,1st,1st
+,,,,,Hider,Hider
+Amber Gurney
+,,11:50,8:00,11:50,8:00,11:50,8:00,,,11:50,8:00,11:50,8:00
+OFF,OFF,HLD,HLD,HLD,HLD,HLD,HLD,OFF,OFF,HLD,HLD,HLD,HLD
+,Closer,Hider,,,,
+Georgia Hendrickson
+,,,,,,9:50,6:00,9:50,6:00,,,,
+OFF,OFF,OFF,OFF,OFF,OFF,OFC,OFC,OFC,OFC,OFF,OFF,OFF,OFF
+,,,Sidewalk Sale,Sidewalk Sale,,
+Ben Higgins
+11:50,5:00,9:00,5:00,,,,,11:50,8:00,11:50,8:00,11:50,8:00
+1st,1st,1st,1st,OFF,OFF,OFF,OFF,1st,1st,1st,1st,1st,1st
+$ - Closer,,,,$ - Hider,,$ - Closer
+Teri Lacroix
+,,,,11:50,8:00,11:50,8:00,11:50,8:00,11:50,8:00,11:50,8:00
+OFF,OFF,OFF,OFF,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd
+,,Closer,,Closer,,
+Beth Lafountain
+,,,,,,,,,,,,,
+OFF,OFF,VCA,VCA,VCA,VCA,VCA,VCA,VCA,VCA,VCA,VCA,OFF,OFF
+Vacation,Vacation,Vacation,Vacation,Vacation,Vacation,Vacation
+Shawna Little
+11:50,5:00,9:50,6:00,,,,,9:50,6:00,9:50,6:00,9:50,6:00
+2nd,2nd,2nd,2nd,OFF,OFF,OFF,OFF,2nd,2nd,2nd,2nd,2nd,2nd
+Hider,,,,,,
+Leigh Studley
+,,,,11:50,8:00,9:50,6:00,9:50,6:00,9:00,5:00,9:50,6:00
+OFF,OFF,OFF,OFF,1st,1st,1st,1st,1st,1st,1st,1st,1st,1st
+,,$,,,$,
+ x1STx
+4,,1,1,1,1,2,2,1,2,1,2,2,2
+1st,1st,1st,1st,1st,1st,1st,1st,1st,1st,1st,1st,1st,1st
+,,,,,,
+ x2NDx
+2,,1,1,1,1,1,1,1,1,1,1,2,1
+2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd
+,,,,,,
+ xHLDSx
+1,,1,1,1,1,1,1,1,1,1,1,1,1
+HLD,HLD,HLD,HLD,HLD,HLD,HLD,HLD,HLD,HLD,HLD,HLD,HLD,HLD
+,,,,,,
+ xMEZZx
+1,,1,1,1,1,1,1,1,1,1,1,1,1
+MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ
+,,,,,,
+ xWHSx
+0,,1,,1,,1,,1,,1,,1,
+WHS,WHS,WHS,WHS,WHS,WHS,WHS,WHS,WHS,WHS,WHS,WHS,WHS,WHS
+,,,,,,

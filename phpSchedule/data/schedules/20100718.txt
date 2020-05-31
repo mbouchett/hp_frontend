@@ -1,0 +1,92 @@
+Gary Bevins
+10:00,7:00,,,,,,,,,,,,
+2nd,2nd,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF
+Tent Sale,,,,,,
+Angelie Bouchett
+10:00,7:00,9:50,6:00,,,,,,,9:50,6:00,9:50,6:00
+1st,1st,MZZ,1st,OFF,OFF,OFF,OFF,OFF,OFF,MZZ,MZZ,MZZ,MZZ
+Tent Sale,,,,,,
+Betty Bouchett
+10:00,7:00,,,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00,,
+OFC,OFC,OFF,OFF,OFC,OFC,OFC,OFC,OFC,OFC,OFC,OFC,OFF,OFF
+Tent Sale,,,,,,
+Carolle Bouchett
+10:00,7:00,,,,,,,9:50,6:00,,,,
+OFC,OFC,OFF,OFF,OFF,OFF,OFF,OFF,OFC,OFC,OFF,OFF,OFF,OFF
+Tent Sale,,,,,,
+Francois Bouchett
+10:00,7:00,9:50,6:00,9:50,6:00,,,,,9:50,6:00,9:50,6:00
+WHS,WHS,WHS,WHS,2nd,WHS,OFF,OFF,OFF,OFF,WHS,WHS,HLD,1st
+Tent Sale,,,,,,
+Frank Bouchett
+10:00,7:00,,,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00,,
+1st,1st,OFF,OFF,MZZ,1st,2nd,1st,1st,1st,1st,1st,OFF,OFF
+Tent Sale,,,,,,
+Mark Bouchett
+10:00,7:00,,,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00,,
+WHS,WHS,OFF,OFF,HLD,1st,WHS,WHS,WHS,WHS,WHS,WHS,OFF,OFF
+Tent Sale,,,,,,
+Barbara Carlson
+10:00,7:00,11:50,8:00,11:50,8:00,9:50,6:00,,,,,9:50,6:00
+2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,OFF,OFF,OFF,OFF,2nd,2nd
+Tent Sale,,,,,,
+Sara  Champagne
+10:00,7:00,11:50,8:00,,,,,11:50,8:00,11:50,8:00,11:50,8:00
+1st,1st,1st,1st,OFF,OFF,OFF,OFF,HLD,MZZ,1st,MZZ,1st,1st
+Tent Sale,,,,Hider,,
+Lyndsay DeBord
+10:00,7:00,11:50,8:00,11:50,8:00,9:50,6:00,,,,,,
+MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,OFF,OFF,VCA,VCA,VCA,VCA
+Tent Sale,Hider,,,,vacation,vacation
+JD Graves
+10:00,7:00,,,,,11:50,8:00,11:50,8:00,11:50,8:00,11:50,8:00
+1st,1st,OFF,OFF,OFF,OFF,1st,MZZ,1st,1st,MZZ,1st,1st,MZZ
+Tent Sale,,,,,Hider,Hider
+Amber Gurney
+10:00,7:00,11:50,8:00,11:50,8:00,,,,,11:50,8:00,11:50,8:00
+HLD,HLD,HLD,HLD,HLD,HLD,OFF,OFF,OFF,OFF,HLD,HLD,HLD,HLD
+Tent Sale,Closer,Hider,,,,
+Georgia Hendrickson
+10:00,7:00,,,,,9:50,6:00,9:50,6:00,,,,
+1st,1st,OFF,OFF,OFF,OFF,HLD,HLD,HLD,1st,OFF,OFF,OFF,OFF
+Tent Sale,,,,,,
+Ben Higgins
+10:00,7:00,9:00,5:00,,,,,11:50,8:00,11:50,8:00,9:50,6:00
+1st,1st,1st,1st,OFF,OFF,OFF,OFF,1st,1st,1st,1st,1st,1st
+$ - Closer Tent Sale,,,,$ - Closer,closer,$ -
+Teri Lacroix
+10:00,7:00,,,,,11:50,8:00,11:50,8:00,11:50,8:00,11:50,8:00
+2nd,2nd,OFF,OFF,OFF,OFF,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd
+Tent Sale,,,,,,Closer
+Beth Lafountain
+10:00,7:00,9:50,6:00,9:50,6:00,11:50,8:00,9:00,4:00,,,,
+1st,1st,HLD,1st,1st,1st,1st,1st,MZZ,MZZ,VCA,VCA,OFF,OFF
+Tent Sale,$,,$-Closer,,Vacation,Vacation
+Shawna Little
+10:00,7:00,9:50,6:00,,,,,9:50,6:00,9:50,6:00,9:50,6:00
+2nd,2nd,2nd,2nd,OFF,OFF,OFF,OFF,2nd,2nd,2nd,2nd,2nd,2nd
+Hider Tent Sale,,,,,,
+Leigh Studley
+10:00,7:00,,,11:50,8:00,9:50,6:00,9:50,6:00,9:00,5:00,,
+1st,1st,OFF,OFF,1st,1st,1st,1st,1st,1st,1st,1st,OFF,OFF
+Tent Sale,,$,Hider,,$,
+ x1STx
+18 in all,,2,2,1,2,1,2,1,1,1,2,2,2
+1st,1st,1st,1st,1st,1st,1st,1st,1st,1st,1st,1st,1st,1st
+open11-close6,,,,,,
+ x2NDx
+18 in all,,1,1,1,1,1,1,1,1,1,1,2,1
+2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd
+open11-close6,,,,,,
+ xHLDSx
+18 in all,,1,1,1,1,1,1,1,1,1,1,1,1
+HLD,HLD,HLD,HLD,HLD,HLD,HLD,HLD,HLD,HLD,HLD,HLD,HLD,HLD
+open11-close6,,,,,,
+ xMEZZx
+18 in all,,1,1,1,1,1,1,1,1,1,1,1,1
+MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ
+open11-close6,,,,,,
+ xWHSx
+18 in all,,1,,1,,1,,1,,1,,1,
+WHS,WHS,WHS,WHS,WHS,WHS,WHS,WHS,WHS,WHS,WHS,WHS,WHS,WHS
+open11-close6,,,,,,

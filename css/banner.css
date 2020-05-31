@@ -1,0 +1,289 @@
+/*These Values are universal an will not need to change based on screen size */
+a {
+    cursor: pointer;
+}
+a:focus {
+    outline: none;
+}
+/*IDs Alphabetical*/
+#banner {
+    width: 100%;
+    overflow: auto;
+    font-family: "MontserratBold", "sans-serif";
+}
+#banner img {
+    position: absolute;
+    top: 1%;
+    left: 1%;
+    width: 12%;
+    -webkit-transition: width 2s; /* Safari */
+    transition: width 2s;
+    z-index: 10;
+}
+
+/*Classes Alphabetical*/
+.accountbtn {
+    color:rgba(58,58,58,1.00);
+	display:inline-block;
+    padding-left: 1vw;
+	cursor:pointer;
+    margin: 0em 0em;
+    padding-top: 4px;
+    padding-bottom: 4px;
+	text-decoration:none;
+}
+.accountbtn:hover {
+	color: rgba(108,0,1,1.00);
+}
+.accountbtn:active {
+	position:relative;
+	top:1px;
+}
+
+.accountcontainer {
+    float: right;
+    display: flex;
+}
+.address {
+    display: block;
+    vertical-align: middle;
+    height: 100%;
+}
+
+
+.bigtext {
+    font-size: 2em;
+}
+.extrasmalltext {
+    font-size: .5em;
+}
+.hidden {
+    position: absolute !important;
+    top: -9999px !important;
+    left: -9999px !important;
+}
+.hours {
+    float: right;
+    text-align: right;
+}
+
+.iconsize {
+  
+    padding-right: .3em;
+    
+}
+.icontext{
+    font-size: 1em;
+    line-height: 3;
+}
+.infoline{
+    background-color: rgba(212,0,0,1.00);
+    padding: 8px 8px 8px 15%;
+    display: block;
+    overflow: auto;
+    font-size: 2vw;
+    border-bottom: rgba(171,171,171,1.00) solid 1px;
+    color: rgba(255,255,255,1.00);
+}
+.infoline div{
+    display: inline-flex;
+    vertical-align: middle;
+}
+.infoline i{
+    display: inline-flex;
+    vertical-align: middle;
+}
+
+.itemsindicator {
+    background: #FFFFFF;
+    margin-left: 2px;
+    display: inline;
+    vertical-align: middle;
+    padding: 2px .5em 0px .5em;
+    border-radius: 100px;
+    font-size: .8em;
+}
+
+.linkbtn {
+	background-color: rgba(255,255,255,1.00);
+	-moz-border-radius: 28px;
+	-webkit-border-radius: 28px;
+	border-radius: 28px;
+	display: inline-block;
+	cursor: pointer;
+	color: rgba(212,0,0,1.00);
+    padding: 0em 1em 0em 1em;
+    margin: 0em .5em 0em 0em;
+	text-decoration: none;
+    text-align: center;
+    min-width: 3%;
+    transition: 0.3s;
+}
+.linkbtn:hover {
+	background-color:rgba(230,230,230,1.00);
+}
+.linkbtn:active {
+	position:relative;
+	top:1px;
+}
+
+.menu {
+    background-color: rgba(211,211,211,1.00);
+    border-bottom: rgba(171,171,171,1.00) solid 1px;
+    box-sizing: border-box;
+    padding: 10px 10px 10px 15%;
+    overflow: auto;
+    width: 100%;
+    font-size: 1.3em;
+}
+.menu div{
+    display: inline-flex;
+    vertical-align: middle;
+}
+.menubtn {
+	display:inline-block;
+	cursor:pointer;
+	color:rgba(58,58,58,1.00);
+    margin: 0em .5em 0em .5em;
+	text-decoration:none;
+    font-size: 1vw;
+}
+.menubtn:hover {
+	color:rgba(108,0,1,1.00);
+}
+.menubtn:active {
+	position:relative;
+	top:1px;
+}
+.searchbtn {
+    background: rgba(255,255,255,1.00);
+    vertical-align: middle;
+    color:rgba(58,58,58,1.00);
+	display:inline-block;
+	cursor:pointer;
+	color: rgba(212,0,0,1.00);
+    margin: 0em 0em;
+    padding: 4px 10px;
+    border-radius: 5px;
+	text-decoration: none;
+    transition: 0.3s;
+}
+.searchbtn:hover {
+	color:rgba(108,0,1,1.00);
+    
+}
+.searchbtn:active {
+	position:relative;
+	top:1px;
+}
+.searchcontainer {
+    float: right;
+    display: inline-block;
+}
+.searchfield{
+    padding: 4px;
+    border-radius: 5px;
+    vertical-align: middle;
+    width: 7em;
+    font-size: 1em;
+    border: none;
+    text-align: center;
+    -webkit-transition: width 1s; /* Safari */
+    transition: width 1s;
+}
+.searchfield:focus {
+    border: solid 1px rgba(212,0,0,1.00);
+    padding: 3px;
+    text-align: left;
+    width: 10em;
+}
+.smalltext {
+    font-size: 1em;
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {...}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {...}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+    
+}
+
+/* Large devices (phones, 992px and down) Changes for MOBILE go Here*/
+@media only screen and (max-width: 992px) {
+    /*Tags Alphabetical*/
+    #banner img {
+        width: 14%;
+        top: .5%;
+    }
+    /*Classes Alphabetical*/
+    .accountbtn {
+        font-size: 6vw;
+    }
+    
+    .hiddenformobile {
+       position: absolute !important;
+       top: -9999px !important;
+       left: -9999px !important;
+    }
+    .hours {
+        font-size: 1.5em;
+    }
+    .iconsize {
+        padding: .5em .2em;
+        font-size: 3em;
+    }
+    .infoline{
+        padding: 8px 8px 8px 16%;
+        overflow: auto;
+    }
+    .menu {
+        padding: 8px;
+    }
+    .searchbtn {
+        font-size: 5vw;
+        padding: 1vw 3vw;
+    }
+    .searchcontainer {
+        float: none;
+    }
+    .searchfield {
+        font-size: 5vw;
+        width: 5em;
+        padding: 1vw;
+        -webkit-transition: width 1s; /* Safari */
+        transition: width 1s;     
+    }
+    .searchfield:focus {
+        padding: 1vw;
+        outline: hidden;
+        text-align: left;
+        width: 10em;
+}
+    
+}
+/* Large devices (laptops/desktops, 992px and up) Changes for DESKTOP go Here*/
+@media only screen and (min-width: 992px) {
+    /*Classes Alphabetical*/
+    .iconsize{
+        font-size: 1em;
+    }
+    .infoline{
+        font-size: 1.2em;
+    }
+    
+    .hiddenfordesktop {
+        position: absolute !important;
+        top: -9999px !important;
+        left: -9999px !important;
+    }
+}
+
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {...} 
+
+

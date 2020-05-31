@@ -1,0 +1,151 @@
+table {
+	margin: auto;
+}
+.title {
+	font-size: 24px;
+	margin: auto;
+	text-align: center;
+}
+.flagged {
+	background-color: #00ff00;
+	text-align: right;
+}
+.smtxt {
+	font-size: 10px;
+}
+.qty {
+	width: 25px;
+	border: 1px solid;
+	text-align: center;
+	font-size: 12px;
+	background-color: transparent;
+}
+.price {
+	width: 50px;
+	border: 1px solid;
+	text-align: right;
+	font-size: 12px;
+	background-color: transparent;
+}
+.sku {
+	width: 100px;
+	border: 1px solid;
+	text-align: center;
+	font-size: 12px;
+	background-color: transparent;
+}
+.desc {
+	width: 250px;
+	border: 1px solid;
+	font-size: 12px;
+	background-color: transparent;
+}
+.cat {
+	width: 110px;
+	border: 1px solid;
+	text-align: left;
+	font-size: 12px;
+	background-color: transparent;
+}
+.vendor {
+	width: 110px;
+	border: 1px solid;
+	text-align: left;
+	font-size: 12px;
+	background-color: transparent;
+}
+.pif {
+	width: 70px;
+	border: 1px solid;
+	font-size: 10px;
+	background-color: transparent;
+}
+.submit {
+	text-align: center;
+}
+.cust {
+	width: 250px;
+	border: 1px solid;
+	font-size: 14px;
+	background-color: transparent;
+}
+.message {
+	width: 250px;
+	border: 1px solid;
+	color: #ff0000;
+	font-size: 14px;
+	margin-left: 70px;
+}
+/* The below deal with the merch credits and layaways*/
+.popup {
+  margin-left: -160px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  position: fixed;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #000000;
+  border-radius: 5px;
+  width: 70%;
+  visibility: hidden;
+  z-index: 9000;
+}
+.blackout {
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  background: #003300;
+  opacity: .65;
+  z-index: 8999;
+  visibility: hidden;
+}
+.mc_header{
+  font-size: 24px;
+  text-align: center;
+  font-family: Arial;
+}
+#mc_table{
+  height: 400px;
+  overflow-y: scroll;
+}
+#pop{
+  background: #CCFFFF;
+}
+#pop2{
+  background: #FFFF66;
+}
+#pop input{
+	border: 1px solid;
+}
+#lay_table{
+  height: 200px;
+  overflow-y: scroll;
+}
+.lay input{
+  border: thin solid;
+  padding: 0px 20px 0px 20px;
+}
+#cat {
+	width: 30px;
+}
+#qty {
+	width: 30px;
+}
+#desc {
+	width: 300px;
+}
+.clickrow{
+  cursor: pointer;
+}
+.clickrow:hover{
+  background-color: #CCFF66;
+}
+.number{
+  text-align: right;
+}
+.delrow:hover{
+  background-color: #FF0000
+}
+.linked{
+  cursor: pointer;
+}

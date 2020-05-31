@@ -1,0 +1,28 @@
+table {
+	margin: auto;
+}
+
+td {
+	border-color: #000000;
+	border-style: solid;
+	border-width: 1px;
+	padding: 5px;
+}
+input {
+	border-style: none;
+	background-color: #eeeeee;
+}
+select {
+	-webkit-appearance: none;  
+   -moz-appearance: none; 
+	border-style: none;
+}
+.buttons {
+	margin: auto;
+	text-align: center;
+}
+.title {
+	margin: auto;
+	text-align: center;
+	font-size: 24px;
+}

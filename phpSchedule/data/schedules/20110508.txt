@@ -1,0 +1,104 @@
+Brynna 
+,,,,,,12:00,4:00,,,12:00,4:00,,
+1st,1st,1st,1st,1st,1st,2nd,2nd,1st,1st,2nd,2nd,1st,1st
+,,,,,,
+Angelie Bouchett
+,,9:50,6:00,,,,,,,9:50,6:00,9:50,6:00
+OFF,OFF,MZZ,MZZ,OFF,OFF,OFF,OFF,OFF,OFF,MZZ,OFF,1st,1st
+,,,,,,
+Betty Bouchett
+,,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00,,
+OFF,OFF,OFC,OFC,OFC,OFC,OFC,OFC,OFC,OFC,OFC,OFC,OFF,OFF
+,,,,,,
+Carolle Bouchett
+,,,,,,,,9:50,6:00,,,,
+OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFC,OFC,OFF,OFF,OFF,OFF
+,,,,,,
+Francois Bouchett
+11:50,5:00,9:50,6:00,9:50,6:00,9:50,6:00,,,,,9:50,6:00
+WHS,WHS,WHS,WHS,WHS,WHS,WHS,WHS,OFF,OFF,OFF,OFF,WHS,WHS
+,,,,,,
+Frank Bouchett
+,,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00,,
+OFF,OFF,1st,1st,1st,1st,1st,1st,1st,1st,1st,1st,OFF,OFF
+,,,,,,
+Mark Bouchett
+,,,,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00
+OFF,OFF,OFF,OFF,MZZ,1st,MZZ,1st,WHS,WHS,WHS,WHS,MZZ,1st
+,,,,,,
+Barbara Carlson
+11:50,5:00,9:50,6:00,9:50,6:00,9:50,6:00,,,,,9:50,6:00
+2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,OFF,OFF,OFF,OFF,2nd,2nd
+,Hider,,,,,Hider
+Sara  Champagne
+11:50,5:00,9:50,6:00,,,,,9:50,6:00,11:50,8:00,9:50,6:00
+HLD,HLD,HLD,HLD,OFF,OFF,OFF,OFF,HLD,HLD,HLD,HLD,HLD,HLD
+Closer,,,,,Hider,
+Lyndsay Driscoll
+,,,,9:50,6:00,9:50,6:00,9:50,6:00,11:50,8:00,,
+OFF,OFF,OFF,OFF,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,OFF,OFF
+,,,,,Closer,
+Georgia Hendrickson
+,,,,,,9:50,6:00,9:50,6:00,,,,
+OFF,OFF,OFF,OFF,OFF,OFF,HLD,1st,HLD,1st,OFF,OFF,OFF,OFF
+,office,office,,,,
+Ben Higgins
+11:50,5:00,9:00,5:00,,,,,9:50,6:00,11:50,8:00,9:50,6:00
+1st,1st,1st,1st,OFF,OFF,OFF,OFF,1st,1st,1st,1st,1st,1st
+$ ,vacuum ,,,$ - Closer,,$ - Closer
+Teri Lacroix
+,,,,9:50,6:00,9:50,6:00,9:50,6:00,11:50,8:00,9:50,6:00
+OFF,OFF,OFF,OFF,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd
+,,Closer,Closer,,,
+Beth Lafountain
+,,9:00,4:00,9:00,4:00,9:00,4:00,9:00,4:00,9:00,4:00,,
+OFF,OFF,HLD,1st,HLD,1st,1st,1st,1st,OFC,HLD,1st,OFF,OFF
+,$,,$,,,
+Shawna Little
+11:50,5:00,9:50,6:00,,,,,9:50,6:00,9:50,6:00,9:50,6:00
+2nd,2nd,2nd,2nd,OFF,OFF,OFF,OFF,2nd,2nd,2nd,2nd,2nd,2nd
+Hider Training,,,,,,
+Kathryn  Long
+11:50,5:00,,,,,,,,,5:30,8:00,9:50,6:00
+1st,1st,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,1st,1st,1st,1st
+,,,,,Hider,
+Leigh Studley
+,,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00,9:00,5:00,,
+OFF,OFF,1st,1st,1st,1st,1st,1st,1st,1st,1st,1st,OFF,OFF
+,Closer,$,Hider,,$-vacuum,
+Need 3 To Hire FT
+11:50,5:00,9:50,6:00,9:50,6:00,9:50,6:00,,,,,9:50,6:00
+1st,1st,MZZ,MZZ,1st,1st,1st,1st,OFF,OFF,OFF,OFF,1st,1st
+,,Hider Call Beth,,,,
+Need 4 To Hire FT
+11:50,5:00,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00,,,,
+MZZ,MZZ,1st,MZZ,1st,1st,1st,1st,1st,1st,OFF,OFF,OFF,OFF
+Train as Hider,,,Hider Call Beth,Hider Call Beth,,
+Need 1 To Hire PT
+11:50,5:00,9:50,6:00,,,,,9:50,6:00,,,,
+1st,1st,1st,1st,OFF,OFF,OFF,OFF,1st,1st,OFF,OFF,OFF,OFF
+,,,,,,
+Need 2 To Hire PT
+,,,,9:50,6:00,9:50,6:00,,,,,9:50,6:00
+OFF,OFF,OFF,OFF,HLD,HLD,HLD,HLD,OFF,OFF,OFF,OFF,HLD,1st
+,,,,,,
+ x1STx
+4,,3,2,2,2,2,2,3,2,2,2,2,2
+1st,1st,1st,1st,1st,1st,1st,1st,1st,1st,1st,1st,1st,1st
+,,,,,,
+ x2NDx
+2,,1,1,1,1,1,1,1,1,1,1,2,1
+2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd
+,,,,,,
+ xHLDSx
+1,,1,1,1,1,1,1,1,1,1,1,1,1
+HLD,HLD,HLD,HLD,HLD,HLD,HLD,HLD,HLD,HLD,HLD,HLD,HLD,HLD
+,,,,,,
+ xMEZZx
+1,,1,1,1,1,1,1,1,1,1,1,1,1
+MZZ,OFF,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ
+,,,,,,
+ xWHSx
+1,,1,,1,,1,,1,,1,,1,
+WHS,WHS,WHS,OFF,WHS,OFF,WHS,OFF,WHS,OFF,WHS,OFF,WHS,OFF
+,,,,,,

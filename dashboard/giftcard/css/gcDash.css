@@ -1,0 +1,27 @@
+td {
+	border-style: solid;
+	border-width: 1px;
+	padding: 5px;
+	width: 150px;	
+}
+input{
+	width: 150px;
+}
+table{
+	margin: auto;
+	text-align: center;
+}
+#banner{
+	background-color: #000000;
+	margin: auto;
+	text-align: center;
+}
+.title{
+	font-size: 20px;
+	margin: auto;
+	text-align: center;
+}
+/* for file ResetCashReport.php*/
+.time{
+	width: 70px;
+}

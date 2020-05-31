@@ -1,0 +1,328 @@
+/* CSS Document */
+
+body {
+    font-family: "Montserrat";
+    padding: 0;
+    margin: 0;
+}
+a {
+    text-decoration: none;
+    color: rgba(58,58,58,1.00);
+}
+a:hover {
+    color: rgba(108,0,1,1.00);
+}
+a:focus {
+    outline: none;
+}
+iframe {
+    width: 38vw;
+    height: 21.37vw;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+ul {
+  list-style: none; /* Remove default bullets */
+    margin-top: 1%;
+}
+ul li::before {
+  content: "\2022";  /* Add content: \2022 is the CSS Code/unicode for a bullet */
+  color: rgba(212,0,0,1.00); /* Change the color */
+  font-family: "MontserrateBold"; /* If you want it to be bold */
+  display: inline-block; /* Needed to add space between the bullet and the text */
+  width: 1em; /* Also needed for space (tweak if needed) */
+  margin-left: -1em; /* Also needed for space (tweak if needed) */
+}
+/*ID tags Alphabetical*/
+#container {
+    display: block;
+    padding-top: 1%;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+/*Classes Alphabetical*/
+.addtocartbtn {
+	background-color: rgba(212,0,0,1.00);
+	border-radius: 5px;
+    border: none;
+	cursor: pointer;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    justify-content: center;
+    padding: .5em 5px;
+    margin: .5% .5%;
+    font-size: 1.2em;
+    width: 32%;
+    font-family: "MontserratBold";
+	color: rgba(255,255,255,1.00);
+	text-decoration: none;
+    text-align: center;
+    transition: 0.3s;
+}
+.addtocartbtn:hover {
+	background-color:rgba(225,225,225,1.00);
+    color: rgba(212,0,0,1.00);
+}
+.addtocartbtn:active {
+	position:relative;
+	top:1px;
+}
+.addtoregbtn {
+	background-color: rgba(0,195,253,1.00);
+	border-radius: 5px;
+    border: none;
+	cursor: pointer;
+    padding: .5em 5px;
+    margin: .5% .5%;
+    font-size: 1.2em;
+    width: 32%;
+    font-family: "MontserratBold";
+	color: rgba(255,255,255,1.00);
+	text-decoration: none;
+    text-align: center;
+    transition: 0.3s;
+}
+.addtoregbtn:hover {
+	background-color:rgba(225,225,225,1.00);
+    color: rgba(212,0,0,1.00);
+}
+.addtoregbtn:active {
+	position:relative;
+	top:1px;
+}
+.addtowishbtn {
+	background-color: rgba(150,150,150,1.00);
+	border-radius: 5px;
+    border: none;
+	cursor: pointer;
+    padding: .5em 5px;
+    margin: .5% .5%;
+    font-size: 1.2em;
+    width: 32%;
+    font-family: "MontserratBold";
+	color: rgba(255,255,255,1.00);
+	text-decoration: none;
+    text-align: center;
+    transition: 0.3s;
+}
+.addtowishbtn:hover {
+	background-color:rgba(225,225,225,1.00);
+    color: rgba(212,0,0,1.00);
+}
+.addtowishbtn:active {
+	position:relative;
+	top:1px;
+}
+.infotitle {
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    font-size: 1.5em;
+    margin-bottom: .5em;
+}
+.itemcontainer img{
+    width: 100%;
+    vertical-align: middle;
+}
+.itemcontainer {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 3em;
+}
+.item {
+    border-radius: 50%;
+    flex: 23%;
+    max-width: 24%;
+    text-align: center;
+    font-size: 1em;
+    border: rgba(0,0,0,0.00) solid .2em;
+    margin-top: .5%;
+    overflow: hidden;
+}
+.item:hover {
+    border: rgba(255,0,0,1.00) solid .2em;
+}
+.likebtn {
+    position: absolute;
+    right:.5em;
+    top:.3em;
+    color: rgba(212,0,0,0.80);
+    font-size: 3em;
+}
+.navbar {
+    display: block;
+    font-size: 2em;
+    margin: 1em auto;
+	width: 95%;
+}
+.navbtn{
+    background-color: rgba(255,255,255,1.00);
+	border-radius: 5px;
+	display: inline-block;
+	cursor: pointer;
+    padding: 0px 10px;
+    font-family: "Montserrat";
+	color: rgba(212,0,0,1.00);
+	text-decoration: none;
+    text-align: center;
+}
+.navbtn:hover {
+	background-color:rgba(230,230,230,1.00);
+}
+.navbtn:active {
+	position:relative;
+	top:1px;
+}
+.outofstock {
+    font-size: 1em;
+    font-family: MontserratBold;
+    text-align: center;
+    padding: .5em 0;
+    margin-bottom: .5em;
+    border:solid 4px rgba(212,0,0,1.00);
+    border-radius: 5px;
+}
+.productbtns {
+    display: flex;
+    justify-content: space-between;
+}
+.productcomp {
+    
+}
+.productcomp a{
+    margin-top: .2em;
+    margin-bottom: .2em;
+    color: rgba(171,0,2,1.00);
+    transition: 0.3s;
+}
+.productcomp a:hover{
+    color: rgba(228,0,2,1.00);
+}
+.productcontainer {
+    display: flex;
+    margin-top: 2%;
+}
+.productdetails {
+    flex: 1;
+    padding-left: 2%;
+}
+.productdesc {
+    font-size: 2vw;
+    display: block;   
+}
+.productimg {
+    flex: 1;
+    width: 49%;
+    position: relative;
+    z-index: 2;
+}
+.productinfo {
+    margin-top: 1em;
+}
+.productimg img{
+    width: 100%;
+    display: inline-block;
+}
+.productprice {
+    font-family: "MontserratBold", sans-serif;
+    font-size: 3em;
+    padding-top: .5em;
+    color: rgba(230,0,0,1.00);
+}
+.regprice {
+    font-family: "MontserratBold", sans-serif;
+    font-size: .5em;
+    padding-top: .5em;
+    color: rgba(125,125,125,125.00);
+    text-decoration: line-through;
+}
+.subtext {
+    font-size: .4em;
+    margin-left: 2em;
+}
+.subtitle {
+    margin: 3% 0 1% 0;
+    text-align: center;
+    font-size: 3em;
+}
+
+@media only screen and (max-width: 992px) {
+    iframe {
+    width: 88vw;
+    height: 49.5vw;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+    #container {
+        width: 95%;
+    }
+    .addtocartbtn {
+        font-size: 3em;
+        display: block;
+        width: 100%;
+        padding: .5em 0;
+        margin: .5% 0;
+    }
+    .addtoregbtn {
+        font-size: 3em;
+        display: block;
+        width: 100%;
+        padding: .5em 0;
+        margin: .5% 0;
+    }
+    .addtowishbtn {
+        font-size: 3em;
+        display: block;        
+        width: 100%;
+        padding: .5em 0;
+        margin: .5% 0;
+    }
+    .infotitle {
+        font-size: 1.5em;
+    }
+    .likebtn {
+        font-size: 6em;
+    }
+    .outofstock {
+        font-size: 2.5em;
+    }
+    .productbtns {
+        flex-direction: column;
+    }
+    .productcomp {
+        font-size: 2em;
+    }
+    .productcontainer {
+        flex-wrap: wrap;
+    }
+    .productdesc {
+        font-size: 5em;
+        display: block;   
+}
+    .productdetails {
+        padding-left: 0%;
+    }
+    .productimg {
+        flex:100%;
+    }
+    .productprice {
+        font-size: 6em;
+        padding-top: .2em;
+    }
+    .regprice {
+        font-size: .5em;
+        padding-top: .2em;
+    }
+    .productinfo {
+        font-size: 3em;
+    }
+    
+    
+}
+

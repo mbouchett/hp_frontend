@@ -1,0 +1,96 @@
+Lauren Belanger
+,,11:50,8:00,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00,,
+OFF,OFF,1st,1st,1st,1st,1st,1st,1st,1st,1st,1st,OFF,OFF
+,Closer,,,,,
+Shawna Bevins
+,,,,9:00,5:00,9:00,5:00,9:00,5:00,9:00,5:00,9:00,5:00
+OFF,OFF,OFF,OFF,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd
+,,,,,,
+Angelie Bouchett
+,,9:00,6:00,9:50,6:00,,,9:00,6:00,9:50,6:00,,
+OFF,OFF,MZZ,MZZ,MZZ,MZZ,OFF,OFF,NOF,NOF,NOF,NOF,OFF,OFF
+,(R),,,,,
+Carolle Bouchett
+,,,,,,,,9:50,6:00,,,,
+OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF
+,,,,,,
+Francois Bouchett
+,,,,8:30,6:00,8:30,6:00,9:50,6:00,9:50,6:00,9:50,6:00
+OFF,OFF,OFF,OFF,VCA,VCA,VCA,VCA,VCA,VCA,VCA,VCA,VCA,VCA
+,,,,,,
+Angela Cefelaro
+,,,,,,,,,,9:50,6:00,,
+OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,1st,1st,OFF,OFF
+,,,,,,
+Maya Davila
+9:50,6:00,,,,,11:50,8:00,11:50,8:00,11:50,8:00,9:50,6:00
+1st,1st,OFF,OFF,OFF,OFF,1st,1st,1st,1st,1st,1st,1st,1st
+,,,,,,
+Jessica Davis
+9:50,6:00,11:50,8:00,11:50,8:00,,,,,9:50,6:00,11:50,8:00
+MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,OFF,OFF,OFF,OFF,MZZ,MZZ,MZZ,MZZ
+,,,,,,
+Phoebe Diamond
+9:50,6:00,,,,,9:50,6:00,11:50,8:00,9:50,6:00,11:50,8:00
+1st,1st,OFF,OFF,OFF,OFF,1st,1st,1st,1st,1st,1st,1st,1st
+,,,,Closer,,Closer
+Sarah Erickson
+,,,,2:00,8:00,2:00,8:00,2:00,8:00,2:00,8:00,09:50,6:00
+OFF,OFF,OFF,OFF,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd
+,,,,,,
+Theo Francis
+9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00,,,,,9:50,6:00
+WHS,WHS,WHS,WHS,WHS,WHS,WHS,WHS,OFF,OFF,OFF,OFF,WHS,WHS
+,,,,,,
+Manriel Grant
+9:50,6:00,9:50,6:00,9:50,6:00,11:50,8:00,11:50,8:00,,,,
+1st,1st,1st,1st,1st,1st,1st,1st,1st,1st,OFF,OFF,OFF,OFF
+Hider,,,Closer,,,
+Teri Lacroix
+9:50,6:00,12:50,8:00,,,,,12:50,8:00,12:50,8:00,12:50,8:00
+2nd,2nd,2nd,2nd,OFF,OFF,OFF,OFF,2nd,2nd,2nd,2nd,2nd,2nd
+,,,,,Closer,
+Taryn Maitland
+,,,,8:30,6:00,8:30,6:00,9:50,6:00,9:50,6:00,9:50,6:00
+OFF,OFF,OFF,OFF,VCA,VCA,VCA,VCA,VCA,VCA,VCA,VCA,VCA,VCA
+,,,,,,
+Aidan Marble
+9:50,6:00,11:50,8:00,9:50,6:00,,,,,9:50,6:00,11:50,8:00
+HLD,HLD,HLD,HLD,HLD,HLD,OFF,OFF,OFF,OFF,HLD,HLD,HLD,HLD
+,,,,,,
+Alister Marble
+9:50,6:00,9:50,6:00,11:50,8:00,9:50,6:00,9:50,6:00,,,,
+1st,1st,1st,1st,1st,1st,1st,1st,1st,1st,OFF,OFF,OFF,OFF
+Closer,,Closer,,,,
+Alex Medina
+9:50,6:00,9:50,6:00,11:50,8:00,11:50,8:00,,,,,9:50,6:00
+2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,OFF,OFF,OFF,OFF,2nd,2nd
+,,,,,,
+Charlotte Nye
+,,9:50,6:00,6:00,8:00,,,6:00,8:00,4:00,8:00,,
+OFF,OFF,1st,1st,1st,1st,OFF,OFF,1st,1st,1st,1st,OFF,OFF
+,,Hider,,Hider,,
+Erin Oconnor
+9:50,6:00,,,,,,,,,5:00,8:00,9:50,6:00
+1st,1st,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,1st,1st,1st,1st
+,,,,,,
+Miranda Post
+9:50,6:00,9:50,6:00,,,,,,,11:50,8:00,11:50,8:00
+1st,1st,1st,1st,OFF,OFF,OFF,OFF,OFF,OFF,1st,1st,1st,1st
+,,,,,Hider,Hider
+Isabelle Schechter
+9:50,6:00,5:00,8:00,,,,,,,5:00,8:00,,
+1st,1st,1st,1st,OFF,OFF,OFF,OFF,OFF,OFF,1st,1st,OFF,OFF
+,Hider,,,,,
+Virginia Schiavetta
+,,,,,,5:00,8:00,,,,,9:50,6:00
+OFF,OFF,OFF,OFF,OFF,OFF,1st,1st,OFF,OFF,OFF,OFF,1st,1st
+,,,Hider,,,
+Derek Spear
+,,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00,,
+OFF,OFF,1st,1st,1st,1st,1st,1st,1st,1st,1st,1st,OFF,OFF
+,,,,,,
+Maggie Stevens
+,,,,9:50,6:00,,,9:50,6:00,,,,
+OFF,OFF,OFF,OFF,1st,1st,OFF,OFF,1st,1st,OFF,OFF,OFF,OFF
+,,,,,,

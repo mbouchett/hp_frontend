@@ -1,0 +1,22 @@
+h3 {
+	margin: auto;
+	text-align: center;
+	font-size: 20px;
+}
+img {
+	background-color: #000000;
+}
+#banner {
+	margin: auto;
+	text-align: center;
+	background-color: #000000;
+}
+.dashcell {
+	margin: auto;
+	text-align: center;
+}
+.user {
+	margin: auto;
+	text-align: center;
+	font-size: 12px;
+}

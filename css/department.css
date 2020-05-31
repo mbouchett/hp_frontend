@@ -1,0 +1,143 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*These Values are universal an will not need to change based on screen size */
+/*Global Tags*/
+a {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: "Montserrat";
+}
+
+/*IDs Alphabetical*/
+#feature {
+    flex: auto;
+}
+
+
+/*Classes Alphabetical*/
+.deptlabel {
+    font-family: "MontserratBold", sans-serif;
+    font-size: 2vw;
+    margin-top: .2em;
+}
+
+.itemcontainer img{
+    width: 100%;
+    vertical-align: middle;
+    border-radius: 50%;
+    border: rgba(0,0,0,0.00) solid .2em;
+}
+.itemcontainer img:hover {
+    border: rgba(255,0,0,1.00) solid .2em;
+}
+.itemcontainer {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: top;
+    margin-bottom: 3em;
+}
+.item {
+    border-radius: 50%;
+    flex: 22%;
+    text-align: center;
+    font-size: 1em;
+    margin: .5%; 
+    max-width: 24%;
+}
+.item a{
+    color: rgba(0,0,0,1.00);
+}
+.item a:hover{
+    color: rgba(204,0,0,1.00);
+}
+
+.likeditemcontainer {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 3em;
+}
+.likeditemcontainer img{
+    width: 100%;
+    vertical-align: middle;
+    border-radius: 50%;
+}
+.likeditem {
+    border-radius: 50%;
+    flex: 23%;
+    text-align: center;
+    font-size: 1em;
+    border: rgba(0,0,0,0.00) solid .2em;
+    margin-top: .5%;    
+}
+.likeditem:hover {
+    border: rgba(255,0,0,1.00) solid .2em;
+}
+
+.pagecontainer {
+    display: block;
+    padding-top: 1%;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto; 
+}
+.pagetitle {
+    margin: 2% 0 1% 0;
+    text-align: center;
+    font-size: 4em;
+    font-family: "MontserratBold"
+}
+.subtext {
+    font-size: .4em;
+    margin-left: 2em;
+}
+.subtitle {
+    margin: 3% 0 1% 0;
+    text-align: center;
+    font-size: 3em;
+}
+.subtitle a{
+    color:rgba(58,58,58,1.00);
+}
+.subtitle a:hover{
+    color: rgba(108,0,1,1.00);
+}
+/* Large devices (phones, 992px and down) Changes for MOBILE go Here */
+@media only screen and (max-width: 992px) {
+    .hiddenformobile {
+       position: absolute !important;
+       top: -9999px !important;
+       left: -9999px !important;
+    }
+    .deptlabel {
+    font-family: "MontserratBold", sans-serif;
+    font-size: 4em;
+    margin-top: .2em;
+    }
+    .item {
+    border-radius: 50%;
+    flex: 47%;
+        max-width: 50%;
+}
+    .pagecontainer {
+        padding-top: 1%;
+        width: 98%;
+    }
+}
+
+/* Large devices (laptops/desktops, 992px and up) Changes for DESKTOP go Here */
+@media only screen and (min-width: 992px) {
+    .hiddenfordesktop {
+        position: absolute !important;
+        top: -9999px !important;
+        left: -9999px !important;
+    }
+}

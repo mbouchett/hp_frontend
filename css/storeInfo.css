@@ -1,0 +1,178 @@
+/* CSS Document */
+
+body {
+    font-family: "Montserrat";
+    padding: 0;
+    margin: 0;
+}
+a {
+    text-decoration: none;
+    color: rgba(58,58,58,1.00);
+}
+a:hover {
+    color: rgba(108,0,1,1.00);
+}
+
+/*ID tags Alphabetical*/
+#container {
+    text-align: center;
+    display: block;
+    padding-top: 1%;
+    margin-left: auto;
+    margin-right: auto; 
+    width: 80%;
+}
+
+/*Classes Alphabetical*/
+.alert {
+    font-size: 2em;
+    font-family: "MontserratBold";
+    color: rgba(171,0,2,1.00);
+}
+.bottomlinks {
+    display: block;
+    margin-bottom: 3em;
+}
+.bottomlinks a{
+    display: block;
+    margin-top: .2em;
+    margin-bottom: .2em;
+    color: rgba(171,0,2,1.00);
+    font-size: 2em;
+    transition: 0.3s;
+}
+.bottomlinks a:hover{
+    color: rgba(228,0,2,1.00);
+}
+.contactbtn {
+	background-color: rgba(255,255,255,1.00);
+	border-radius: 5px;
+    border: none;
+	display: inline-block;
+	cursor: pointer;
+    font-size: 2em;
+    font-family: "MontserratBold";
+	color: rgba(212,0,0,1.00);
+    padding: .2em .5em;
+    margin: .5em 0 0 0;
+	text-decoration: none;
+    text-align: center;
+    transition: 0.3s;
+}
+.contactbtn:hover {
+	background-color:rgba(230,230,230,1.00);
+}
+.contactbtn:active {
+	position:relative;
+	top:1px;
+}
+.contactform {
+    display: inline-block;
+    border-radius: 28px;
+    border: rgba(171,0,2,1.00) solid 1px;
+    background-color: rgba(211,211,211,1.00);
+    width: 50%;
+    padding: 2em;
+    text-align: center;
+}
+.contactform input[type="text"]{
+    padding: .2em;
+    margin: .5em 0 .5em 0;
+    border-radius: 5px;
+    vertical-align: middle;
+    width: 90%;
+    font-size: 1.2em;
+    border: thick white;
+    text-align: center;
+    display: inline-block;
+}
+
+.contactform input[type="password"]{
+    padding: .2em;
+    margin: .5em 0 .5em 0;
+    border-radius: 5px;
+    vertical-align: middle;
+    width: 90%;
+    font-size: 1.2em;
+    border: none;
+    text-align: center;
+    -webkit-transition: width 1s; /* Safari */
+    transition: width 1s;
+    display: inline-block;
+}
+.contactinfo {
+    font-size: 1.8em;
+    margin-bottom: .3em;
+    
+}
+.emailbtn {
+    font-size: 1.8em;
+    margin-bottom: .3em;
+    padding: .5em;
+    color: rgba(171,0,2,1.00);
+}
+.featuretitle {
+    margin: 2% 0 1% 0;
+    text-align: center;
+    font-size: 3em;
+    font-family: "MontserratBold";
+    
+}
+.messagebox {
+    padding: .2em;
+    margin: .5em 0 .5em 0;
+    border-radius: 5px;
+    vertical-align: middle;
+    width: 90%;
+    font-size: 1.2em;
+    border: thick white;
+    text-align: center;
+    display: inline-block;
+    height: 6em;
+}
+.messagebox:focus{
+    text-align: left;
+}
+.storestory {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    text-align: left;
+}
+
+@media only screen and (max-width: 992px) {
+    #container {
+        width: 95%;
+    }
+    .bottomlinks {
+        font-size: 2em;
+    }
+    .contactbtn {
+        font-size: 3em;
+        padding: .2em .8em;
+    }
+    .contactform {
+        width: 90%;
+    }
+    .contactform input[type="text"]{
+        font-size: 3.5em;
+    }
+    .contactform input[type="password"]{
+        font-size: 3.5em;
+    }
+    .contactinfo {
+        font-size: 1.2em;
+    }
+    .featuretitle {
+        font-size: 3.5em;
+    }
+    .messagebox {
+        height: 4em;
+        font-size: 4em;
+    }
+    .storestory {
+        width: 90%;
+    }
+}
+

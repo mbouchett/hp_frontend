@@ -1,0 +1,82 @@
+/* CSS Document */
+
+/*IDs Alphabetical*/
+#footer {
+    width: 100%;
+    background-color: rgba(211,211,211,1.00);
+    border-top: solid 1px;
+    border-bottom: solid 1px;
+    text-align: center;
+    font-family: "Montserrat";
+    font-size: 1vw;
+}
+
+/*Classes Alphabetical*/
+.copyinfo {
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 2em;
+}
+.footercontainer {
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    padding-top: 50px;
+    padding-bottom: 10px;
+    font-size: 2em;
+    background: rgba(211,211,211,1.00);
+    display: flex;
+}
+
+.linkcontainer {
+    width: 100%;
+    text-align: left;
+    vertical-align: top;
+    font-weight: bold;
+}
+.linkcontainer a{
+    display: block;
+    margin: 5px;
+    color: rgba(58,58,58,1.00);
+    font-size: .5em;
+    font-weight: normal;
+}
+.linkcontainer a:hover{
+    color: rgba(108,0,1,1.00);
+}
+.linkcontainer i{
+    margin-right: 1em;
+}
+.linkheader {
+    font-size: 1em;
+    font-family: "MontserratBold"
+}
+
+/* Large devices (phones, 992px and down) Changes for MOBILE go Here*/
+@media only screen and (max-width: 992px) {
+    .footercontainer {
+        width: 90%;
+        padding-top: 50px;
+        padding-bottom: 10px;
+        background: rgba(211,211,211,1.00);
+        display: block;
+        font-size: 4em;
+    }
+    .linkcontainer {
+        width: auto;
+        text-align: left;
+        vertical-align: top;
+        font-weight: bold;
+        padding-top: 1%;
+        padding-bottom: 1%;
+    }
+    .linkcontainer a{
+        font-size: 1.2em;
+    }
+    .linkheader {
+        text-align: center;
+        margin-top: .5em;
+        margin-bottom: 1em;
+        font-size: 2em;
+}
+}

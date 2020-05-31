@@ -1,0 +1,101 @@
+body {
+	background-color: #FFFFFF;
+	margin: 0;
+	padding: 0;
+    }
+input {
+	border: none;
+}   
+button {
+	width: 100px;
+}  
+.order { 
+	font-family: Arial, Helvetica, sans-serif;
+	width: 960px;
+	margin: auto;
+}
+.terms { 
+	font-family: Arial, Helvetica, sans-serif;
+	width: 960px;
+	margin: auto;
+}
+.terms input {
+	width: 700px;
+}
+.items { 
+	border-right: thin solid;
+	
+}
+ .print {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	border-right: solid;
+	border-right-width: thin;
+}
+.imgdefault {
+	text-align: center;
+	border: none;
+}
+.center { text-align:center; }
+p.breakhere {page-break-before: always}
+th{ font-size: 24px; }
+.thsmall{
+  font-weight: normal;
+  font-size: 16px;
+}
+.menu {
+	border-style: solid;
+	border-width: 1px;
+	padding: 5px;
+	width: 150px;	
+	cursor: pointer;
+} 
+.ext {
+	border: 0px;
+	text-align: right;
+}
+.summary{
+  font-family: Arial;
+  text-align: center;
+}
+.button {
+	text-align: right;
+}
+.sent{
+  position: fixed;
+  top: 0px;
+  left: 0px;
+}
+.sent img{
+  opacity: .40;
+  max-height: 150px;
+}
+.add {
+   margin: auto;
+   text-align: center;
+}
+.add table {
+   margin: auto;
+   text-align: center;
+}
+.wantlist{
+    margin: auto;
+    text-align: center;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+    font-size: 18px;
+    border-collapse: collapse;
+    border-color: rgba(211,0,3,1.00);
+    border-style: solid;
+    border-width: 6px;
+	width: 960px;
+}
+.wantlist td{
+    border-color: rgba(211,0,3,1.00);
+    border-style: solid;
+    border-width: 1px;
+    padding: 2px;
+}
+.wantTitle {
+    font-size: 1.2em;
+    font-weight: bolder;
+}

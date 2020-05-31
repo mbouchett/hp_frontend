@@ -1,0 +1,323 @@
+/* CSS Document */
+
+body {
+    font-family: "Montserrat";
+    padding: 0;
+    margin: 0;
+}
+a {
+    text-decoration: none;
+}
+
+/*ID tags Alphabetical*/
+#createregcontainer {
+    text-align: center;
+    display: block;
+    padding-top: 1%;
+    margin-left: auto;
+    margin-right: auto; 
+}
+#na01 {
+	display: none;
+}
+#na02 {
+	display: none;
+}
+
+/*Classes Alphabetical*/
+.alert {
+    font-size: 2em;
+    font-family: "MontserratBold";
+    color: rgba(171,0,2,1.00);
+}
+.bottomlinks {
+    display: block;
+    margin-bottom: 3em;
+}
+.bottomlinks a{
+    display: block;
+    margin-top: .2em;
+    margin-bottom: .2em;
+    color: rgba(171,0,2,1.00);
+    font-size: 2em;
+    transition: 0.3s;
+}
+.bottomlinks a:hover{
+    color: rgba(228,0,2,1.00);
+}
+.featuretitle {
+    margin: 2% 0 1% 0;
+    text-align: center;
+    font-size: 3em;
+    font-family: "MontserratBold";
+    
+}
+.createregform {
+    display: inline-block;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 50%;
+    justify-content: space-between;
+    text-align: center;
+    border-radius: 28px;
+    border: rgba(171,0,2,1.00) solid 1px;
+    background-color: rgba(211,211,211,1.00);
+    padding: 2em;
+}
+.createregbtn {
+	background-color: rgba(255,255,255,1.00);
+	border-radius: 5px;
+    border: none;
+	display: inline-block;
+	cursor: pointer;
+    font-size: 2em;
+    font-family: "MontserratBold";
+	color: rgba(212,0,0,1.00);
+    padding: .2em .5em;
+    margin: .5em 0 0 0;
+	text-decoration: none;
+    text-align: center;
+    transition: 0.3s;
+}
+.createregbtn:hover {
+	background-color:rgba(230,230,230,1.00);
+}
+.createregbtn:active {
+	position:relative;
+	top:1px;
+}
+
+.createregform input[type="text"]{
+    vertical-align: middle;
+    font-size: 1.2em;
+    border: none;
+    text-align: center;
+    display: inline-block;
+}
+
+.createreglinks {
+    display: block;
+    margin-bottom: 3em;
+}
+.createreglinks a{
+    display: block;
+    margin-top: .2em;
+    margin-bottom: .2em;
+    color: rgba(171,0,2,1.00);
+    font-size: 2em;
+    transition: 0.3s;
+}
+.createreglinks a:hover{
+    color: rgba(228,0,2,1.00);
+}
+.delineator {
+    width: 100%;
+    font-size: 1.5em;
+    text-align: center;
+    font-family: MontserratBold, Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+    margin-bottom: .5em;
+}
+.delineator2 {
+    width: 100%;
+    font-size: 1.5em;
+    text-align: center;
+    font-family: MontserratBold, Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+    margin: 1em 0 1em 0;
+}
+.instructions {
+    font-size: 2em;
+    font-family: "MontserratBold";   
+}
+
+/*Custom Radio Buttons Start Here*/
+.radiocontainer {
+  display: block;
+  position: relative;
+  padding-left: 35px;
+  margin-bottom: .5em;
+  cursor: pointer;
+  font-size: 22px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+    text-align: left;
+}
+
+/* Hide the browser's default radio button */
+.radiocontainer input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+}
+
+/* Create a custom radio button */
+.radiocheckmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 25px;
+  width: 25px;
+  background-color: rgba(229,229,229,1.00);
+  border-radius: 50%;
+}
+
+/* On mouse-over, add a grey background color */
+.radiocontainer:hover input ~ .radiocheckmark {
+  background-color: #ccc;
+}
+
+/* When the radio button is checked, add a red background */
+.radiocontainer input:checked ~ .radiocheckmark {
+  background-color: rgba(212,0,0,1.00);
+}
+
+/* Create the indicator (the dot/circle - hidden when not checked) */
+.radiocheckmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+/* Show the indicator (dot/circle) when checked */
+.radiocontainer input:checked ~ .radiocheckmark:after {
+  display: block;
+}
+/* Style the indicator (dot/circle) */
+.radiocontainer .radiocheckmark:after {
+ 	top: 9px;
+	left: 9px;
+	width: 8px;
+	height: 8px;
+	border-radius: 50%;
+	background: white;
+}
+
+.regmonth {
+    width: 3em;
+    border-radius: 5px 0 0 5px;
+    padding: .2em;
+    margin: .5em 0 .5em 0;
+}
+.regday {
+    width: 2em;
+    padding: .2em;
+    margin: .5em 0 .5em 0;
+}
+.regyear {
+    width: 4em;
+    border-radius: 0 5px 5px 0;
+    padding: .2em;
+    margin: .5em .5em .5em 0;
+}
+.regdivider {
+    width: 1em;
+    padding: .2em 0;
+    margin: .5em 0 .5em 0;
+    border-radius: 0px;
+}
+.regphone {
+    border-radius: 5px;
+    flex-grow: 2;
+    padding: .2em;
+    margin: .5em 0 .5em .5em;
+}
+.regpartnerfn {
+    border-radius: 5px;
+    flex-grow: 1;
+    padding: .2em;
+    margin: .5em .5em .5em 0;
+}
+.regpartnerln {
+    border-radius: 5px;
+    flex-grow: 1;
+    padding: .2em;
+    margin: .5em 0 .5em .5em;
+}
+.regaddress1 {
+    border-radius: 5px;
+    padding: .2em;
+    margin: .5em 0 .5em 0;
+    width: 100%;
+}
+.regaddress2 {
+    border-radius: 5px;
+    padding: .2em;
+    margin: .5em .5em .5em 0;
+    width: 60%;
+}
+.regzip {
+    border-radius: 5px;
+    padding: .2em;
+    margin: .5em 0 .5em .5em;
+    flex-grow: 1;
+}
+
+.textfield input[type="text"]{
+    background-color: rgba(255,255,255,1.00);
+    vertical-align: middle;
+    text-align: center;
+    font-size: 1em;
+    border: none;
+    min-width: 1em;
+}
+.textfield {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    font-size: 1.2em;
+    justify-content: space-between;
+    width: 100%;
+}
+@media only screen and (max-width: 992px) {
+    .bottomlinks a{
+        margin-top: .5em;
+        font-size: 3.5em;
+    }
+    .createregbtn {
+        font-size: 4em;
+        padding: .2em .8em;
+    }
+    .createregform {
+        width: 90%;
+    }
+    .createregform input[type="text"]{
+        font-size: 2.5em;
+    }
+    .createregform input[type="password"]{
+        font-size: 3.5em;
+    }
+    .createregform label{
+        font-size: 3em;
+    }
+    .radiocontainer {
+      display: block;
+      position: relative;
+      padding-left: 50px;
+      margin-bottom: .5em;
+      cursor: pointer;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+    }
+    /* Create a custom radio button */
+    .radiocheckmark {
+      position: absolute;
+      top: 10px;
+      left: 0;
+      height: 40px;
+      width: 40px;
+      background-color: #eee;
+      border-radius: 50%;
+    }
+    /* Style the indicator (dot/circle) */
+    .radiocontainer .radiocheckmark:after {
+        top: 12px;
+        left: 12px;
+        width: 16px;
+        height: 16px;
+        border-radius: 50%;
+        background: white;
+    }
+}

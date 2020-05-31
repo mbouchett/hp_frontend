@@ -1,0 +1,100 @@
+Brynna 
+,,,,,,12:00,4:00,,,12:00,4:00,,
+1st,1st,1st,1st,1st,1st,2nd,2nd,1st,1st,2nd,2nd,1st,1st
+,,,,,,
+Angelie Bouchett
+,,,,,,,,,,,,,
+OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF
+,,,,,,
+Betty Bouchett
+,,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00,,
+OFF,OFF,OFC,OFC,OFC,OFC,OFC,OFC,OFC,OFC,OFC,OFC,OFF,OFF
+,,,,,,
+Carolle Bouchett
+,,,,,,,,9:50,6:00,,,,
+OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFC,OFC,OFF,OFF,OFF,OFF
+,,,,,,
+Francois Bouchett
+11:50,5:00,,,,,,,,,,,,
+WHS,WHS,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF
+,,,,,,
+Frank Bouchett
+,,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00,,
+OFF,OFF,1st,1st,1st,1st,1st,1st,1st,1st,HLD,1st,OFF,OFF
+,,,,,,
+Mark Bouchett
+,,,,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00
+OFF,OFF,OFF,OFF,MZZ,MZZ,MZZ,1st,WHS,WHS,WHS,WHS,MZZ,WHS
+,,,,,,warehouse 12-6
+Barbara Carlson
+11:50,5:00,11:50,8:00,9:50,6:00,9:50,6:00,,,,,9:50,6:00
+2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,OFF,OFF,OFF,OFF,2nd,2nd
+,Hider,,,,,Hider
+Sara  Champagne
+,,9:00,6:00,,,,,11:50,8:00,11:50,8:00,11:50,8:00
+OFF,OFF,HLD,HLD,OFF,OFF,OFF,OFF,HLD,HLD,HLD,HLD,HLD,HLD
+Closer,,,,,closer,Closer
+Natalie Gaudreau
+11:50,5:00,11:50,8:00,11:50,8:00,11:50,8:00,,,,,11:50,8:00
+1st,1st,1st,HLD,1st,1st,1st,1st,1st,1st,1st,1st,1st,MZZ
+,,Hider,,,,Hider
+Justine Henault
+,,,,,,11:50,8:00,,,,,9:50,6:00
+1st,1st,1st,1st,OFF,OFF,HLD,HLD,OFF,OFF,OFF,OFF,HLD,1st
+,,,,,,
+Georgia Hendrickson
+,,,,,,9:50,6:00,9:50,6:00,,,,
+OFF,OFF,OFF,OFF,OFF,OFF,HLD,1st,HLD,1st,OFF,OFF,OFF,OFF
+,office,office,,,,
+Ben Higgins
+11:50,5:00,9:00,5:00,,,,,11:50,8:00,11:50,8:00,9:50,8:00
+1st,1st,1st,1st,OFF,OFF,OFF,OFF,1st,1st,1st,1st,1st,1st
+$ ,vacuum ,,,$ - Closer,,$ - 
+Jessica Hopkins
+11:50,5:00,11:50,8:00,11:50,8:00,,,11:50,8:00,,,,
+1st,1st,1st,1st,HLD,HLD,OFF,OFF,1st,1st,OFF,OFF,OFF,OFF
+,,,,,,
+Teri Lacroix
+,,,,11:50,8:00,11:50,8:00,11:50,8:00,11:50,8:00,11:50,8:00
+OFF,OFF,OFF,OFF,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd
+,,Closer,Closer,,,
+Beth Lafountain
+,,9:00,4:00,9:00,4:00,9:00,4:00,9:00,4:00,9:00,4:00,9:00,4:00
+OFF,OFF,HLD,1st,HLD,1st,1st,1st,MZZ,OFC,MZZ,1st,1st,1st
+,$,,$,,,
+Shawna Little
+11:50,5:00,9:50,6:00,,,,,9:50,6:00,9:50,6:00,9:50,6:00
+2nd,2nd,2nd,2nd,OFF,OFF,OFF,OFF,2nd,2nd,2nd,2nd,2nd,2nd
+Hider,,,,,,
+Kathryn  Long
+11:50,5:00,,,,,2:30,8:00,3:00,8:00,3:00,8:00,11:50,8:00
+1st,1st,OFF,OFF,OFF,OFF,1st,1st,1st,1st,1st,1st,1st,1st
+,,,,,Hider,
+Leigh Studley
+,,11:50,8:00,9:50,6:00,9:50,6:00,9:50,6:00,9:00,5:00,,
+OFF,OFF,1st,1st,1st,1st,1st,1st,1st,1st,1st,1st,OFF,OFF
+,Closer,$,Hider,,$-vacuum,
+Kristen Trottier
+11:50,5:00,11:50,8:00,11:50,8:00,11:50,8:00,,,,,,
+MZZ,MZZ,1st,MZZ,1st,MZZ,1st,MZZ,OFF,OFF,OFF,OFF,OFF,OFF
+,,,hider,,,
+ x1STx
+4,,3,2,2,2,2,2,3,2,2,2,2,2
+1st,1st,1st,1st,1st,1st,1st,1st,1st,1st,1st,1st,1st,1st
+,,,,,,
+ x2NDx
+2,,1,1,1,1,1,1,1,1,1,1,2,1
+2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd
+,,,,,,
+ xHLDSx
+1,,1,1,1,1,1,1,1,1,1,1,1,1
+HLD,HLD,HLD,HLD,HLD,HLD,HLD,HLD,HLD,HLD,HLD,HLD,HLD,HLD
+,,,,,,
+ xMEZZx
+1,,1,1,1,1,1,1,1,1,1,1,1,1
+MZZ,OFF,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ
+,,,,,,
+ xWHSx
+1,,1,,1,,1,,1,,1,,1,
+WHS,WHS,WHS,OFF,WHS,OFF,WHS,OFF,WHS,OFF,WHS,OFF,WHS,OFF
+,,,,,,

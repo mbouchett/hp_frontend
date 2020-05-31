@@ -1,0 +1,261 @@
+/* CSS Document */
+
+body {
+    font-family: "Montserrat";
+    padding: 0;
+    margin: 0;
+}
+a {
+    text-decoration: none;
+    color: rgba(58,58,58,1.00);
+}
+a:hover {
+    color: rgba(108,0,1,1.00);
+}
+
+/*ID tags Alphabetical*/
+#container {
+    text-align: center;
+    display: block;
+    padding-top: 1%;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+
+/*Classes Alphabetical*/
+.alert {
+    font-size: 2em;
+    font-family: "MontserratBold";
+    color: rgba(171,0,2,1.00);
+}
+
+.bottomlinks {
+    display: block;
+    margin-bottom: 3em;
+}
+.bottomlinks a{
+    display: block;
+    margin-top: .2em;
+    margin-bottom: .2em;
+    color: rgba(171,0,2,1.00);
+    font-size: 2em;
+    transition: 0.3s;
+}
+.bottomlinks a:hover{
+    color: rgba(228,0,2,1.00);
+}
+.number {
+    width: 45%;
+    text-align: center;
+    font-size: 1.2em;
+}
+.featuretitle {
+    margin: 2% 0 1% 0;
+    text-align: center;
+    font-size: 3em;
+    font-family: "MontserratBold";
+    
+}
+.instructions {
+    font-size: 2em;
+    font-family: "MontserratBold";
+}
+.itemcontainer {
+	width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+	padding: .5em 0;
+    margin: .5em 0 .5em 0;
+    font-family: "Montserrat", sans-serif;
+    background-color: rgba(225,225,225,1.00);
+    border-radius: 5px;
+}
+.labelnumber {
+    width: 45%;
+    text-align: center;
+}
+
+.labeldate { 
+    width: 30%;
+    text-align: center;
+}
+.labelstatus {
+    width: 25%;
+    text-align: right;
+    padding: 0 .5em 0 0;
+}
+.messagebox {
+    padding: .2em;
+    margin: .5em 0 .5em 0;
+    border-radius: 5px;
+    vertical-align: middle;
+    width: 90%;
+    font-size: 1.2em;
+    border: thick white;
+    text-align: center;
+    display: inline-block;
+    height: 6em;
+}
+.messagebox:focus{
+    text-align: left;
+}
+.date {
+    width: 30%;
+    text-align: center;
+	font-size: 1.2em;
+}
+.regday {
+    width: 2em;
+    padding: .2em;
+    margin: .5em 0 .5em 0;
+}
+.regdivider {
+    width: 1em;
+    padding: .2em 0;
+    margin: .5em 0 .5em 0;
+    border-radius: 0px;
+}
+.reglist {
+    display: inline-block;
+    border-radius: 5px;
+    background-color: rgba(255,255,255,1.00);
+    margin: 2em 0;
+    padding: 2em 2em 0 2em;
+    text-align: center;
+}
+.reglist a{
+    color: rgba(25,25,25,1.00);
+}
+.reglist a:hover {
+    color: rgba(108,0,1,1.00);
+}
+.listlabels {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    font-family: "MontserratBold", sans-serif;
+    font-weight: bold;
+    margin-bottom: 1%;
+	font-size: 2em;
+}
+.regmonth {
+    width: 3em;
+    border-radius: 5px 0 0 5px;
+    padding: .2em;
+    margin: .5em 0 .5em 0;
+}
+.regyear {
+    width: 4em;
+    border-radius: 0 5px 5px 0;
+    padding: .2em;
+    margin: .5em .5em .5em 0;
+}
+.searchnames {
+    border-radius: 5px;
+    flex-grow: 2;
+    padding: .2em;
+    margin: .5em 0 .5em .5em;
+    width: 75%;
+}
+.searchregform {
+    display: inline-flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-between;
+    border-radius: 28px;
+    border: rgba(171,0,2,1.00) solid 1px;
+    background-color: rgba(211,211,211,1.00);
+    width: 50%;
+    padding: 2em;
+    text-align: center;
+}
+.searchregform input[type="text"]{  
+    margin: .5em 0 .5em 0;
+    vertical-align: middle;
+    font-size: 1.2em;
+    border: thick white;
+    text-align: center;
+    display: inline-block;
+}
+.status {
+    width: 23%;
+    text-align: right;
+	font-size: 1.2em;
+    font-family: montserratBold;
+    
+}
+
+.submitbtn {
+	background-color: rgba(255,255,255,1.00);
+	border-radius: 5px;
+    border: none;
+	display: inline-block;
+	cursor: pointer;
+    font-size: 2em;
+    font-family: "MontserratBold";
+	color: rgba(212,0,0,1.00);
+    padding: .2em .5em;
+    margin: .5em 0 0 0;
+	text-decoration: none;
+    text-align: center;
+    transition: 0.3s;
+}
+.submitbtn:hover {
+	background-color:rgba(230,230,230,1.00);
+}
+.submitbtn:active {
+	position:relative;
+	top:1px;
+}
+
+.textfield input[type="text"]{
+    background-color: rgba(255,255,255,1.00);
+    vertical-align: middle;
+    text-align: center;
+    font-size: 1em;
+    border: none;
+    min-width: 1em;
+}
+@media only screen and (max-width: 992px) {
+    .contactbtn {
+        font-size: 4em;
+        padding: .2em .8em;
+    }
+    .giftcardcontainer {
+        width: 90%;
+    }
+    .giftcardlink {   
+        width: 190px;
+    }
+    .itemcontainer {
+        font-size: 1.7em;
+    }
+    .messagebox {
+        height: 4em;
+        font-size: 4em;
+    }
+    .reglistlabels {
+        font-size: 2.5em;
+    }
+    .searchregform {
+        width: 90%;
+    }
+    .searchregform input[type="text"]{
+        font-size: 3em;
+    }
+    .submitbtn {
+        font-size: 3em;
+    }
+    .textfield input[type="text"]{
+        font-size: 2em;
+    }
+}
+.trackingnumber {
+    font-size: 1em;
+    text-align: right;
+    padding: 1em 1em 0 0;
+    width: 100%;
+    cursor: text;
+}

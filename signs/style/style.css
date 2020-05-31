@@ -1,0 +1,56 @@
+body {
+ background: url(../../images/burlington_map.jpg) repeat fixed;
+ background-size: 100%;
+ margin: 0;
+ padding: 0;
+ text-align: center;
+ font-family: Arial, Helvetica, sans-serif;
+}
+
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+ h3{
+   font-family: Arial Black, sans-serif;
+   font-size: 30px;
+   margin: 0;
+   padding: 0;
+ }
+
+  h2{
+   font-family: Arial Black, sans-serif;
+   font-size: 20px;
+   margin: 0;
+   padding: 0;
+ }
+
+a:link{text-decoration: none; color: #000000;}
+a:visited{text-decoration: none; color: #000000;}
+a:hover{text-decoration: none; color: #000000;}
+a:active{text-decoration: none; color: #000000;}
+
+#wrapper{
+ padding: 5px;
+ margin: auto;
+}
+
+ .dashtitle {
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 40px;
+   font-weight: bold;
+ }
+
+.image{
+  display: inline;
+  width: 205px;
+  height: 205px;
+
+}
+.image img{
+  max-width: 200px;
+  max-height: 250px;
+  border: solid 2px #000000;
+}

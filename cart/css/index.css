@@ -1,0 +1,330 @@
+/* CSS Document */
+
+body {
+    font-family: "Montserrat";
+    padding: 0;
+    margin: 0;
+}
+a {
+    text-decoration: none;
+    color: rgba(58,58,58,1.00);
+}
+a:hover {
+    color: rgba(108,0,1,1.00);
+}
+a:focus {
+    outline: none;
+}
+
+/*ID tags Alphabetical*/
+#container {
+    display: block;
+    padding-top: 1%;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+/*Classes Alphabetical*/
+.amounts {
+    text-align: right;
+    justify-content: space-between;
+    width: 30%;
+    display: flex;
+}
+.amounts div{
+    padding: 2px;
+}
+.cartitemcontainer {
+    width: 100%;
+    display: flex;
+    position: relative;
+    flex-wrap: nowrap;
+    border-bottom: solid 1px rgba(200,200,200,1.00);
+}
+
+.cartitemcontainer:hover {
+    background-color: rgba(200,200,200,1.00);
+    box-shadow: 0px 4px 5px -2px rgba(0,0,0,0.50);
+    border-bottom: solid 1px rgba(200,200,200,0.00);
+}
+.cartlabeldesc {
+    width: 80%;
+    padding-left: 1%;
+    text-align: left;
+}
+.cartlabelprice {
+    width: 10%;
+    text-align: center;
+}
+.cartlabelquan {
+    width: 10%;
+    text-align: center;
+}
+.cartlabels {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    font-family: "MontserratBold", sans-serif;
+    font-weight: bold;
+    margin-bottom: 1%;
+}
+.checkoutbtn {
+	background-color: rgba(212,0,0,1.00);
+	border-radius: 5px;
+    border: none;
+	display: inline-block;
+	cursor: pointer;
+    padding: .2em 2.5em;
+    margin-bottom: 2em;
+    font-size: 2em;
+    font-family: "MontserratBold";
+	color: rgba(255,255,255,1.00);
+	text-decoration: none;
+    text-align: center;
+    transition: 0.3s;
+   
+}
+.checkoutbtn:hover {
+	background-color:rgba(225,225,225,1.00);
+    color: rgba(212,0,0,1.00);
+}
+.checkoutbtncont {
+    margin-top: 1em;
+    width: 100%;
+    text-align: right;
+}
+.checkoutinfo {
+    clear: both;
+    -webkit-display: flex;
+    -webkit-flex-direction:column;
+    -webkit-align-content: flex-end;
+    -webkit-flex-wrap: wrap;
+    
+    display: flex;
+    flex-direction:column;
+    align-items: flex-end;
+    align-content: flex-end;
+    flex-wrap: wrap;
+    
+    text-align: right;
+    padding-right: 1%;
+    font-family:"MontserratBold", sans-serif;
+    font-weight: bold;
+    font-size: 2vw;
+}
+.desclink{
+    font-family: "Montserrat", sans-serif;
+    color: rgba(39,39,39,1.00);
+    font-size: 1.2em;
+}
+.desclink:hover{
+    color:rgba(171,0,0,1.00);
+}
+.directions {
+    font-size: 1.5vw;
+    text-align: right;
+    padding: 0 1%;
+    color: rgba(120,120,120,1.00);
+}
+.emptycartmsg {
+    font-size: 3em;
+    text-align: center;
+    width: 100%;
+    margin:12% 0;
+}
+.featuretitle {
+    margin: 2% 0 1% 0;
+    text-align: center;
+    font-size: 3em;
+    font-family: "MontserratBold";   
+}
+
+.imgcontainer {
+    width: 10%;
+    padding: 1%;
+}
+
+.imgcontainer img {
+    width: 100%;
+}
+.link {
+    font-family: "MontserratBold", sans-serif;
+    font-weight: bold;
+    padding: 1%;
+    width: 80%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    
+}
+.options {
+    padding: 1%;
+    display: inline-block;
+    width: 10%;
+    text-align: right;
+}
+.options input[type="text"]{
+    padding: .2em;
+    margin-bottom: .5em;
+    border-radius: 5px;
+    vertical-align: middle;
+    width: 90%;
+    font-size: 1.5vw;
+    border: thick white;
+    text-align: right;
+    display: inline-block;
+    background-color: rgba(229,229,229,1.00);
+}
+.options input:focus[type="text"] {
+    background-color: rgba(255,181,182,1.00);
+}
+.price {
+    font-size: 1.5em;
+    font-family: "MontserratBold", sans-serif;
+    font-weight: bold;
+    text-align: right;
+    width: 15%;
+    display: block;
+    padding: 1%;
+    color: rgba(230,0,0,1.00);
+}
+.red {
+    color: rgba(230,0,0,1.00);
+}
+.regprice {
+    font-size: .9em;
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    text-align: right;
+    display: block;
+    color: rgba(0,0,0,1.00);
+}
+.removebtn {
+	background-color: rgba(212,0,0,1.00);
+	border-radius: 5px;
+    border: none;
+	display: inline-block;
+	cursor: pointer;
+    width: 90%;
+    padding: .2em;
+    font-size: 1.5vw;
+    font-family: "MontserratBold";
+	color: rgba(255,255,255,1.00);
+	text-decoration: none;
+    text-align: center;
+    transition: 0.3s;
+   
+}
+.removebtn:hover {
+	background-color:rgba(255,255,255,1.00);
+    color: rgba(212,0,0,1.00);
+}
+.strike {
+    text-decoration: line-through;
+}
+
+.subfeature {
+    font-size: 1.5em;
+    color: rgba(184,0,0,1.00);
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.totaltax div{
+    padding: 2px;
+}
+.zip input[type="text"]{
+    border-radius: 5px;
+    vertical-align: middle;
+    width: 5em;
+    font-size: 2vw;
+    font-family: "MontserratBold", sans-serif;
+    font-weight: bold;
+    border:none;
+    padding: .2em;;
+    height: 1em;
+    line-height: 1em;
+    text-align: center;
+    background-color: rgba(229,229,229,1.00);
+    transition: 0.3s;
+}
+.updatequan {
+	background-color: rgba(212,0,0,1.00);
+	border-radius: 5px;
+    border: none;
+	display: inline-block;
+	cursor: pointer;
+    padding: .2em .5em;
+    margin: .5em;
+    float: right;
+    font-size: 1.5vw;
+    font-family: "MontserratBold";
+	color: rgba(255,255,255,1.00);
+	text-decoration: none;
+    text-align: center;
+    transition: 0.3s;
+}
+.updatequan:hover {
+	background-color:rgba(225,225,225,1.00);
+    color: rgba(212,0,0,1.00);
+}
+@media only screen and (max-width: 992px) {
+    #container {
+        width: 95%;
+    }
+    .amounts {
+        
+        width: 60%;
+    }
+    
+    .cartlabels {
+        font-size: 2em;
+    }
+    .cartlabelprice {
+        width: 20%;
+    }
+    .cartlabelquan {
+        width: 20%;
+    }
+    .checkoutinfo {
+        font-size: 2.7em;
+    }
+    
+    .directions {
+        font-size: 2em;
+    }
+    .imgcontainer {
+        width: 25%;
+        padding: 1%;
+    }
+    .link{
+        font-size: 2em;
+    }
+    .options {
+        width: 20%
+    }
+    .options input[type="text"]{
+        font-size: 3vw;
+        padding: .4em .2em;
+    }
+    .price {
+        width: 20%;
+        font-size: 2em;
+    }
+    .removebtn {
+        padding: .4em .2em;
+        font-size: 3vw;
+    }
+    .updatequan {
+        
+        font-size: 2.5vw;
+    }
+
+    .zip input[type="text"] {
+        font-size: 1em;
+        padding: 0;
+    }
+}
+

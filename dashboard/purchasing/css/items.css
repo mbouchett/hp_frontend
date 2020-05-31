@@ -1,0 +1,197 @@
+input[text]:focus { background-color: #33FFCC; }
+table {
+    border-collapse: collapse;
+ 
+}
+td {
+	border-style: solid;
+	border-width: 1px;
+	padding: 5px;
+	width: 150px;	
+}
+body {
+  background-color: #FFFFFF;
+    margin: 0;
+    padding: 0;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+    display: block;
+    
+    }
+
+/*Sizing for the list*/
+.item_ID{ width: 50px;}
+.pic{ width: 50px;}
+.sku{ width: 150px;}
+.desc{ width: 500px;}
+.dept{ width: 35px;}
+.deptP{ width: 70px;}
+.pack{ width: 60px;}
+.cost{ width: 75px;}
+.retail{ width: 75px;}
+.reg{ width: 75px;}
+.qty{ 
+	width: 50px;
+	text-align: center;
+}
+.ppo{ width: 100px;
+		font-size: 10px
+}
+.details{ 
+	width: 50px;
+	border: none;
+	cursor: pointer;
+}
+
+.popup {
+	margin: auto;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 35px;
+	position: fixed;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #000000;
+	border-radius: 5px;
+	width: 800px;
+	background: #CCFFFF;
+	visibility: hidden;
+	z-index: 8001;
+}
+#screen {
+  position: fixed;
+  margin-left: -40;
+  height: 100%;
+  width: 100%;
+  background: #003300;
+  opacity: .65;
+  z-index: 8000;
+  visibility: hidden;
+}
+
+#departments{
+  visibility: hidden;
+  width: 200px;
+  height: 300px;
+  overflow: scroll;
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  background-color: #DEDEDE;
+}
+.popHist input{
+	width: 30px;
+	border-style: solid;
+	border-width: 1px; 
+}
+
+/* This is the css that handles the picture popups */
+.thumbnail{
+position: relative;
+z-index: 0;
+}
+
+.thumbnail:hover{
+background-color: transparent;
+z-index: 50;
+}
+
+.thumbnail span{ /*CSS for enlarged image*/
+position: absolute;
+background-color: lightyellow;
+padding: 5px;
+top: -100px;
+left: -1000px;
+border: 1px solid Black;
+visibility: hidden;
+color: black;
+text-decoration: none;
+max-height: 350px;
+max-width: 350px;
+}
+
+.thumbnail span img{ /*CSS for enlarged image*/
+border-width: 0;
+padding: 2px;
+max-height: 350px;
+max-width: 350px;
+}
+
+.thumbnail:hover span{ /*CSS for enlarged image on hover*/
+visibility: visible;
+top: -100;
+left: 60px; /*position where enlarged image should offset horizontally */
+max-height: 350px;
+max-width: 350px;
+}
+.title{
+  font-size: 28px;
+  text-align: center;
+}
+.delete{
+    cursor: pointer;
+    text-align: center;
+    font-size: 14px;
+    color: #FF0505;
+    font-weight: bold;
+}
+.vnd{
+	display: none;
+}
+.vnd input{
+	width: 50px;
+}
+/* This is the css that handles the picture popups */
+.optionMenu {
+    width: 100%;
+    display: flex;
+    justify-content:center;
+    background: rgba(52,152,219,1.00);
+    margin-bottom: 10px;
+}
+
+.optionBtn {
+	background-color:rgba(52,152,219,1.00);
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	padding:15px 30px;
+	text-decoration:none;
+}
+.optionBtn:hover {
+	background-color:rgba(77,165,223,1.00);
+}
+.optionBtn:active {
+	position:relative;
+	top:1px;
+}
+
+
+.saveBtn {
+	background-color:rgba(67,255,100,1.00);
+	display:inline-block;
+    border: none;
+	cursor:pointer;
+	color:#3F3F3F;
+	font-family:Arial;
+	font-size:20px;
+	padding:10px 30px;
+	text-decoration:none;
+}
+.saveBtn:hover {
+	background-color:rgba(85,255,59,1.00);
+}
+.saveBtn:active {
+	position:relative;
+	top:1px;
+}
+
+
+.tableContainer {
+    width: 95%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}

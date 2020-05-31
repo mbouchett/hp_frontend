@@ -1,0 +1,112 @@
+Dave Bender
+10:50,6:00,9:50,6:00,,,,,9:50,6:00,7:50,4:00,7:50,4:00
+WHS,WHS,WHS,WHS,OFF,OFF,OFF,OFF,VCA,VCA,WHS,WHS,WHS,WHS
+,,,,,,
+Shawna Bevins
+10:50,6:00,9:50,6:00,,,,,9:50,6:00,7:50,4:00,7:50,4:00
+2nd,2nd,2nd,2nd,OFF,OFF,OFF,OFF,VCA,VCA,2nd,2nd,2nd,2nd
+,,,,,,
+Angelie Bouchett
+10:50,6:00,12:00,6:00,9:50,6:00,,,,,7:50,4:00,7:50,4:00
+1st,1st,1st,1st,OFC,OFC,OFF,OFF,VCA,VCA,OFC,OFC,OFC,OFC
+Hider,,,,,,
+Betty Bouchett
+,,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00,7:50,4:00,,
+OFF,OFF,OFC,OFC,OFC,OFC,OFC,OFC,VCA,VCA,OFC,OFC,OFF,OFF
+,,,,,,
+Carolle Bouchett
+,,,,,,,,9:50,6:00,,,,
+OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,VCA,VCA,OFF,OFF,OFF,OFF
+,,,,,,
+Francois Bouchett
+,,,,9:50,6:00,9:50,6:00,9:50,6:00,7:50,4:00,7:50,4:00
+OFF,OFF,OFF,OFF,OFC,1st,1st,1st,VCA,VCA,1st,1st,1st,1st
+,,,,,,
+Frank Bouchett
+,,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00,7:50,4:00,,
+OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,VCA,VCA,OFF,OFF,OFF,OFF
+,,,,,,
+Mark Bouchett
+,,,,9:50,6:00,9:50,6:00,9:50,6:00,7:50,4:00,7:50,4:00
+OFF,OFF,OFF,OFF,WHS,WHS,WHS,WHS,VCA,VCA,OFC,OFC,OFC,OFC
+,,,,,,
+Hallie Companion
+,,9:50,6:00,,,12:50,6:00,9:50,6:00,7:50,4:00,7:50,4:00
+OFF,OFF,1st,1st,OFF,OFF,1st,1st,VCA,VCA,1st,1st,1st,1st
+,,,,,,
+Kelsey Cunningham
+,,,,11:50,8:00,12:50,6:00,12:50,9:00,7:50,4:00,12:50,9:00
+OFF,OFF,OFF,OFF,1st,1st,1st,1st,VCA,VCA,1st,1st,1st,1st
+,,Hider,Closer,,,
+Alexa Delorge
+10:50,6:00,9:50,6:00,,,,,12:50,9:00,3:50,9:00,4:50,4:00
+MZZ,MZZ,MZZ,MZZ,OFF,OFF,OFF,OFF,VCA,VCA,1st,MZZ,1st,1st
+,Train to Hide,,,,Hider,
+Daniela DiNardo
+,,,,9:50,6:00,9:50,6:00,9:50,6:00,7:50,4:00,7:50,4:00
+OFF,OFF,OFF,OFF,HLD,HLD,HLD,HLD,VCA,VCA,HLD,HLD,HLD,HLD
+,,,,,,
+Carla Galaise
+,,9:50,6:00,,,,,3:50,9:00,3:50,9:00,3:50,9:00
+OFF,OFF,HLD,1st,OFF,OFF,OFF,OFF,VCA,VCA,1st,HLD,1st,MZZ
+,,,,v,,
+JD Graves
+,,,,9:50,6:00,9:50,6:00,9:50,6:00,7:50,4:00,7:50,4:00
+OFF,OFF,OFF,OFF,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,MZZ
+,,,,,,
+Amber Greenwood
+10:50,6:00,1150,8:00,11:50,8:00,9:50,6:00,9:50,6:00,,,,
+1st,1st,1st,1st,1st,1st,1st,1st,VCA,VCA,OFF,OFF,OFF,OFF
+,Hider,,,,,
+Jennifer Gustafson
+10:50,6:00,11:50,8:00,,,,,9:50,6:00,12:50,9:00,7:50,4:00
+1st,1st,1st,MZZ,OFF,OFF,OFF,OFF,VCA,VCA,1st,1st,1st,1st
+,,,,,,
+Georgia Hendrickson
+,,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00,,,,
+OFF,OFF,OFC,OFC,1st,1st,1st,1st,VCA,VCA,OFF,OFF,OFF,OFF
+,,,,,,
+Jessica Hodder
+,,9:50,6:00,11:50,8:00,12:50,6:00,,,,,,
+OFF,OFF,1st,1st,1st,HLD,1st,HLD,VCA,VCA,OFF,OFF,OFF,OFF
+,,Train to Hide,Hider,,,
+Teri Lacroix
+,,,,11:50,8:00,12:50,6:00,12:50,9:00,12:50,9:00,12:50,9:00
+OFF,OFF,OFF,OFF,2nd,2nd,2nd,2nd,VCA,VCA,2nd,2nd,2nd,2nd
+,,Closer,,,Closer,
+Sara  Longo
+10:50,6:00,,,,,,,,,,,7:50,4:00
+VCA,VCA,OFF,OFF,OFF,OFF,OFF,OFF,VCA,VCA,OFF,OFF,1st,1st
+,,,,,,
+Dawn Mahar
+10:50,6:00,11:50,8:00,9:50,6:00,,,12:50,9:00,,,,
+HLD,HLD,HLD,HLD,1st,1st,OFF,OFF,VCA,VCA,OFF,OFF,OFF,OFF
+,,,,,,
+Taryn Maitland
+,,,,,,12:50,6:00,,,12:50,9:00,12:50,9:00
+OFF,OFF,VCA,VCA,VCA,VCA,VCA,VCA,VCA,VCA,2nd,2nd,2nd,2nd
+,,,,,,Hider
+Emma Riesner
+,,,,,,,,,,12:50,9:00,7:50,4:00
+OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,VCA,VCA,CVR,CVR,CVR,CVR
+,,,,,,
+Stephanie Riggs
+10:50,6:00,11:50,8:00,9:50,6:00,9:50,6:00,,,,,7:50,4:00
+2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,VCA,VCA,OFF,OFF,2nd,2nd
+Closer,Closer,,,,,
+Derek Spear
+,,,,,,2:15,6:00,2:15,6:00,7:50,4:00,,
+OFF,OFF,OFF,OFF,OFF,OFF,1st,1st,VCA,VCA,1st,1st,OFF,OFF
+,,,,,,
+Brynna Thomas
+10:50,6:00,9:50,12:00,9:50,6:00,,,,,12:50,9:00,12:50,9:00
+1st,1st,1st,1st,VCA,VCA,VCA,VCA,VCA,VCA,VCA,VCA,1st,1st
+,,,,,,Closer
+Marshall Towsky
+,,,,,,,,,,,,4:00,9:00
+OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,VCA,VCA,OFF,OFF,VCA,VCA
+,,,,,,
+Mandi Trombley
+10:50,6:00,11:50,8:00,11:50,8:00,,,,,,,,
+1st,1st,1st,1st,1st,1st,OFF,OFF,VCA,VCA,OFF,OFF,OFF,OFF
+,,,,,,

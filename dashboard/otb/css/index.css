@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*Global Tags Alphabetical*/
+body {
+    font-family: Helvetica, Arial, "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", "sans-serif";
+}
+option {
+  font-size: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td {
+	border-style: solid;
+	border-color: rgb(0,0,0);
+	border-width: 1px;
+	text-align: right;
+}
+tr:nth-child(odd){
+    background-color: rgba(150,207,255,1.00);
+}
+
+/*IDs Alphabetical*/
+
+
+/*Classes Alphabetical*/
+
+ .black{
+    background-color: black;
+    width: 2px;        
+}
+.totals {
+	font-weight: bold;
+}
+.numbers{
+    font-size: 12px;
+}
+.supersmall{
+	font-size: 10px;
+}

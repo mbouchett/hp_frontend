@@ -1,0 +1,76 @@
+Angelie Bouchett
+10:50,6:00,,,,,,,,,9:50,6:00,,
+1st,1st,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,MZZ,1st,OFF,OFF
+,,,,,,
+Carolle Bouchett
+,,,,,,,,9:50,6:00,,,,
+OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFF,OFC,OFC,OFF,OFF,OFF,OFF
+,,,,,,
+Francois Bouchett
+10:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00,,,,,9:50,6:00
+WHS,WHS,WHS,WHS,WHS,WHS,WHS,WHS,OFF,OFF,OFF,OFF,WHS,WHS
+,,,,,,
+Frank Bouchett
+,,,,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00
+OFF,OFF,OFF,OFF,1st,1st,1st,1st,1st,1st,1st,1st,1st,1st
+,,,,,,
+Mark Bouchett
+,,,,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00
+OFF,OFF,OFF,OFF,MZZ,WHS,MZZ,WHS,MZZ,WHS,WHS,WHS,MZZ,WHS
+,,,,,,
+Lyndsay DeBord
+10:50,6:00,12:50,9:00,12:50,9:00,,,,,12:50,9:00,12:50,9:00
+MZZ,MZZ,MZZ,MZZ,MZZ,MZZ,OFF,OFF,OFF,OFF,MZZ,MZZ,MZZ,MZZ
+,,,,,Hider,Hider
+Claudia Gonzalez
+10:50,6:00,9:50,5:15,9:50,5:15,9:50,5:15,,,,,9:50,6:00
+2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,OFF,OFF,OFF,OFF,2nd,2nd
+Hider,,,,,,
+Amber Gurney
+,,12:50,9:00,12:50,9:00,12:50,9:00,,,12:50,9:00,12:50,9:00
+OFF,OFF,HLD,HLD,HLD,HLD,HLD,HLD,OFF,OFF,HLD,HLD,HLD,HLD
+,Closer,Hider,$,,,
+Georgia Hendrickson
+,,,,,,9:50,6:00,9:50,6:00,9:50,6:00,9:50,6:00
+OFF,OFF,OFF,OFF,OFF,OFF,HLD,1st,HLD,1st,HLD,1st,HLD,1st
+,,,,,,
+Ben Higgins
+10:50,6:00,9:00,5:00,,,,,12:50,9:00,12:50,9:00,12:50,9:00
+1st,1st,1st,1st,OFF,OFF,OFF,OFF,1st,1st,1st,1st,1st,1st
+,,,,$ - Closer,Closer,$ - Closer
+Natalya Kreiner
+,,,,,,12:50,9:00,12:50,8:00,12:50,9:00,9:50,6:00
+OFF,OFF,OFF,OFF,OFF,OFF,1st,1st,1st,1st,1st,1st,1st,1st
+,,,,,,
+Teri Lacroix
+,,,,12:50,9:00,12:50,9:00,12:50,9:00,12:50,9:00,12:50,9:00
+OFF,OFF,OFF,OFF,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd,2nd
+,,Closer,Closer,,,
+Beth Lafountain
+,,9:00,4:00,9:00,4:00,9:00,4:00,9:00,4:00,9:00,4:00,,
+OFF,OFF,MZZ,1st,1st,1st,1st,1st,1st,1st,1st,1st,OFF,OFF
+,$,,,,,
+Andrea Lalumiere
+10:50,6:00,12:50,9:00,12:50,9:00,,,12:50,9:00,,,9:50,6:00
+1st,1st,1st,1st,1st,1st,OFF,OFF,HLD,HLD,OFF,OFF,1st,1st
+$ - Closer,,,,Hider,,
+Shawna Little
+10:50,6:00,12:50,9:00,,,,,9:50,6:00,9:50,6:00,9:50,6:00
+2nd,2nd,2nd,2nd,OFF,OFF,OFF,OFF,2nd,2nd,2nd,2nd,2nd,2nd
+,Hider,,,,,
+Alida Rodgers
+10:50,6:00,9:50,6:00,9:50,5:00,12:50,9:00,,,,,12:50,9:00
+HLD,HLD,HLD,1st,HLD,1st,1st,1st,OFF,OFF,OFF,OFF,1st,1st
+,,,Hider,,,
+Leigh Studley
+,,,,9:50,6:00,9:50,6:00,9:50,6:00,9:00,5:00,9:50,6:00
+OFF,OFF,OFF,OFF,1st,1st,1st,1st,1st,1st,1st,1st,1st,1st
+,,$,,,$,
+Charlotte Volk
+10:50,5:00,12:50,9:00,12:50,9:00,12:50,9:00,12:50,9:00,,,,
+1st,1st,1st,1st,1st,1st,MZZ,MZZ,MZZ,MZZ,OFF,OFF,OFF,OFF
+,,,,,,
+Gary X
+,,4:00,9:00,,,,,4:00,6:00,4:00,6:00,,
+OFF,OFF,2nd,2nd,OFF,OFF,OFF,OFF,2nd,2nd,2nd,2nd,OFF,OFF
+,,,,,,

@@ -1,0 +1,5 @@
+// periodSummary.js
+function checkStart()
+{
+
+}

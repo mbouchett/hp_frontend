@@ -1,0 +1,60 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+  <title>Homeport Half Sale Sign</title>
+  <link rel="stylesheet" type="text/css" href="../style/half001.css" />
+</head>
+
+<body>
+  <div class="wrapper">
+    <input id="title1" class="title"  name="title" placeholder="----Category----" />
+    <img title="Click For Red / Double Click For Black" onclick="color1()" ondblclick="color1x()" class="line" alt="Homeport Logo" src="../images/longlogo.png" />
+    <input id="disc1a" class="discount" name="title" placeholder="00" /><div id="disc1b" class="percent">% Off</div>
+    <input id="subtext" class="subtext"  name="subtext" placeholder="----subtext----" />
+    <input id="subtext" class="subsubtext"  name="subsubtext" placeholder="----subtext----" />
+      <hr />
+    <div class="footer">Sale Ends:</div>
+    <input style="width: 125px" class="footer"  name="title" placeholder="mm/dd/yyyy" />
+  </div>
+  
+  <div id="tag2" class="wrapper">
+    <input id="title2" class="title"  name="title" placeholder="----Category----" />
+    <img title="Click For Red / Double Click For Black" onclick="color2()" ondblclick="color2x()" class="line" alt="Homeport Logo" src="../images/longlogo.png" />
+    <input id="disc2a" class="discount" name="title" placeholder="00" /><div id="disc2b" class="percent">% Off</div>
+    <input id="subtext" class="subtext"  name="subtext" placeholder="----subtext----" />
+    <input id="subtext" class="subsubtext"  name="subsubtext" placeholder="----subtext----" />
+    <hr />
+    <div class="footer">Sale Ends:</div>
+    <input style="width: 125px" class="footer"  name="title" placeholder="mm/dd/yyyy" />
+  </div>
+  <script type="text/javascript">
+function color1()
+{
+  document.getElementById("title1").style.color="#FF0000";
+  document.getElementById("disc1a").style.color="#FF0000";
+  document.getElementById("disc1b").style.color="#FF0000";
+}
+function color2()
+{
+  document.getElementById("title2").style.color="#FF0000";
+  document.getElementById("disc2a").style.color="#FF0000";
+  document.getElementById("disc2b").style.color="#FF0000";
+}
+function color1x()
+{
+  document.getElementById("title1").style.color="#000000";
+  document.getElementById("disc1a").style.color="#000000";
+  document.getElementById("disc1b").style.color="#000000";
+}
+function color2x()
+{
+  document.getElementById("title2").style.color="#000000";
+  document.getElementById("disc2a").style.color="#000000";
+  document.getElementById("disc2b").style.color="#000000";
+}
+  </script>
+</body>
+</html>

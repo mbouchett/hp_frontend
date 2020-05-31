@@ -1,0 +1,29 @@
+// CreateReg.js
+function visToggle() {
+	var cb = document.getElementById('cb');
+	var addr = document.getElementById('addr');
+	if (cb.checked) {
+		addr.style.display = "none";
+	}else {
+		addr.style.display = "inline";
+	}
+	validate();
+}
+
+function validate() {
+	var line1 = document.getElementById('line1');
+	var zip = document.getElementById('zip');
+	alert(line1.value.length);
+	/*
+	if (line1.value.length < 5){
+		line1.style.backgroundColor = 'pink';
+		return false;
+	} 
+	if (zip.value.length < 5){
+		
+		return false;
+	}
+
+	document.getElementById('form').submit();
+	*/
+}

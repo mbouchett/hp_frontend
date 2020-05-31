@@ -1,0 +1,150 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+ a:visited { color: #000000; text-decoration: none; background: transparent;}
+ a:link { color: #000000; text-decoration: none; background: transparent;}
+ a:active { color: #000000; text-decoration: none; background: transparent;}
+ a:hover { color: #CC0000; text-decoration: none; background: transparent;}
+body{ background-color: #FFFFFF;}
+h3{
+    display: inline;
+    font-family: Arial;
+    color: #CC0000;
+    font-size: 14px;
+}
+#layhead{
+  background-color: #FFFFFF;
+  color: #000000;
+  margin-bottom: 2px;
+}
+#addLayItem{
+  position: fixed;
+  top: 200px;
+  left: 75px;
+  visibility: hidden;
+  margin: auto;
+  height: 100px;
+  width: 450px;
+  background-color: #FFFFFF;
+  border: solid thin outset #000000;
+  z-index: 8750;
+  border-radius: 5px;
+  text-align: center;
+}
+#addLayItem table{ margin: auto;}
+#addLayPay{
+  position: fixed;
+  top: 200px;
+  left: 25px;
+  visibility: hidden;
+  margin: auto;
+  height: 100px;
+  width: 550px;
+  background-color: #FFFFFF;
+  border: solid thin outset #000000;
+  z-index: 8751;
+  border-radius: 5px;
+  text-align: center;
+}
+#addLayPay table{ margin: auto;}
+#alert{
+    position: fixed;
+    top: 300px;
+    left: 130px;
+    text-align: center;
+    font-family: Arial;
+    font-weight: bold;
+    color: #CC0000;
+    font-size: 36px;
+}
+#paid{
+  position: fixed;
+  top: 150px;
+  left: 150px;
+  opacity: .50;
+}
+
+.laynum{
+  float: right;
+  margin-right: 10px;
+  margin-top: 10px;
+  text-align: center;
+  font-family: Arial Black;
+  font-size: 24px;
+}
+.layname{
+  float: right;
+  margin-right: 10px;
+  text-align: right;
+  font-family: Arial;
+  font-size: 14px;
+}
+.unList{
+  display: inline-block;
+  margin-left: 5px;
+  visibility: hidden;
+}
+.unList li{
+  display: inline;
+  background-color: #CCFF66;
+  border: solid thin #0000FF;
+  padding: 2px;
+  cursor: pointer;
+}
+.unList li:hover{
+  background-color: #FF66CC;
+  font-weight: bold;
+}
+.blackout {
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  background: #003300;
+  opacity: .65;
+  z-index: 8500;
+  visibility: hidden;
+}
+.lays{
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 20px;
+}
+.lays table{
+  margin: auto;
+  border-collapse: collapse; 
+}
+.lays tr{
+  border-bottom: 1px solid #000000;
+}
+.lays h1{ text-align: center;}
+.pays{
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 20px;
+}
+.pays table{
+  border-collapse: collapse;
+  margin: auto;
+  width: 90%;
+  text-align: center;
+}
+.pays tr{
+  border-bottom: 1px solid #000000;
+}
+
+.pays h1{ text-align: center;}
+.tHead{
+  border-bottom: thin solid #000000;
+  font-weight: bold;
+  text-align: center;
+}
+.money{ text-align: right; }
+#receipt{
+  position: fixed;
+  top: 25px;
+  left: 250px;
+  font-family: Arial;
+  font-size: 10px;
+  color: #000000;
+}

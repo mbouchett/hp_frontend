@@ -1,0 +1,102 @@
+body {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+table {
+  text-align: left;
+  display: inline-block;
+  background: #D9D9D9;
+  padding: 8px;
+  margin-top: 20px;
+}
+
+td {
+		border-width: 0px;
+		padding: 10px;
+	}
+
+img {
+  margin-top:40px;
+}
+
+input {
+  border: 2px solid;
+  border-color: black;
+  font-size: 1.5em;
+  padding: 5px;
+}
+
+.menu a {
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 22px;
+  background: #3498db;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  min-width: 275px;
+  display: inline-block;
+  text-align: center;
+}
+
+a:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
+
+.badlogin {
+  color: rgba(204, 0, 0, .8);
+  font-size: 6.5em;
+  font-weight: bold;
+  position: absolute;
+  top: 25%;
+  left: 20%;
+  z-index: 999;
+  transform: rotate(-30deg);
+}
+
+.largetext {
+  font-size: 4em;
+}
+
+.logbtn {
+  background: #e60000;
+  background-image: -webkit-linear-gradient(top, #e60000, #b80000);
+  background-image: -moz-linear-gradient(top, #e60000, #b80000);
+  background-image: -ms-linear-gradient(top, #e60000, #b80000);
+  background-image: -o-linear-gradient(top, #e60000, #b80000);
+  background-image: linear-gradient(to bottom, #e60000, #b80000);
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0px;
+  border: none;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.logbtn:hover {
+  background: #fc3c3c;
+  background-image: -webkit-linear-gradient(top, #fc3c3c, #d93434);
+  background-image: -moz-linear-gradient(top, #fc3c3c, #d93434);
+  background-image: -ms-linear-gradient(top, #fc3c3c, #d93434);
+  background-image: -o-linear-gradient(top, #fc3c3c, #d93434);
+  background-image: linear-gradient(to bottom, #fc3c3c, #d93434);
+  text-decoration: none;
+}
+
+.hiddenstuff{
+	display: none;
+}
+
+
+
+select {
+    font-size: 20px;
+}
