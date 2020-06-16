@@ -113,7 +113,7 @@
 	$result = mysqli_query($db, $sql);
 	if(!$result){
 		echo "Lookup Error1!<br>";
-		echo $sql."<br>";
+		//echo $sql."<br>";
 		//echo mysqli_error($db);
 		die;
 	}
@@ -143,7 +143,7 @@
 	    $result = mysqli_query($db, $sql);
     	if(!$result){
     		echo "Related Item Lookup Error!<br>";
-    		echo $sql."<br>";
+    		//echo $sql."<br>";
     		//echo mysqli_error($db);
     		die;
     	}
