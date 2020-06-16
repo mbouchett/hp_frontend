@@ -114,7 +114,7 @@
 	if(!$result){
 		echo "Lookup Error1!<br>";
 		echo $sql."<br>";
-		//echo mysqli_error($db);
+		echo mysqli_error($db);
 		die;
 	}
 	mysqli_close($db);
