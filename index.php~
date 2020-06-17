@@ -126,16 +126,13 @@
 		
 		<script type="text/javascript" >
 		function cookieCheck() {
-			if (navigator.cookieEnabled){
-				alert("Cookies Enabled");
-				return;
-			} 
+			if (navigator.cookieEnabled) return true;
 
 			// set and read cookie
 			alert("Our Shopping Cart Requires Cookies to be enabled,\n
 			Otherwise items will not transfer to checkout");
-			return;
-		}
+			return ret;
+}
 		</script>
 	</head>
 	<body onload="cookieCheck();">
