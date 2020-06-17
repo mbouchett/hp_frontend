@@ -135,7 +135,7 @@
 }
 		</script>
 	</head>
-	<body cookieCheck();>
+	<body onload="cookieCheck();">
 	
 	<!--This Is the Banner copy this into any page that need a header-->
     <?php include 'z_banner.php'; ?>
