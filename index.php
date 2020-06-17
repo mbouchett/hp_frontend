@@ -132,8 +132,7 @@
 			} 
 
 			// set and read cookie
-			alert("Our Shopping Cart Requires Cookies to be enabled,\n
-			Otherwise items will not transfer to checkout");
+			alert("Our Shopping Cart Requires Cookies to be enabled,\n Otherwise items will not transfer to checkout");
 			return;
 		}
 		</script>
