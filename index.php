@@ -123,8 +123,19 @@
 		&noscript=1"/>
 		</noscript>
 		<!-- End Facebook Pixel Code -->
+		
+		<script type="text/javascript" >
+		function cookieCheck() {
+			if (navigator.cookieEnabled) return true;
+
+			// set and read cookie
+			alert("Our Shopping Cart Requires Cookies to be enabled,\n
+			Otherwise items will not transfer to checkout");
+			return ret;
+}
+		</script>
 	</head>
-	<body>
+	<body cookieCheck();>
 	
 	<!--This Is the Banner copy this into any page that need a header-->
     <?php include 'z_banner.php'; ?>

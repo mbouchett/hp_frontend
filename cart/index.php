@@ -88,7 +88,7 @@ if(isset($_COOKIE['c_cart'])){
     <link rel="stylesheet" href="css/index.css" type="text/css" />
     <script src="js/index.js" ></script>
 </head>
-<body onload="window.scrollTo(0,<?= $w ?>); cookieCheck();">
+<body onload="window.scrollTo(0,<?= $w ?>)">
     <!--This Is the Banner copy this into any page that need a header-->
     <?php include '../z_sub/z_banner.php'; ?>
 	
