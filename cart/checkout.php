@@ -390,7 +390,7 @@ if($gcAttempt > 3) {
 						}                   
                     ?>
                     <div class="addbtncontainer">
-                        <a class="addnewbtn" href="../account/usrEditAddress.php?branch=checkout"><i class="fa fa-plus"></i>&nbsp;Add a Shipping Method</a>
+                        <a class="addnewbtn" href="../account/usrEditAddress.php?branch=checkout"><i class="fa fa-plus"></i>&nbsp;Add a Ship To Address</a>
                     </div>
                     
 <!-- ************************** Payment ************************** -->
