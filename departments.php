@@ -125,8 +125,19 @@
         <link rel="stylesheet" href="icons/all.css" type="text/css">
         
         <link rel="stylesheet" href="css/department.css" type="text/css" />  
+		<script type="text/javascript" >
+		function cookieCheck() {
+			if (navigator.cookieEnabled){
+				return;
+			} 
+
+			// set and read cookie
+			alert("Our Shopping Cart Requires Cookies to be enabled,\n Otherwise items will not transfer to checkout");
+			return;
+		}
+		</script>
 	</head>
-	<body>
+	<body onload="cookieCheck();">
 	<!--This Is the Banner copy this into any page that need a header-->
     <?php include 'z_banner.php'; ?>
         <!--This is where the Banner ends-->

@@ -127,7 +127,6 @@
 		<script type="text/javascript" >
 		function cookieCheck() {
 			if (navigator.cookieEnabled){
-				alert("Cookies Enabled");
 				return;
 			} 
 
