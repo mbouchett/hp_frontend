@@ -34,6 +34,7 @@
 	$likeCount = 0;
 	$searchKey = 0;
 	@$keyName = safeString($_POST['key']);
+	$soundsLike = metaphone($keyName);
 	
 	
 	if(!$keyName) $keyName = safeString($_REQUEST['key']);
@@ -169,7 +170,7 @@
   gtag('config', 'UA-8450012-2');
 </script>
 
-		<title>Homeport - Burlington Vermont</title>
+		<title>Homeport - Burlington Vermont - <?= $soundsLike ?></title>
 		<link rel="SHORTCUT ICON" href="images/icon.ico">
 		<meta name="description=" content="
 			Located on Burlington's pedestrian only Church Street, 
