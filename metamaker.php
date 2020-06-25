@@ -25,7 +25,7 @@
 	mysqli_close($db);
 	@$itemCount = mysqli_num_rows($result);
 
-		$str = "Hammock";
+		$str = "Hamock";
 		$metakey = metaphone($str);
 		echo $itemCount."-->".$str." - ".$metakey."<br>----------------------<br>";
 
