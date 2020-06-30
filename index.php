@@ -152,7 +152,7 @@
             </div>
             
             <!-- ************************************************** Feature Items ************************************************** -->
-            <div class="subtitle">Get Your Dad Something Nice!</div>
+            <div class="subtitle">Hang These Nets to Catch Humans!</div>
             <div class="subfeaturecontainer">
                 <div class="subfeatureitem">
             		<?php if($subFeature['sf_start']) { ?> 
@@ -160,7 +160,7 @@
             			<img src="http://www.rockingbones.site/homeportonline/feature/<?= $subFeature['sf_f1'] ?>" alt="Feature"> 
             		</a>
             		<?php }else { ?>
-                    <a href="product.php?item=83017" ><!--Find Vendor-->
+                    <a href="https://homeportonline.com/search.php?key=hammock" >
             		<!--<a href="shopItems.php?dept=1029&keyName=Puzzles" > Find DEPT-->
                 		<img src="images/subfeature1.jpg" alt="Store Front"> <?php } ?>
                 	</a>
@@ -171,7 +171,7 @@
             			<img src="http://www.rockingbones.site/homeportonline/feature/<?= $subFeature['sf_f2'] ?>" alt="Feature"> 
             		</a>
             		<?php }else { ?>
-            		<a href="product.php?item=83017" ><!--Find Vendor-->
+            		<a href="https://homeportonline.com/search.php?key=hammock" >
                 		<img src="images/subfeature2.jpg" alt="Store Front"> <?php } ?>
                 	</a>
                 </div>
@@ -181,7 +181,7 @@
             			<img src="http://www.rockingbones.site/homeportonline/feature/<?= $subFeature['sf_f3'] ?>" alt="Feature"> 
             		</a>
             		<?php }else { ?>
-                    <a href="https://homeportonline.com/search.php?key=father day" >
+                    <a href="https://homeportonline.com/search.php?key=hammock" >
             		<!--<a href="search.php?key=puzzle" >Find By Search Key-->
                 		<img src="images/subfeature3.jpg" alt="Store Front"> <?php } ?>
                 	</a>
@@ -192,7 +192,7 @@
             			<img src="http://www.rockingbones.site/homeportonline/feature/<?= $subFeature['sf_f4'] ?>" alt="Feature"> 
             		</a>
             		<?php }else { ?>
-                    <a href="https://homeportonline.com/search.php?key=father day" >
+                    <a href="https://homeportonline.com/search.php?key=hammock" >
                     
             		<!-- Specify vendor page <a href="vendorPage.php?vendor=1460&vendorName=Professor Puzzle" > -->
                     <!-- Specify Dept and keyname<a href="https://homeportonline.com/shopItems.php?dept=1027&keyName=Mothers%20Day%20Cards">-->
