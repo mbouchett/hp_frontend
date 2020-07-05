@@ -76,8 +76,8 @@
 
     		<?php if($_SESSION['userlevel'] > 5 ) { ?>
     		<tr>
-    			<td><a class="menubtn" href="util/removeHist.php"><i class="fa fa-shopping-basket"></i> Remove Hist Records Where no Item Record<i class="fa fa-gear"></i></a></td>
-            	<td><a class="menubtn" href="util/removePics.php"><i class="fa fa-calendar"></i>Delete Image Where No Item Exists<i class="fa fa-gear"></i></a></td>
+    			<td><a class="menubtn" href="util/removeHist.php"><i class="fa fa-shopping-basket"></i>Match Hist->Items<i class="fa fa-gear"></i></a></td>
+            	<td><a class="menubtn" href="util/removePics.php"><i class="fa fa-calendar"></i>Remove Orphaned Images<i class="fa fa-gear"></i></a></td>
     			<td></td>
     		</tr>
     		<tr>
