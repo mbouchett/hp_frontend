@@ -65,7 +65,7 @@
     		<tr>
     			<td><a class="menubtn" href="webcust/index.php"><i class="fa fa-shopping-basket"></i> View Customer Orders<i class="fa fa-gear"></i></a></td>
             	<td><a class="menubtn" href="#"><i class="fa fa-calendar"></i> Time Schedule Admin<i class="fa fa-gear"></i></a></td>
-    			<td><a class="menubtn" href="#"><i class="fa fa-cogs"></i> Site Utilities</a></td>
+    			<td></td>
     		</tr>
     		<tr>
     			<td></td>
@@ -73,6 +73,20 @@
     			<td></td>
     		</tr>
     		<?php } ?>
+
+    		<?php if($_SESSION['userlevel'] > 5 ) { ?>
+    		<tr>
+    			<td><a class="menubtn" href="util/removeHist.php"><i class="fa fa-shopping-basket"></i> Remove Hist Records Where no Item Record<i class="fa fa-gear"></i></a></td>
+            	<td><a class="menubtn" href="util/removePics.php"><i class="fa fa-calendar"></i>Delete Image Where No Item Exists<i class="fa fa-gear"></i></a></td>
+    			<td></td>
+    		</tr>
+    		<tr>
+    			<td></td>
+            	<td></td>
+    			<td></td>
+    		</tr>
+    		<?php } ?>    		
+ 
             <tr>
                 <td></td>
                 <td><a class="menubtn" href="processLogout.php"><i class="fa fa-sign-out"></i> Log Out</a></td>
