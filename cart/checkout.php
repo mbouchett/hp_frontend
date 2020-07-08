@@ -329,10 +329,13 @@ if($gcAttempt > 3) {
             
 <!-- ************************** Shipping ************************** -->
                 <div class="radiooptions"> 
-                
+                    
                 	<!-- Hold For Pickup -->
                 	<?php $checked =($z == -1) ? "checked" : "" ?>
                     <div class="delineator"><i class="fa fa-shipping-fast"></i>&nbsp;Choose Shipping</div> 
+                    <div class="addbtncontainer">
+                        <a class="addnewbtn" href="../account/usrEditAddress.php?branch=checkout"><i class="fa fa-plus"></i>&nbsp;Add a Ship To Address</a>
+                    </div>
                     <label onclick="shipCalc(0,-1)" class="radiocontainer">Hold For Pickup
                         <input id="hold" type="radio" name="ship" value="-1" <?= $checked ?> >
                         <span class="radiocheckmark"></span>
@@ -389,9 +392,7 @@ if($gcAttempt > 3) {
 							$style = '';
 						}                   
                     ?>
-                    <div class="addbtncontainer">
-                        <a class="addnewbtn" href="../account/usrEditAddress.php?branch=checkout"><i class="fa fa-plus"></i>&nbsp;Add a Ship To Address</a>
-                    </div>
+                    
                     
 <!-- ************************** Payment ************************** -->
                     <div class="delineator topspace"><i class="fa fa-credit-card"></i>&nbsp;Choose Payment</div>
@@ -412,7 +413,7 @@ if($gcAttempt > 3) {
                      } ?>
 					<!-- Add A New Payment Method -->                     
                     <div class="addbtncontainer">
-                        <a class="addnewbtn" href="https://www.homeportonline.com/account/usrEditPayment.php?branch=checkout"><i class="fa fa-plus"></i>&nbsp;Add a Payment Method</a>
+                        <a class="addnewbtn2" href="https://www.homeportonline.com/account/usrEditPayment.php?branch=checkout"><i class="fa fa-plus"></i>&nbsp;Add a Payment Method</a>
                     </div>
                     
                     <textarea class="messagebox" placeholder="Order Comments (Optional)" id="message" type="text" name="comment"></textarea>

@@ -42,12 +42,37 @@ a:hover {
 }
 .addbtncontainer {
    
-    display:inline;
+    display:inline-block;
     width: 100%;
     padding: 0;
     margin: 0;
 }
 .addnewbtn {
+	background-color: rgba(212,0,0,1.00);
+	border-radius: 5px;
+    border: none;
+	display:block;
+	cursor: pointer;
+    font-size: 2vw;
+    font-family: Montserrat;
+	color: rgba(255,255,255,1.00);
+    padding-top: .2em;
+    padding-bottom: .2em;
+    margin: .5em 0 1em 0;
+	text-decoration: none;
+    text-align: center;
+    transition: 0.3s;
+}
+.addnewbtn:hover {
+	background-color: rgba(230,230,230,1.00);
+    color: rgba(0,0,0,1.00);
+}
+.addnewbtn:active {
+	position:relative;
+	top:1px;
+}
+
+.addnewbtn2 {
 	background-color: rgba(230,230,230,1.00);
 	border-radius: 5px;
     border: none;
@@ -63,14 +88,15 @@ a:hover {
     text-align: center;
     transition: 0.3s;
 }
-.addnewbtn:hover {
+.addnewbtn2:hover {
 	background-color: rgba(212,0,0,1.00);
     color: rgba(255,255,255,1.00);
 }
-.addnewbtn:active {
+.addnewbtn2:active {
 	position:relative;
 	top:1px;
 }
+
 .applybtn {
 	background-color: rgba(212,0,0,1.00);
 	border-radius: 5px;
