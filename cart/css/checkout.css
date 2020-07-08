@@ -65,7 +65,7 @@ a:hover {
 }
 .addnewbtn:hover {
 	background-color: rgba(230,230,230,1.00);
-    color: rgba(0,0,0,1.00);
+    color: rgba(108,0,1,1.00);
 }
 .addnewbtn:active {
 	position:relative;
