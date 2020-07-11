@@ -13,7 +13,7 @@
                 <div class="hours">
                     Starting 05/18/20<br>
 
-                    Hours: Sun-Thur 10a-6p<br>Fri &amp; 10a-8p
+                    Hours: Sun to Thur 10a-6p<br>Fri &amp; Sat 10a-8p
                 </div>
             </div>
             <div class="menu">
