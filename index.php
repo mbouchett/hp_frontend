@@ -144,11 +144,11 @@
         <!--Page Content goes here-->
         <div class="pagecontainer">
             <!--<div class="featuretitle">Can't wait for spring? Make your own damn rainbows!</div>-->
-            <div class="featuretitle">Now Open to the Public!</div>
+            <div class="featuretitle">Check out our HOW TO videos!</div>
             <div class="featurecontainer">
                 <!--This link should change for feature-->
                 <!--<a href="search.php?key=supoon+spatula"><img src="images/feature.jpg" alt="Feature"></a>-->
-                <a href="contact.php"><img src="images/feature.jpg" alt="Feature"></a>
+                <iframe width="100%" height="800px" src="https://www.youtube.com/embed/FDGQBULcGFc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
             
             <!-- ************************************************** Feature Items ************************************************** -->
