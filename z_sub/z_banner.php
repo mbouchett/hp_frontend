@@ -11,7 +11,7 @@
                 <a class="linkbtn" onclick="openNav()"><i class="iconsize fas fa-bars"></i><div class="icontext"><span class="hiddenformobile">Departments</span></div>
                 </a>
                 <div class="hours">
-                    Starting 05/18/20<br>
+                    Starting 07/11/20<br>
 
                     Hours: Sun to Thur 10a-6p<br>Fri &amp; Sat 10a-8p
                 </div>
