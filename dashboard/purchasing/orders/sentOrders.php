@@ -119,7 +119,7 @@ Filter By:
         <td style="text-align: center"><a title="Click To View" style=" color: #000000; text-decoration: none; font-style: italic;" href="viewOrder.php?order_ID=<?= $orders[$i]['order_ID'] ?>"><?= $orders[$i]['order_shipDate'] ?></a></td>
         <td><?= $orders[$i]['order_akn'] ?></td>
 		  <td><?= number_format($orders[$i]['order_total'],2) ?></td>
-		  <td ondblclick="changeStat('<?= $orders[$i]['po'] ?>','<?= $status ?>');" bgcolor="<?= $bgc ?>" ><?= $status ?></td>
+		  <td ondblclick="changeStat('<?= $ord[$i]['po'] ?>','<?= $orders[$i]['order_status'] ?>');" bgcolor="<?= $bgc ?>" ><?= $status ?></td>
     </tr >
     <tr><td height="1" bgcolor="#996633" colspan="6"></td></tr>
     <?php } }?>
