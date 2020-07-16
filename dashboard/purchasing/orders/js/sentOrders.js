@@ -2,7 +2,6 @@
 function changeStat(po, stat){
 	x = parseInt(stat);
 	x = x + 1;
-	alert(stat);
 	if (x > 5) { 
 		x = 1;
 	 }
