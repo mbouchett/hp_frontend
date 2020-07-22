@@ -58,10 +58,11 @@
     		<tr>
     			<td></td>
             	<td><a class="menubtn" href="otb/"><i class="fa fa-dollar-sign"></i> Open To Buy<i class="fa fa-gear"></i></a></td>
+            	<td><a class="menubtn" href="sbc/"><i class="fa fa-rebel"></i> Category Sales<i class="fa fa-gear"></i></a></td>
     			<td></td>
     		</tr>    		
     		<?php } ?>
-    		<?php if($_SESSION['userlevel'] > 3 || $_SESSION['username'] == "delliott" ) { ?>
+    		<?php if($_SESSION['userlevel'] > 3) { ?>
     		<tr>
     			<td><a class="menubtn" href="webcust/index.php"><i class="fa fa-shopping-basket"></i> View Customer Orders<i class="fa fa-gear"></i></a></td>
             	<td><a class="menubtn" href="#"><i class="fa fa-calendar"></i> Time Schedule Admin<i class="fa fa-gear"></i></a></td>
