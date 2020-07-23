@@ -1,5 +1,18 @@
 <?php
+//enterSales.php 2020/07
+include "/home/homeportonline/crc/2018.php";
+
+date_default_timezone_set('America/New_York');
+
+session_start(); // Resume up your PHP session!
+if(!isset($_SESSION['username'])){
+	header('Location: ../index.php');
+	die;
+}
+
 $today = ($_REQUEST['today']) ? $_REQUEST['today'] : date('Y-m-d');
+
+
 ?>
 <!DOCTYPE html>
 <html>
