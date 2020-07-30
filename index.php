@@ -144,7 +144,7 @@
         <!--Page Content goes here-->
         <div class="pagecontainer">
             <!--<div class="featuretitle">Can't wait for spring? Make your own damn rainbows!</div>-->
-            <div class="featuretitle">Burr VS Blade Coffee Ginders!</div>
+            <div class="featuretitle">Burr VS Blade Coffee Grinders!</div>
             <div class="featurecontainer">
                 <!--This link should change for feature-->
                 <!--<a href="search.php?key=supoon+spatula"><img src="images/feature.jpg" alt="Feature"></a>-->
