@@ -148,7 +148,7 @@
             <div class="featurecontainer">
                 <!--This link should change for feature-->
                 <!--<a href="search.php?key=supoon+spatula"><img src="images/feature.jpg" alt="Feature"></a>-->
-                <iframe width="100%" height="800" src="https://youtu.be/HuM8zsUORzM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="100%" height="800" src="https://www.youtube.com/embed/HuM8zsUORzM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
             
             <!-- ************************************************** Feature Items ************************************************** -->
