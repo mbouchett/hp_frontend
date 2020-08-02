@@ -61,7 +61,7 @@ for($i = 0; $i<$vendorCount; $i++){
 } 
 
 usort($vnd, function($a, $b) {
-    return $a['volume'] <=> $b['volume'];
+    return $a['volume'] - $b['volume'];
 });
 
 ?>
