@@ -50,7 +50,7 @@ function getWeek(){
     			<td><a class="menubtn" href="vendors/addVendor.php"><i class="fa fa-plus-square"></i> Add Vendor</a></td>
     		</tr>
     		<tr>
-    			<td><a class="menubtn" href="trustedReps.php"><i class="fa fa-thumbs-o-up"></i> Trusted Reps</a></td>
+    			<td><a class="menubtn" href="topVendors.php"><i class="fa fa-thumbs-o-up"></i> Top Vendors</a></td>
     			<td><a class="menubtn" href="../"><i class="fa fa-reply"></i> Exit</a></td>
     		</tr>
     	</table>
