@@ -11,7 +11,22 @@ if(!isset($_SESSION['username'])){
 }
 
 $today = ($_REQUEST['today']) ? $_REQUEST['today'] : date('Y-m-d');
-
+$db= new mysqli('localhost', $db_user, $db_pw, $db_db);
+$sql = "SELECT * FROM `sales_by_cat` ORDER BY `sbc_date`";
+//perform action
+$result = mysqli_query($db, $sql);
+if(!$result){
+	echo "Lookup Error!<br>";
+	echo $sql."<br>";
+	echo mysqli_error($db);
+	die;
+}
+$itemCount = mysqli_num_rows($result);
+mysqli_close($db); 
+//Store the Results To A Local Array
+for($i=0; $i<$itemCount; $i++){
+	$sbc[$i] = mysqli_fetch_assoc($result);
+}
 
 ?>
 <!DOCTYPE html>
@@ -30,5 +45,9 @@ $today = ($_REQUEST['today']) ? $_REQUEST['today'] : date('Y-m-d');
 	<input type="text" id="cat" name="cat">
 	<input type="submit" value="Save" />
 	</form>
+	<hr>
+	<?php for($i=0; $i<$itemCount; $i++){ ?>
+	<?= $sbc[$i]['sbc_date'] ?><br>
+	<?php } ?>
 </body>
 </html>
