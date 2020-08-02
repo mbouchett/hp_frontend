@@ -12,7 +12,7 @@ if(!isset($_SESSION['username'])){
 
 $today = ($_REQUEST['today']) ? $_REQUEST['today'] : date('Y-m-d');
 $db= new mysqli('localhost', $db_user, $db_pw, $db_db);
-$sql = "SELECT * FROM `sales_by_cat` ORDER BY `sbc_date`";
+$sql = "SELECT * FROM `sales_by_cat` ORDER BY `sbc_date` DESC";
 //perform action
 $result = mysqli_query($db, $sql);
 if(!$result){
@@ -47,7 +47,7 @@ for($i=0; $i<$itemCount; $i++){
 	</form>
 	<hr>
 	<?php for($i=0; $i<$itemCount; $i++){ ?>
-	<?= $sbc[$i]['sbc_date'] ?><br>
+	<?= $sbc[$i]['sbc_date'] ?> - <?= $sbc[$i]['sbc_amt'] ?> - <?= $sbc[$i]['dept_ID'] ?><br>
 	<?php } ?>
 </body>
 </html>
