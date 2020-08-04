@@ -43,7 +43,7 @@ for($i=0; $i<$itemCount; $i++){
 </style>
 <script type="text/javascript" >
 	function focusonamt() {
-		var x = getElementById('inpt');
+		var x = document.getElementById('inpt');
 		x.focus();
 	}
 </script>
