@@ -46,8 +46,13 @@ for($i=0; $i<$itemCount; $i++){
 	<input type="submit" value="Save" />
 	</form>
 	<hr>
+	<table>
+	<tr><td>Date</td><td>Amount</td><td>Category</td></tr>
 	<?php for($i=0; $i<$itemCount; $i++){ ?>
-	<?= $sbc[$i]['sbc_date'] ?> - <?= $sbc[$i]['sbc_amt'] ?> - <?= $sbc[$i]['dept_ID'] ?><br>
+	<tr>
+		<td style="border-style: solid; border-color: black; border-width: 1px;"><?= $sbc[$i]['sbc_date'] ?></td><td style="text-align: right;"><?= $sbc[$i]['sbc_amt'] ?></td><td><?= $sbc[$i]['dept_ID'] ?></td>
+	</tr>
 	<?php } ?>
+	</table>
 </body>
 </html>
