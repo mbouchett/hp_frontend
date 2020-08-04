@@ -34,13 +34,26 @@ for($i=0; $i<$itemCount; $i++){
 <head>
 <meta charset="utf-8" />
 <title>Enter Sales By Category</title>
+<style type="text/css">
+	td{
+			border-style: solid; 
+			border-color: black; 
+			border-width: 1px;
+	}
+</style>
+<script type="text/javascript" >
+	function focusonamt() {
+		var x = getElementById('inpt');
+		x.focus();
+	}
+</script>
 </head>
-<body>
+<body onload="focusonamt();">
 	<form method="post" action="processEnterSales.php">
 	<label for="date">Date:</label>
 	<input type="date" id="date" name="date" value="<?= $today ?>"> 
 	<label for="amt">Amt:</label>
-	<input type="text" id="amt" name="amt">
+	<input id="inpt" type="text" id="amt" name="amt">
 	<label for="cat">Cat:</label>
 	<input type="text" id="cat" name="cat">
 	<input type="submit" value="Save" />
@@ -50,7 +63,7 @@ for($i=0; $i<$itemCount; $i++){
 	<tr><td>Date</td><td>Amount</td><td>Category</td></tr>
 	<?php for($i=0; $i<$itemCount; $i++){ ?>
 	<tr>
-		<td style="border-style: solid; border-color: black; border-width: 1px;"><?= $sbc[$i]['sbc_date'] ?></td><td style="text-align: right;"><?= $sbc[$i]['sbc_amt'] ?></td><td><?= $sbc[$i]['dept_ID'] ?></td>
+		<td><?= $sbc[$i]['sbc_date'] ?></td><td style="text-align: right;"><?= $sbc[$i]['sbc_amt'] ?></td><td><?= $sbc[$i]['dept_ID'] ?></td>
 	</tr>
 	<?php } ?>
 	</table>
