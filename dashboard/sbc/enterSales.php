@@ -63,7 +63,7 @@ for($i=0; $i<$itemCount; $i++){
 	<tr><td>Date</td><td>Amount</td><td>Category</td></tr>
 	<?php for($i=0; $i<$itemCount; $i++){ ?>
 	<tr>
-		<td><?= $sbc[$i]['sbc_date'] ?></td><td style="text-align: right;"><?= $sbc[$i]['sbc_amt'] ?></td><td style="text-align: center;"><?= $sbc[$i]['dept_ID'] ?></td>
+		<td><?= $sbc[$i]['sbc_date'] ?></td><td style="text-align: right;"><?= number_format($sbc[$i]['sbc_amt'],2) ?></td><td style="text-align: center;"><?= $sbc[$i]['dept_ID'] ?></td>
 	</tr>
 	<?php } ?>
 	</table>
