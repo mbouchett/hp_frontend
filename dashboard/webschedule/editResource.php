@@ -86,6 +86,8 @@ $message=$_REQUEST['message'];
                 if($resource[$i]['resource_lastDay']) $bgColor = 'style="background-color: #ABABAB"';
                 $check = "";
                 if($resource[$i]['resource_com'] == 1) $check = "checked";
+                $check2 = "";
+                if($resource[$i]['resource_ptcom'] == 1) $check2 = "checked";
             ?>
             <tr>
                 <td <?= $bgColor ?>><?= $resource[$i]['resource_ID'] ?><input type="hidden" name="recno[<?= $i ?>]" value="<?= $resource[$i]['resource_ID'] ?>"/></td>
@@ -99,6 +101,7 @@ $message=$_REQUEST['message'];
                 <td <?= $bgColor ?>><input type="text" name="lastDay[<?= $i ?>]" value="<?= $resource[$i]['resource_lastDay'] ?>" size="10" /></td>
                 <td <?= $bgColor ?>><input type="text" name="level[<?= $i ?>]" value="<?= $resource[$i]['resource_level'] ?>"  size="2" /></td>
                 <td <?= $bgColor ?>><input name="com[<?= $i ?>]" type="checkbox" <?= $check ?>></td>
+                <td <?= $bgColor ?>><input name="ptcom[<?= $i ?>]" type="checkbox" <?= $check2 ?>></td>
                 <td <?= $bgColor ?>><input name="resetPW[<?= $i ?>]" type="checkbox" ></td>
                 <td class="hide" style="border-collapse: collapse; margin: 0;"><input type="text" name="adjustedPay[<?= $i ?>]" value="<?= $resource[$i]['resource_payChange'] ?>" size="10" /></td>
                 <td class="hide" style="border-collapse: collapse; margin: 0;">

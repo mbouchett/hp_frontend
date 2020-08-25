@@ -36,6 +36,7 @@ $salary = $_POST['salary'];
 $level = $_POST['level'];
 $resetPW = $_POST['resetPW'];
 $com = $_POST['com'];
+$ptcom = $_POST['ptcom'];
 
 $itemCount = count($recno);
 
@@ -46,6 +47,7 @@ for($i=0; $i<$itemCount; $i++){
         $adjustedPay[$i]  = date("Y-m-d");
     }
     $com[$i] = ($com[$i]) ? 1 : 0;
+    $ptcom[$i] = ($ptcom[$i]) ? 1 : 0;
 }
 // Update Data to an SQL database
 $db= new mysqli('localhost', $db_user, $db_pw, $db_db);
@@ -61,6 +63,7 @@ for($i=0; $i<$itemCount; $i++){
          `resource_payChange` = '".$adjustedPay[$i]."',
          `resource_level` = '".$level[$i]."',
          `resource_com` = '".$com[$i]."',
+         `resource_ptcom` = '".$ptcom[$i]."',
          `resource_firstDay` = '".$hired[$i]."'
          WHERE `resource_ID` = '".$recno[$i]."';";
     $result = mysqli_query($db, $sql); // create the query object
