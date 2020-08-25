@@ -75,6 +75,7 @@ $message=$_REQUEST['message'];
                 <td>Last Day</td>
                 <td>Level</td>
                 <td>Comm</td>
+					 <td>PTComm</td>
                 <td>Reset PW</td>
                 <td class="hide">Last Raise</td>
                 <td class="hide">Hourly</td>
