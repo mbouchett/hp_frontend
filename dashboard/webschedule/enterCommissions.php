@@ -31,9 +31,9 @@ $ppEnd =  date('Y-m-d', strtotime($pp. ' - 1 second'));
 
 // load commissioned sales people
 $db = new mysqli('localhost', $db_user, $db_pw, $db_db);
-$sql = 'SELECT `resource_ID`,`resource_firstName`,`resource_lastName`  
+$sql = 'SELECT `resource_ID`,`resource_firstName`,`resource_lastName`,`resource_ptcom`  
 	    	FROM `resource` 
-			WHERE `resource_lastDay` IS NULL AND `resource_com` = 1 
+			WHERE `resource_lastDay` IS NULL AND `resource_com` = 1 OR `resource_ptcom` = 1
 			ORDER BY `resource_lastName`';
 $result = mysqli_query($db, $sql);
 $resCount = mysqli_num_rows($result);
@@ -171,8 +171,9 @@ for($i = 0; $i < $resCount; $i++) {
 	    $contribution = $res[$i]['reg'] * 0.035 + $res[$i]['dis'] * 0.0175;
 	    $poolDraw = $pool/$resCount;
 	    @$totalComm = $contribution + $poolDraw + $res[$i]['pro'] + $res[$i]['draw'];
+	    $bgc = ($res[$i]['resource_ptcom']) ? "#ffffff" : "#ffffa0";
 	    ?>
-	    <tr>
+	    <tr bgcolor="<?= $bgc ?>">
 	    	<td><?= $res[$i]['nickName'] ?></td>
 	    	<td style="text-align: right;"><?= number_format($res[$i]['reg'],2) ?></td>
 	    	<td style="text-align: right;"><?= number_format($res[$i]['dis'],2) ?></td>
