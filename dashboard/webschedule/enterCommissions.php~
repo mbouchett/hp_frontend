@@ -171,7 +171,7 @@ for($i = 0; $i < $resCount; $i++) {
 	    $contribution = $res[$i]['reg'] * 0.035 + $res[$i]['dis'] * 0.0175;
 	    $poolDraw = $pool/$resCount;
 	    @$totalComm = $contribution + $poolDraw + $res[$i]['pro'] + $res[$i]['draw'];
-	    $bgc = ($res[$i]['resource_ptcom']) ? "#ffffa0" : "#ffffff";
+	    $bgc = ($res[$i]['resource_ptcom']) ? "#ffffff" : "#ffffa0";
 	    ?>
 	    <tr bgcolor="<?= $bgc ?>">
 	    	<td><?= $res[$i]['nickName'] ?></td>
