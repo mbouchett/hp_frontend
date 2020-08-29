@@ -1,3 +1,17 @@
+<?php
+@include "/home/homeportonline/crc/2018.php";
+
+// get Signatures
+$db= new mysqli('localhost', $db_user, $db_pw, $db_db);
+$sql  = 'SELECT *  FROM `petition_behave`';
+$result = mysqli_query($db, $sql);
+$sigCount = mysqli_num_rows($result);
+
+for($i=0; $i<$sigCount; $i++){
+	$sig[$i] = mysqli_fetch_assoc($result);
+}		
+mysqli_close($db);
+?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -5,7 +19,7 @@
 <title>Letter regarding public behavior</title>
 </head>
 <body>
-<p>
+
 To The Senators of Chittenden County,<br><br>
  
 	I am writing to you today to express a growing concern regarding safety and civility on our public streets in Burlington. <br>
@@ -28,10 +42,13 @@ To The Senators of Chittenden County,<br><br>
 	that cannot be ignored in the way these lesser deterrents have been. <br><br>
 
 	Thank you for considering this.<br><br>
+	<?php for($i=0; $i<$sigCount; $i++){ ?>
+	&nbsp;&nbsp;&nbsp;<?= $sig[$i]['pb_sig'] ?>,
 
-</p>
-<form>
-	Sign form <input type="text" name="Name" placeholder="Fullname and business if applicable" disabled>
+	<?php if(($i+1) % 4 == 0){echo "<br>";}	} ?>
+<br><br>
+<form method="post" action="processSignLetter.php">
+	<input type="text" name="name" placeholder="fullname and business if applicable"> <input type="submit" value="Sign Form">
 </form>
 
 </body>
