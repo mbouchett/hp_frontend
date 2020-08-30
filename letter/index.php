@@ -46,7 +46,7 @@ To The Senators of Chittenden County,<br><br>
 
 	Thank you for considering this.<br><br>
 	<?php for($i=0; $i<$sigCount; $i++){ ?>
-	&nbsp;&nbsp;&nbsp;<?= $sig[$i]['pb_sig'] ?>,
+	&nbsp;&nbsp;&nbsp;<?= $sig[$i]['pb_sig'] ?>, 
 
 	<?php if(($i+1) % 4 == 0){echo "<br>";}	} ?>
 <br><br>
