@@ -42,7 +42,7 @@ To The Senators of Chittenden County,<br><br>
 	To this end what I am asking for is a point at which a number of misdemeanor citations might be elevated to a criminal citation <br>
 	that cannot be ignored in the way these lesser deterrents have been. I know this is how many other states handle these matters and <br>
 	they are much better deterrents to aggressive anti-social behaviors. Allowing this to continue is bad for the residents, bad for the <br>
-	workforce, and ultimately harmful to those engaged in such behavior.<br><br>
+	workforce, and ultimately harmful to even those engaged in such behavior.<br><br>
 
 	Thank you for considering this.<br><br>
 	<?php for($i=0; $i<$sigCount; $i++){ ?>
