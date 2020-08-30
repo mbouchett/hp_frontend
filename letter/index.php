@@ -24,7 +24,7 @@ To The Senators of Chittenden County,<br><br>
  
 	I am writing to you to express a growing concern regarding safety and civility on our public streets in Burlington. <br>
 	The issues of public intoxication, open drug use, public urination and defecation, public sex acts, aggressive and harassing behavior, <br>
-	commandeering and blocking public thoroughfares, sleeping and camping in both private and public spaces have always been with us. <br>
+	commandeering and blocking public thoroughfares, and sleeping or camping in both private and public spaces have always been with us. <br>
 	Furthermore, community spaces like The Church Street Marketplace have always been especially attractive to people who demonstrate <br>
 	these sorts of behaviors but sadly incidences like these have risen to an intolerable level.<br><br>
 
@@ -34,7 +34,7 @@ To The Senators of Chittenden County,<br><br>
 	or criminal behavior for those engaged in these activities.<br><br>
 		
 	I want to be clear that I am not concerned with a class of individuals here or any individual for that matter. What I am concerned <br>
-	about is how people behave in shared and public places.I respect The rights of all kinds of people to to utilize and enjoy these spaces <br>
+	about is how people behave in shared and public places. I respect the rights of all kinds of people to utilize and enjoy these spaces <br>
 	in a respectful manner; however, I also believe that my staff, which is composed largely of young women, have a right to walk to and from <br>
 	their jobs in safety and unharassed. I don’t think that citizens and visitors to our town, who often come <br>
 	with their children, ought be subject to aggressive behavior or witness to people’s private bodily functions. <br><br>
