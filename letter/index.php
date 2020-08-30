@@ -26,7 +26,7 @@ To The Senators of Chittenden County,<br><br>
 	The issues of public intoxication, open drug use, public urination and defecation, public sex acts, aggressive and harassing behavior, <br>
 	commandeering and blocking public thoroughfares, sleeping and camping in both private and public spaces have always been with us. <br>
 	Furthermore, community spaces like The Church Street Marketplace have always been especially attractive to people who demonstrate <br>
-	these sorts of behaviors and incidence of these has risen to an intolerable level.<br><br>
+	these sorts of behaviors but sadly incidences of these have risen to an intolerable level.<br><br>
 
 	The remedies available to the community for curbing these sorts of activities have been limited to misdemeanor citations and <br>
 	nominal fines. This approach has always been ineffective and remains so. I have personally witnessed a citation ripped to pieces <br>
