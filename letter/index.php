@@ -35,7 +35,7 @@ To The Senators of Chittenden County,<br><br>
 		
 	We want to be clear that we are not concerned with a class of individuals here or any individual for that matter. What we are concerned <br>
 	about is how people behave in shared and public places. We respect the rights of all kinds of people to utilize and enjoy these spaces <br>
-	in a respectful manner; however, we also believe that my staff, which is composed largely of young women, have a right to walk to and from <br>
+	in a respectful manner; however, we also believe that our staffs, which are composed largely of young women, have a right to walk to and from <br>
 	their jobs in safety and unharassed. We don’t think that citizens and visitors to our town, who often come <br>
 	with their children, ought be subject to aggressive behavior or witness to people’s private bodily functions. <br><br>
 
