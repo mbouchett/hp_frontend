@@ -51,7 +51,7 @@ To The Senators of Chittenden County,<br><br>
 	<?php if(($i+1) % 4 == 0){echo "<br>";}	} ?>
 <br><br>
 <form method="post" action="processSignLetter.php">
-	<input type="text" name="name" placeholder="fullname and business if applicable"> <input type="submit" value="Sign Form">
+	<input title="(<?= $sigCount ?>) signatures so far" type="text" name="name" placeholder="fullname and business if applicable"> <input type="submit" value="Sign Form">
 </form>
 
 </body>
