@@ -50,8 +50,19 @@ To The Senators of Chittenden County,<br><br>
 
 	<?php if(($i+1) % 4 == 0){echo "<br>";}	} ?>
 <br><br>
+This letter was sent to: State senators:<br>
+<table >
+<tr><td>Senator Tim Ashe</td><td>Chittenden District</td><td>Democrat/Progressive</td></tr>
+<tr><td></td><td>Chittenden District</td><td>Democrat/Progressive</td></tr>
+<tr><td></td><td>Chittenden District</td><td>Democrat</td></tr>
+<tr><td></td><td>Chittenden District</td><td>Democrat</td></tr>
+<tr><td></td><td>Chittenden District</td><td>Democrat/Progressive</td></tr>
+<tr><td></td><td>Chittenden District</td><td>Democrat</td></tr>
+</table>
+<br><br>
+
 <form method="post" action="processSignLetter.php">
-	<input title="(<?= $sigCount ?>) signatures so far" type="text" name="name" placeholder="fullname and business if applicable"> <input type="submit" value="Sign Form">
+	<input title="(<?= $sigCount ?>) signatures so far" type="text" name="name" placeholder="fullname and business if applicable" disabled> <input type="submit" value="Sign Form" disabled>
 </form>
 
 </body>
