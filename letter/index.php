@@ -50,7 +50,7 @@ To The Senators of Chittenden County,<br><br>
 
 	<?php if(($i+1) % 4 == 0){echo "<br>";}	} ?>
 <br><br>
-This letter was sent to: State senators:<br>
+This letter was sent on September 8th, 2020 to state senators:<br>
 <table >
 <tr><td>Senator Tim Ashe</td><td>Chittenden District</td><td>Democrat/Progressive</td></tr>
 <tr><td>Senator Philip Baruth </td><td>Chittenden District</td><td>Democrat/Progressive</td></tr>
