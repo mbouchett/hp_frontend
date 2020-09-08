@@ -53,11 +53,11 @@ To The Senators of Chittenden County,<br><br>
 This letter was sent to: State senators:<br>
 <table >
 <tr><td>Senator Tim Ashe</td><td>Chittenden District</td><td>Democrat/Progressive</td></tr>
-<tr><td></td><td>Chittenden District</td><td>Democrat/Progressive</td></tr>
-<tr><td></td><td>Chittenden District</td><td>Democrat</td></tr>
-<tr><td></td><td>Chittenden District</td><td>Democrat</td></tr>
-<tr><td></td><td>Chittenden District</td><td>Democrat/Progressive</td></tr>
-<tr><td></td><td>Chittenden District</td><td>Democrat</td></tr>
+<tr><td>Senator Philip Baruth </td><td>Chittenden District</td><td>Democrat/Progressive</td></tr>
+<tr><td>Senator Debbie Ingram </td><td>Chittenden District</td><td>Democrat</td></tr>
+<tr><td>Senator Virginia "Ginny" Lyons </td><td>Chittenden District</td><td>Democrat</td></tr>
+<tr><td>Senator Christopher A. Pearson </td><td>Chittenden District</td><td>Progressive/Democrat</td></tr>
+<tr><td>Senator Michael Sirotkin </td><td>Chittenden District</td><td>Democrat</td></tr>
 </table>
 <br><br>
 
