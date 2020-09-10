@@ -1,5 +1,5 @@
 <?php
-@include "/home/homeportonline/crc/2018.php";
+@include "home/homeportonline/crc/2018.php";
 
 // get Signatures
 $db= new mysqli('localhost', $db_user, $db_pw, $db_db);
