@@ -5,9 +5,8 @@
 	*/
 	
 	// ******************* Database Credentials *******************
-	$siteroot = $_SERVER['DOCUMENT_ROOT'];
-	@include "$siteroot/home/homeportonline/crc/2018.php";
-	@include "$siteroot/home/homeportonline/crc/functions/f_resolve.php";
+	@include "/home/homeportonline/crc/2018.php";
+	@include "/home/homeportonline/crc/functions/f_resolve.php";
 	
 	// ****************** initializes variables *******************
 	$loggedIn = 0;
