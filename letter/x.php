@@ -45,10 +45,10 @@ To The Senators of Chittenden County,<br><br>
 	workforce, and ultimately harmful to even those engaged in such behavior.<br><br>
 
 	Thank you for considering this.<br><br>
-	<?php for($i=0; $i<$sigCount; $i++){ ?>
-	&nbsp;&nbsp;&nbsp;<?= $sig[$i]['pb_sig'] ?>, 
+	<?php /for($i=0; $i<$sigCount; $i++){ ?>
+	<!-- &nbsp;&nbsp;&nbsp;<?= $sig[$i]['pb_sig'] ?>, --> 
 
-	<?php if(($i+1) % 4 == 0){echo "<br>";}	} ?>
+	<?php /if(($i+1) % 4 == 0){echo "<br>";/}	/} ?>
 <br><br>
 This letter was sent on September 8th, 2020 to state senators:<br>
 <table >
