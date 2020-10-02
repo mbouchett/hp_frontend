@@ -25,7 +25,7 @@ $sql = 'SELECT *
 	    	FROM `web_order` 
 	    	LEFT JOIN `web_cust` USING (`wc_ID`)
 			WHERE `wo_status` != '.$filter.' 
-			ORDER BY `wo_status` ;
+			ORDER BY `wo_status`';
 $result = mysqli_query($db, $sql);
 if(!$result){
 	echo "Lookup Error!<br>";
