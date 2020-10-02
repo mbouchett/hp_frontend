@@ -18,12 +18,14 @@ session_start(); // Resume up your PHP session!
   }
 
 @$bc = "ffffff";
+$filter = ($_REQUEST['filter']) ? $_REQUEST['filter'] : 7;
 
 $db = new mysqli('localhost', $db_user, $db_pw, $db_db);
 $sql = 'SELECT * 
 	    	FROM `web_order` 
 	    	LEFT JOIN `web_cust` USING (`wc_ID`)
-			ORDER BY `wo_status`';
+			ORDER BY `wo_status` 
+			WHERE `wo_status`!='.$filter;
 $result = mysqli_query($db, $sql);
 if(!$result){
 	echo "Lookup Error!<br>";
@@ -81,6 +83,9 @@ if(!$result){
 </head>
 <body>
     <div id="container">
+        <div class="bottomlinks">     
+            <a href="index.php">Exit</a>
+        </div>
         <div>Here's a list of your orders!</div>
         <hr>
         <table>
