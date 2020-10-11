@@ -83,8 +83,8 @@
 	$db= new mysqli('localhost', $db_user, $db_pw, $db_db);
 	$comment = mysqli_real_escape_string($db, $wo_comment);
 	$comment = $wo_comment;
-	$sql = "INSERT INTO `".$db_db."`.`web_order` (`wc_ID`, `wm_ID`, `wa_ID`, `gc_ID`, `promo_ID`, `wo_discount`, `wo_gc_charge`, `wo_cc_charge`, `wo_comment`, `wo_delivery`)
-	        	VALUES ('$wc_ID','$wm_ID', '$wa_ID', '$gc_ID', '$promo_ID' ,'$discount' ,'$gc_amt' ,'$cc_amt' ,'$comment', '$delivery')";
+	$sql = "INSERT INTO `".$db_db."`.`web_order` (`wc_ID`, `wm_ID`, `wa_ID`, `gc_ID`, `promo_ID`, `wo_discount`, `wo_gc_charge`, `wo_cc_charge`, `wo_comment`, `wo_delivery`, `wo_shipping`)
+	        	VALUES ('$wc_ID','$wm_ID', '$wa_ID', '$gc_ID', '$promo_ID' ,'$discount' ,'$gc_amt' ,'$cc_amt' ,'$comment', '$delivery', '$shipping')";
 	$result = mysqli_query($db, $sql);
 	// on update error
 	if(!$result){

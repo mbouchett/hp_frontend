@@ -21,7 +21,6 @@ $total = 0;						// total to be charged to the customer's card
 $discount = 0;
 $gcValue = 0;					// gift card dollar value to be applied to order
 $giftCard = 0;
-$shipping = 0;					// Shipping Calculation
 $TAX = 0.07;					// Tax Rate as a Constant
 $discPercent = 0;				// discount percent from a promo code
 
@@ -46,33 +45,6 @@ if(isset($_COOKIE['c_ID'])) {
 	header('location: ../account/signIn.php');
 }
 $wo_ID = $_REQUEST['wo_ID'];
-
-// ************************ Functions *************************
-	function getShip($zip) {
-		global $db_user;
-		global $db_pw;
-		global $db_db;
-		global $subTotal;
-		global $gcOnly;
-		// ******************** Get Shipping Estimate ******************** 
-		$db1= new mysqli('localhost', $db_user, $db_pw, $db_db);
-		if($zip && !$gcOnly) {
-			$sql1 = 'SELECT * FROM `zipzone` WHERE `zip` LIKE "'.substr($zip,0,3).'"';
-			$result1 = mysqli_query($db1, $sql1); 
-			if($result1) {
-				$row = mysqli_fetch_assoc($result1);
-				@$rate = $row['rate'];
-			}else {
-				$rate = -1;
-			}
-			$shipping = $subTotal * $rate;
-			if($shipping < 11.99) $shipping = 11.99;
-		}elseif($zip && $gcOnly) {
-			$shipping = 3.50;
-		}		
-		mysqli_close($db1);
-		return @$shipping;
-	}
 
 // ************* Get Order Info *************
 $db= new mysqli('localhost', $db_user, $db_pw, $db_db);
@@ -125,19 +97,10 @@ for($i=0; $i<$itemCount; $i++){
 	}
 }
 
-// ************ Get Shipping Zip *************
+// ************ Get Shipping *************
 if($order['wa_ID'] < 0) {
 	if($order['wa_ID'] == -1) {		// Items will be placed on hold no shipping fee
 		$shipping = 0;
-	}
-	if($order['wa_ID'] == -2) {		// Ship to the billing Address
-		$db= new mysqli('localhost', $db_user, $db_pw, $db_db);
-		$sql = 'SELECT `wm_zip` FROM `web_method` WHERE `wm_ID` = '.$order['wm_ID'];
-		$result = mysqli_query($db, $sql);
-		mysqli_close($db);
-		$shipZip=mysqli_fetch_assoc($result);
-		$zip = unmash($shipZip['wm_zip']);
-		$shipping = getShip($zip);	
 	}
 	if($order['wa_ID'] ==-3 && $subTotal < 100){
 		$shipping = 7.00;
@@ -145,13 +108,7 @@ if($order['wa_ID'] < 0) {
 		$shipping = 0;
 	}
 }else {
-	$db= new mysqli('localhost', $db_user, $db_pw, $db_db);
-	$sql = 'SELECT `wa_zip` FROM `web_addr` WHERE `wa_ID` = '.$order['wa_ID'];
-	$result = mysqli_query($db, $sql);
-	mysqli_close($db);
-	$shipZip=mysqli_fetch_assoc($result);
-	$zip = unmash($shipZip['wa_zip']);
-	$shipping = getShip($zip);
+	$shipping = $order['wo_shipping'];
 }
 
 // ********* Get Gift card Value ***********

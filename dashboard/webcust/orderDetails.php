@@ -29,33 +29,6 @@ $nameColor = 'ffffff';
 
 $wo_ID = $_REQUEST['wo_ID'];
 
-// ************************ Functions *************************
-	function getShip($zip) {
-		global $db_user;
-		global $db_pw;
-		global $db_db;
-		global $subTotal;
-		global $gcOnly;
-		// ******************** Get Shipping Estimate ******************** 
-		$db1= new mysqli('localhost', $db_user, $db_pw, $db_db);
-		if($zip && !$gcOnly) {
-			$sql1 = 'SELECT * FROM `zipzone` WHERE `zip` LIKE "'.substr($zip,0,3).'"';
-			$result1 = mysqli_query($db1, $sql1); 
-			if($result1) {
-				$row = mysqli_fetch_assoc($result1);
-				@$rate = $row['rate'];
-			}else {
-				$rate = -1;
-			}
-			$shipping = $subTotal * $rate;
-			if($shipping < 11.99) $shipping = 11.99;
-		}elseif($zip && $gcOnly) {
-			$shipping = 3.50;
-		}		
-		mysqli_close($db1);
-		return @$shipping;
-	}
-	
 	function getStatus($s) {
 		switch($s) {
 			case 1:
@@ -164,24 +137,9 @@ if($order['wa_ID'] < 0) {
 	if($order['wa_ID'] == -1) {		// Items will be placed on hold no shipping fee
 		$shipping = 0;
 	}
-	if($order['wa_ID'] == -2) {		// Ship to the billing Address
-		$db= new mysqli('localhost', $db_user, $db_pw, $db_db);
-		$sql = 'SELECT `wm_zip` FROM `web_method` WHERE `wm_ID` = '.$order['wm_ID'];
-		$result = mysqli_query($db, $sql);
-		mysqli_close($db);
-		$shipZip=mysqli_fetch_assoc($result);
-		$zip = unmash($shipZip['wm_zip']);
-		$shipping = getShip($zip);	
-	}
 	if($order['wa_ID'] == -3 && $subTotal < 100) $shipping = 7.00;
 }else {
-	$db= new mysqli('localhost', $db_user, $db_pw, $db_db);
-	$sql = 'SELECT * FROM `web_addr` WHERE `wa_ID` = '.$order['wa_ID'];
-	$result = mysqli_query($db, $sql);
-	mysqli_close($db);
-	$ship=mysqli_fetch_assoc($result);
-	$zip = unmash($ship['wa_zip']);
-	$shipping = getShip($zip);
+	$shipping = $order['wo_shipping'];
 }
 
 // ********* Get Gift card Value ***********
@@ -352,4 +310,5 @@ $total = $subTotal - $discount + $tax +$shipping - $gcValue;
     </div>
 
 </body>
-</html>
+</html>		$shipping = getShip($zip);	
+	}
