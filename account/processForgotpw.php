@@ -51,7 +51,6 @@ mail($email,"Homeport Password Reset",$msg);
 <title>Password Reset</title>
 </head>
 <body>
-******* Remove this after going live : <?= $pw ?> **********<br>
 Your password has been reset and an email has been sent to: <?= $email ?><br>
 <a href="../" >Return to Homeport</a>
 </body>

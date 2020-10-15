@@ -133,11 +133,8 @@ for($i=0; $i<$itemCount; $i++){
 }
 
 // ************ Get Shipping Zip *************
-if($order['wa_ID'] < 0) {
-	if($order['wa_ID'] == -1) {		// Items will be placed on hold no shipping fee
-		$shipping = 0;
-	}
-	if($order['wa_ID'] == -3 && $subTotal < 100) $shipping = 7.00;
+if($order['wa_ID'] == -1) {  // Items will be placed on hold no shipping fee	
+	$shipping = 0;
 }else {
 	$shipping = $order['wo_shipping'];
 }
@@ -247,14 +244,24 @@ $total = $subTotal - $discount + $tax +$shipping - $gcValue;
 						<div>Tax to be Collected:</div>
 						<div><?= number_format(@$tax,2) ?></div>
 					</div>
+
 					<div class="lineitem">
-						<?php if($shipping) { ?>
+						<?php if($order['wa_ID'] == -1) { ?>
+						<div>**Item/s On Hold At Store</div>
+						<?php } ?>
+						
+						<?php if($order['wa_ID'] == -3) { ?>
+						<div>Delivery Fee:</div>
+							<?php if($shipping == 0) { ?>	<div id="shipTot">FREE</div>	<?php }else { ?>
+							<div id="shipTot"><?= number_format(@$shipping,2) ?></div> <?php }?>
+						<?php  } ?>
+
+						<?php if($order['wa_ID'] == -2 || $order['wa_ID'] > 0) { ?>
 						<div>Estimated Shipping:</div>
 						<div id="shipTot"><?= number_format(@$shipping,2) ?></div>
-						<?php  }else { ?>
-						<div>Hold At Store</div>
 						<?php } ?>
 					</div>
+
 					<div class="ordertotal">
 						<div>Order Total:</div>
 						<div><?= number_format(@$total,2) ?></div>
