@@ -110,8 +110,10 @@ for($i=0; $i<$num_res; $i++){
 	<?php if($message){?><br /><?=$message?><?php  }?>	
 <div class="tableContainer">
 	<!-- Vendor Info -->
-	<table width="800px">
-		<tr ><td><?= $vendor['vendor_name'] ?></td><td>Group: <?= $vendor['vendor_group'] ?></td></tr>
+	<table style="margin: auto; width: 100%;">
+		<tr ><td><?= $vendor['vendor_name'] ?></td><td>Group: <?= $vendor['vendor_group'] ?></td>
+			  <td rowspan="8" style="font-size: 24px; text-align: center;">Last Counted<br><?= $vendor['vendor_lastCount'] ?></td>
+	   </tr>
 		<tr><td><?= $vendor['vendor_addr1'] ?></td><td><?= $vendor['vendor_rep'] ?></td></tr>
 		<tr><td><?= $vendor['vendor_addr2'] ?></td><td>Fax: <?= $vendor['vendor_fax'] ?></td></tr>
 		<tr><td><?= $vendor['vendor_addr3'] ?></td><td>Voice: <?= $vendor['vendor_voice'] ?></td></tr>
@@ -136,6 +138,7 @@ for($i=0; $i<$num_res; $i++){
     </tr>       
 <?php } ?>
 	</table>
+	<div style="display: block;">Vendor</div>
 	<form action="processItems.php" method="post" >
 	<!-- record count and vendor_ID for processing -->
 	<input type="hidden" name="recordcount" value="<?= $itemcount ?>" />

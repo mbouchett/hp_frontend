@@ -106,22 +106,35 @@ for($i = 0; $i < $itemcount; $i++) {
 	$h2 = $items[$i]['h1'];
 	$h1 = ($items[$i]['item_qty'] - $items[$i]['item_tempOH']);
 	
-	$sql = "UPDATE `".$db_db."`.`items_hist` 
-			  SET `ppo` = '".$lpo."',
-               `poq` = '".$loq."',
-               `pdat` = '".$ldat."',
-		         `lpo` = '".$po."',
-               `loq` = '".$io_qty."',
-               `ldat` = '".$today."',
-               `h8` = ".$h8.", 
-               `h7` = ".$h7.",  
-               `h6` = ".$h6.",  
-               `h5` = ".$h5.",  
-               `h4` = ".$h4.",  
-               `h3` = ".$h3.",  
-               `h2` = ".$h2.", 
-               `h1` =".$h1." 
-         WHERE `item_ID`=".$item_ID;
+	if($orderPlaced) {
+		$sql = "UPDATE `".$db_db."`.`items_hist` 
+				  SET `ppo` = '".$lpo."',
+	               `poq` = '".$loq."',
+	               `pdat` = '".$ldat."',
+			         `lpo` = '".$po."',
+	               `loq` = '".$io_qty."',
+	               `ldat` = '".$today."',
+	               `h8` = ".$h8.", 
+	               `h7` = ".$h7.",  
+	               `h6` = ".$h6.",  
+	               `h5` = ".$h5.",  
+	               `h4` = ".$h4.",  
+	               `h3` = ".$h3.",  
+	               `h2` = ".$h2.", 
+	               `h1` =".$h1." 
+	         WHERE `item_ID`=".$item_ID;
+   }else {
+		$sql = "UPDATE `".$db_db."`.`items_hist` 
+				  SET `h8` = ".$h8.", 
+	               `h7` = ".$h7.",  
+	               `h6` = ".$h6.",  
+	               `h5` = ".$h5.",  
+	               `h4` = ".$h4.",  
+	               `h3` = ".$h3.",  
+	               `h2` = ".$h2.", 
+	               `h1` =".$h1." 
+	         WHERE `item_ID`=".$item_ID;
+   }
 	$result = mysqli_query($db, $sql);
 	// on update error
 	if(!$result){

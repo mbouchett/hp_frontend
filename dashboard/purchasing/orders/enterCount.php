@@ -105,7 +105,7 @@ $itemcount=count($items);
 </table>
 
 <table class="count">
-    <tr><td colspan="11" style="text-align: right;">Order Total $ <?= number_format($totalOrder,2)?></td></tr>
+    <tr><td>Last Counted: <?= $vendor['vendor_lastCount'] ?></td><td colspan="10" style="text-align: right;">Order Total $ <?= number_format($totalOrder,2)?></td></tr>
     <tr><td height="1" colspan="11" bgcolor="#767676"></td></tr>
     <tr class="print"> <!-- Titles -->
     	  <td>Pic</td>
