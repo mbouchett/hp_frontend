@@ -129,7 +129,7 @@ for($i=0; $i<$num_res; $i++){
 		<tr><td colspan="2"><span onclick="visvend()">Note:</span> <?= $vendor['vendor_note'] ?></td></tr>
   <?php if($wantcount>0 && !$message){ ?>      
     <tr>
-        <td colspan="2" style="font-family: Arial; font-size: 10px; color: #CC0000">
+        <td colspan="3" style="font-family: Arial; font-size: 10px; color: #CC0000">
         Wantlists To Be Ordered: <br />
         <?php for($i=0; $i< $wantcount; $i++){ ?>
             <a target="_blank" href="../cs/csEdit.php?cust_ID=<?= $wants[$i]['cust_ID'] ?>"><?= $wants[$i]['ci_desc'] ?></a><br />
@@ -138,7 +138,6 @@ for($i=0; $i<$num_res; $i++){
     </tr>       
 <?php } ?>
 	</table>
-	<div style="display: block;">Vendor</div>
 	<form action="processItems.php" method="post" >
 	<!-- record count and vendor_ID for processing -->
 	<input type="hidden" name="recordcount" value="<?= $itemcount ?>" />
