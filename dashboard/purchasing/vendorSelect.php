@@ -14,7 +14,7 @@ session_start(); // Resume up your PHP session!
 @$direction=$_REQUEST['direction'];
 
 $db = new mysqli('localhost', $db_user, $db_pw, $db_db);
-$sql = 'SELECT `vendor_ID`, `vendor_name`, `vendor_group` 
+$sql = 'SELECT `vendor_ID`, `vendor_name`, `vendor_group`, `vendor_lastCounted` 
 		  FROM `vendors` 
 		  ORDER BY `vendor_name`' ;
 $result = mysqli_query($db, $sql);
@@ -62,12 +62,13 @@ if($direction=="Order") $dir="offCycle";
 	<br>
 	<hr>
 	<table>
-		<tr><td>Vendor ID</td><td>Vendor Name</td><td>Count Group</td></tr>
+		<tr><td>Vendor ID</td><td>Vendor Name</td><td>Count Group</td><td>Last Counted</td></tr>
 		<?php for($i=0; $i<$num_results; $i++){ ?>
 		<tr>
 			<td><a href="vendors/editVendor.php?vendor_ID=<?= $vendors[$i]['vendor_ID'] ?>"><?= $vendors[$i]['vendor_ID'] ?></a></td>	
 			<td><a href="items.php?vendor_ID=<?= $vendors[$i]['vendor_ID'] ?>"><?= $vendors[$i]['vendor_name'] ?></a></td>	
-			<td><?= $vendors[$i]['vendor_group'] ?></td>		
+			<td><?= $vendors[$i]['vendor_group'] ?></td>	
+			<td><?= $vendors[$i]['vendor_lastCounted'] ?></td>	
 		</tr>
 		<?php } ?>	
 	</table>
