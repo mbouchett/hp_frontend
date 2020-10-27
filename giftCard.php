@@ -31,7 +31,7 @@ if(isset($_COOKIE['c_cart'])){
 @$gc = ($_POST['gc']) ? safeString($_POST['gc']) : 0;
 @$gcAttempt = (isset($_COOKIE['gcAttempt'])) ? $_COOKIE['gcAttempt'] : 0;
 
-if($gcAttempt > 3) {
+if($gcAttempt > 3 || strlen($gc) != 16) {
 	$alert = "Please Call the store For Further Assistance";
 	unset($gc);
 	//setcookie("gcAttempt", $gcAttempt, time() - (86400 * 30), "/"); // 86400 = 1 day
