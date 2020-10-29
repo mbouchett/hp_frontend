@@ -77,9 +77,9 @@
 
     		<?php if($_SESSION['userlevel'] > 5 ) { ?>
     		<tr>
-    			<td><a class="menubtn" href="util/removeHist.php"><i class="fa fa-bomb"></i> Match Hist->Items<i class="fa fa-gear"></i></a></td>
-            	<td><a class="menubtn" href="http://www.rockingbones.site/homeportonline/removePics.php?dir=0"><i class="fa fa-photo"></i> Remove Orphaned Images<i class="fa fa-gear"></i></a></td>
-    			<td></td>
+    			<td><a class="menubtn" href="fixes/removeHist.php"><i class="fa fa-bomb"></i> Match Hist->Items<i class="fa fa-gear"></i></a></td>
+            <td><a class="menubtn" href="http://www.rockingbones.site/homeportonline/removePics.php?dir=0"><i class="fa fa-photo"></i> Remove Orphaned Images<i class="fa fa-gear"></i></a></td>
+    			<td><a class="menubtn" href="fixes/purgeOrder.php"><i class="fa fa-bomb"></i>Purge A PO<i class="fa fa-gear"></i></a></td>
     		</tr>
     		<tr>
     			<td></td>
