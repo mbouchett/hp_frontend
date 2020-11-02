@@ -117,7 +117,7 @@ if($order['order_offCycle'] == 1) $po = $po."X";
 		</tr>
 		<tr>
 			<td><b><span style="font-family: Arial; font-size: 24px"><a href="sentOrders.php" style="text-decoration: none; color: #000000">Homeport</a></span></b></td>
-			<td><span style="font-size: 16px; font-weight: bold; background-color: #9fd9f9; font-family: Arial"><?= $vendor['vendor_name'] ?> (<?= $vendor['vendor_rep'] ?>)</span></td>
+			<td><span style="font-size: 16px; font-weight: bold; background-color: #33AFF2; font-family: Arial"><?= $vendor['vendor_name'] ?> (<?= $vendor['vendor_rep'] ?>)</span></td>
 		</tr>
 		<tr><td>52 Church Street</td><td><?= $vendor['vendor_addr1'] ?></td></tr>
 		<tr><td>Burlington, VT 05401</td><td><?= $vendor['vendor_addr2'] ?></td></tr>
