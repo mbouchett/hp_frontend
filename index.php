@@ -5,9 +5,9 @@
 	*/
 	
 	// ******************* Database Credentials *******************
-	@include "/home/homeportonline/crc/2018.php";
-	@include "/home/homeportonline/crc/functions/f_resolve.php";
-	
+	include "/home/homeportonline/crc/2018.php";
+	include "/home/homeportonline/crc/functions/f_resolve.php";
+
 	// ****************** initializes variables *******************
 	$loggedIn = 0;
 	$cartCount =  0;
@@ -144,15 +144,16 @@
         <!--Page Content goes here-->
         <div class="pagecontainer">
             <!--<div class="featuretitle">Can't wait for spring? Make your own damn rainbows!</div>-->
-            <div class="featuretitle">Mark and Francois Hot Sauce Challenge!</div>
+            <div class="featuretitle">Homeport Is Hiring!</div>
             <div class="featurecontainer">
                 <!--This link should change for feature-->
                 <!--<a href="search.php?key=supoon+spatula"><img src="images/feature.jpg" alt="Feature"></a>-->
-                <iframe width="100%" height="800" src="https://www.youtube.com/embed/HuM8zsUORzM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--                <iframe width="100%" height="800" src="https://www.youtube.com/embed/HuM8zsUORzM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+-->				<img src="images/group_photo_hire.jpg" alt="Feature">
             </div>
             
             <!-- ************************************************** Feature Items ************************************************** -->
-            <div class="subtitle">Hang These Nets to Catch Humans!</div>
+            <div class="subtitle">Ho-ho-holiday ornaments are back in store!</div>
             <div class="subfeaturecontainer">
                 <div class="subfeatureitem">
             		<?php if($subFeature['sf_start']) { ?> 
@@ -160,9 +161,9 @@
             			<img src="http://www.rockingbones.site/homeportonline/feature/<?= $subFeature['sf_f1'] ?>" alt="Feature"> 
             		</a>
             		<?php }else { ?>
-                    <a href="https://homeportonline.com/search.php?key=hammock" >
+                    <a href="shopItems.php?dept=138&keyName=Ornaments" >
             		<!--<a href="shopItems.php?dept=1029&keyName=Puzzles" > Find DEPT-->
-                		<img src="images/subfeature1.jpg" alt="Store Front"> <?php } ?>
+                		<img src="images/subfeature1.png" alt="Store Front"> <?php } ?>
                 	</a>
                 </div>
                 <div class="subfeatureitem">
@@ -171,7 +172,7 @@
             			<img src="http://www.rockingbones.site/homeportonline/feature/<?= $subFeature['sf_f2'] ?>" alt="Feature"> 
             		</a>
             		<?php }else { ?>
-            		<a href="https://homeportonline.com/search.php?key=hammock" >
+            		<a href="shopItems.php?dept=138&keyName=Ornaments" >
                 		<img src="images/subfeature2.jpg" alt="Store Front"> <?php } ?>
                 	</a>
                 </div>
@@ -181,7 +182,7 @@
             			<img src="http://www.rockingbones.site/homeportonline/feature/<?= $subFeature['sf_f3'] ?>" alt="Feature"> 
             		</a>
             		<?php }else { ?>
-                    <a href="https://homeportonline.com/search.php?key=hammock" >
+                    <a href="shopItems.php?dept=138&keyName=Ornaments" >
             		<!--<a href="search.php?key=puzzle" >Find By Search Key-->
                 		<img src="images/subfeature3.jpg" alt="Store Front"> <?php } ?>
                 	</a>
@@ -192,11 +193,11 @@
             			<img src="http://www.rockingbones.site/homeportonline/feature/<?= $subFeature['sf_f4'] ?>" alt="Feature"> 
             		</a>
             		<?php }else { ?>
-                    <a href="https://homeportonline.com/search.php?key=hammock" >
+                    <a href="shopItems.php?dept=138&keyName=Ornaments" >
                     
             		<!-- Specify vendor page <a href="vendorPage.php?vendor=1460&vendorName=Professor Puzzle" > -->
                     <!-- Specify Dept and keyname<a href="https://homeportonline.com/shopItems.php?dept=1027&keyName=Mothers%20Day%20Cards">-->
-                		<img src="images/subfeature4.jpg" alt="Store Front"> <?php } ?>
+                		<img src="images/subfeature4.png" alt="Store Front"> <?php } ?>
                 	</a>
                 </div>
             </div>
