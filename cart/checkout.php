@@ -343,7 +343,7 @@ if($gcAttempt > 3) {
                     
                 	<!-- Local Delivery -->
                 	<?php $checked =($z == -3) ? "checked" : "" ?>
-                    <div class="submessage">Local deliveries for orders over 100 dollars are free</div>
+                    <div class="submessage">Local delivery is 7.00 - Orders over 100 dollars are FREE</div>
                     <label onclick="shipCalc(0,-3)" class="radiocontainer">Delivery - Local Curbside *(Selected Zip Codes)
                         <input id="hold" type="radio" name="ship" value="-3" <?= $checked ?> >
                         <span class="radiocheckmark"></span>
