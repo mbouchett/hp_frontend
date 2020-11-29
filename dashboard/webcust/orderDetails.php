@@ -106,8 +106,8 @@ $sql = 'SELECT *
 $result = mysqli_query($db, $sql);
 	if(!$result){
 		echo "Lookup Error!<br>";
-		echo $sql."<br>";
-		echo mysqli_error($db);
+		//echo $sql."<br>";
+		//echo mysqli_error($db);
 		die;
 	}
 $itemCount = mysqli_num_rows($result);
@@ -139,6 +139,21 @@ if($order['wa_ID'] == -1) {  // Items will be placed on hold no shipping fee
 	$shipping = $order['wo_shipping'];
 }
 
+// ********** get shipping address ***********
+if($order['wa_ID'] > 0) {
+	$db = new mysqli('localhost', $db_user, $db_pw, $db_db);
+	$sql = 'SELECT * FROM `web_addr` WHERE `wa_ID` = '.$order['wa_ID'];
+	$result = mysqli_query($db, $sql);
+	if(!$result){
+		echo "Address Lookup Error!<br>";
+		//echo $sql."<br>";
+		//echo mysqli_error($db);
+		die;
+	}
+	mysqli_close($db);
+	$ship = mysqli_fetch_assoc($result);
+
+
 // ********* Get Gift card Value ***********
 if($order['wo_gc_charge']) $gcValue = $order['wo_gc_charge'];
 
@@ -155,7 +170,7 @@ $total = $subTotal - $discount + $tax +$shipping - $gcValue;
 <head>
 <meta charset="utf-8" />
 <link rel="SHORTCUT ICON" href="../images/icon.ico">
-<title>Rewiew Order# <?= $order['wo_ID'] ?> <?= $order['wa_ID'] ?></title>
+<title>Order Details# <?= $order['wo_ID'] ?> <?= $order['wa_ID'] ?></title>
     <link rel="stylesheet" href="../../webfonts/fonts.css" type="text/css" /> <!--this needs to be placed anywhere the fonts are used-->
     <link rel="stylesheet" href="../../icons/all.css" type="text/css"> <!--this needs to be placed anywhere icons are used-->
 	<link rel="stylesheet" href="css/orderDetails.css" type="text/css" />
