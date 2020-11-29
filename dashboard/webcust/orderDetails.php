@@ -333,5 +333,4 @@ $total = $subTotal - $discount + $tax +$shipping - $gcValue;
     </div>
 
 </body>
-</html>		$shipping = getShip($zip);	
-	}
+</html>
