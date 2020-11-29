@@ -152,7 +152,6 @@ if($order['wa_ID'] > 0) {
 	}
 	mysqli_close($db);
 	$ship = mysqli_fetch_assoc($result);
-}
 
 
 // ********* Get Gift card Value ***********
