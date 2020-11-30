@@ -1,4 +1,4 @@
-<img src="images/group_photo_hire.jpg" alt="" /><?php
+<?php
 	/* Homeport Website Front Page 
 		Mark/Francois Bouchett 2019
 		http://www.homeportonline.com/index.php
