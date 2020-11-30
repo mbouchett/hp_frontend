@@ -1,4 +1,4 @@
-<?php
+<img src="images/group_photo_hire.jpg" alt="" /><?php
 	/* Homeport Website Front Page 
 		Mark/Francois Bouchett 2019
 		http://www.homeportonline.com/index.php
@@ -149,7 +149,7 @@
                 <!--This link should change for feature-->
                 <!--<a href="search.php?key=supoon+spatula"><img src="images/feature.jpg" alt="Feature"></a>-->
 <!--                <iframe width="100%" height="800" src="https://www.youtube.com/embed/HuM8zsUORzM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
--->				<img src="images/feature_coupon.png" alt="Feature">
+-->				<img src="images/group_photo_hire.jpg" alt="Feature">
                <span style="font-size: 48px; font-weight: bolder; color: red; margin: auto;">Use Promo Code: XMAS2020 at checkout</span>
             </div>
             
