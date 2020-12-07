@@ -21,7 +21,7 @@ session_start(); // Resume up your PHP session!
 $filter = ($_REQUEST['filter']) ? $_REQUEST['filter'] : 0;
 
 $db = new mysqli('localhost', $db_user, $db_pw, $db_db);
-if($filter == 8) {
+if($filter == 9) {
 	$sql = 'SELECT * 
 		    	FROM `web_order` 
 		    	LEFT JOIN `web_cust` USING (`wc_ID`)
@@ -75,6 +75,10 @@ if(!$result){
 				$order[$i]['stat'] = "Closed";
 				$order[$i]['bc'] = "888888";
 				break;
+			case 8:
+				$order[$i]['stat'] = "Follow Up!";
+				$order[$i]['bc'] = "FE1F14";
+				break;
 			default:
 				$order[$i]['stat'] = "Order Placed";
 				$order[$i]['bc'] = "ffff00";
@@ -103,6 +107,7 @@ if(!$result){
   			<td style="vertical-align: top; border-color: black;border-style: solid; border-width: 1px; padding: 4px;">
   				Filter By<br><br>
   				<a style="background-color: #ffff00; border-color: black;border-style: solid; border-width: 1px;" href="viewCustOrders.php?filter=0">Placed</a><br><br>
+  				<a style="background-color: #FE1F14; border-color: black;border-style: solid; border-width: 1px;" href="viewCustOrders.php?filter=8">Follow Up!</a><br><br>
   				<a style="background-color: #ebdb34; border-color: black;border-style: solid; border-width: 1px;" href="viewCustOrders.php?filter=1">Awaiting Items</a><br><br>
   				<a style="background-color: #eea4f5; border-color: black;border-style: solid; border-width: 1px;" href="viewCustOrders.php?filter=2">Canceled</a><br><br>
 				<a style="background-color: #a4f5e2; border-color: black;border-style: solid; border-width: 1px;" href="viewCustOrders.php?filter=3">Awaiting Pickup</a><br><br>
@@ -110,7 +115,7 @@ if(!$result){
 				<a style="background-color: #f2a4f5; border-color: black;border-style: solid; border-width: 1px;" href="viewCustOrders.php?filter=5">Shipped</a><br><br>
 				<a style="background-color: #f5aca4; border-color: black;border-style: solid; border-width: 1px;" href="viewCustOrders.php?filter=6">Payment Issue</a><br><br>
 				<a style="background-color: #888888; border-color: black;border-style: solid; border-width: 1px;" href="viewCustOrders.php?filter=7">Closed</a><br><br>
-				<a style="background-color: #95eb34; border-color: black;border-style: solid; border-width: 1px;" href="viewCustOrders.php?filter=8">Show All</a>
+				<a style="background-color: #95eb34; border-color: black;border-style: solid; border-width: 1px;" href="viewCustOrders.php?filter=9">Show All</a>
   			</td>
 	  			<td style="vertical-align: top;">
 				<table>

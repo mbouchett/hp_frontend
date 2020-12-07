@@ -52,6 +52,9 @@ $wo_ID = $_REQUEST['wo_ID'];
 			case 7:
 				$stat = "Closed";
 				break;
+			case 8:
+				$stat = "Follow Up!";
+				break;
 			default:
 				$stat = "Order Placed";
 		}
@@ -304,6 +307,8 @@ $total = $subTotal - $discount + $tax +$shipping - $gcValue;
             
             	<?php $txtColor = "000000"; if($order['wo_status'] == 0) $txtColor = "00aa00"; ?>
             	<a style="color: #<?= $txtColor ?>;" href="processStatusUpdate.php?stat=0&wo_ID=<?= $order['wo_ID'] ?>" >Order Placed</a> |
+            	<?php $txtColor = "000000"; if($order['wo_status'] == 8) $txtColor = "FE1F14"; ?>
+            	<a style="color: #<?= $txtColor ?>;" href="processStatusUpdate.php?stat=8&wo_ID=<?= $order['wo_ID'] ?>" >Follow Up!</a> |
             	<?php $txtColor = "000000"; if($order['wo_status'] == 1) $txtColor = "00ff00"; ?>
             	<a style="color: #<?= $txtColor ?>;" href="processStatusUpdate.php?stat=1&wo_ID=<?= $order['wo_ID'] ?>" >Awaiting Items</a> |
             	<?php $txtColor = "000000"; if($order['wo_status'] == 2) $txtColor = "00ff00"; ?>
