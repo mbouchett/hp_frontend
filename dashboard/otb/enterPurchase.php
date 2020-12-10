@@ -292,7 +292,7 @@ Viewing: <?= $currentMonth ?>
 		<td><?= $po[$i]['otb_buyer'] ?></td>
 		<td><?= $po[$i]['otb_comment'] ?></td>
 		<?php
-		if($_SESSION['username'] == "abouchett" || $_SESSION['username'] == "mbouchett" || $_SESSION['username'] == "francois" || $_SESSION['username'] == "bbouchett" || $_SESSION['username'] == "cnye") {
+		if($_SESSION['userlevel'] > 4) {
 		?>
 		<td><button onclick="deletePurch(<?= $po[$i]['otb_ID'] ?>, <?= $floor ?>);">Delete</button></td>
 		<?php } ?>
