@@ -149,7 +149,7 @@
                 <!--This link should change for feature-->
                 <!--<a href="search.php?key=supoon+spatula"><img src="images/feature.jpg" alt="Feature"></a>-->
 <!--                <iframe width="100%" height="800" src="https://www.youtube.com/embed/HuM8zsUORzM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
--->				<img src="images/group_photo.jpg" alt="Feature">
+-->				<img src="images/group_photo_xmas.jpg" alt="Feature">
               
             </div>
             
