@@ -95,7 +95,8 @@ if(isset($_COOKIE['c_cart'])){
     <div id="container">
         <div class="featuretitle"><i class="fa fa-shopping-cart"></i>&nbsp;Your Cart!</div>
         <?php if($cartCount > 0) { ?>
-        <div class="subfeature"><i class="fa fa-cookie-bite"></i>&nbsp;Our Shopping Cart uses Cookies to work, please make sure Cookies are enabled.</div>
+        <div class="subfeature"><i class="fa fa-cookie-bite"><b></i>&nbsp;Our Shopping Cart uses Cookies to work, please make sure Cookies are enabled.</b></div>
+        <div class="subfeature"><i class="fa fa-truck"><b></i>&nbsp;*** It Is Unlikely That Orders Placed Today For Shipping Will Arrive before Dec. 25th *** </b></div>
         <div class="cartlabels">
             <div class="cartlabeldesc">Desription</div>
             <div class="cartlabelprice">Price</div>
