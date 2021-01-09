@@ -244,6 +244,7 @@ for($i=0; $i<$num_res; $i++){
     
 </div>
 	<br>
+	<a href="http://www.rockingbones.site/homeportonline/snagVendorImages.php?v=<?= $vendor_ID ?>" >Snag Vendor Images</a>
 	<hr>
 	<div class="optionMenu">
 			<a class="optionBtn" href="printCount.php?vendor_ID=<?= $vendor_ID ?>" >Print Count <i class="fa fa-print"></i></a>
