@@ -154,7 +154,7 @@
             </div>
             
             <!-- ************************************************** Feature Items ************************************************** -->
-            <div class="subtitle">Ho-ho-holiday ornaments are back in store!</div>
+            <div class="subtitle">Let's get Baked!</div>
             <div class="subfeaturecontainer">
                 <div class="subfeatureitem">
             		<?php if($subFeature['sf_start']) { ?> 
@@ -162,7 +162,7 @@
             			<img src="http://www.rockingbones.site/homeportonline/feature/<?= $subFeature['sf_f1'] ?>" alt="Feature"> 
             		</a>
             		<?php }else { ?>
-                    <a href="shopItems.php?dept=138&keyName=Ornaments" >
+                    <a href="product.php?item=38591" >
             		<!--<a href="shopItems.php?dept=1029&keyName=Puzzles" > Find DEPT-->
                 		<img src="images/subfeature1.png" alt="Store Front"> <?php } ?>
                 	</a>
@@ -173,7 +173,7 @@
             			<img src="http://www.rockingbones.site/homeportonline/feature/<?= $subFeature['sf_f2'] ?>" alt="Feature"> 
             		</a>
             		<?php }else { ?>
-            		<a href="shopItems.php?dept=138&keyName=Ornaments" >
+            		<a href="product.php?item=38590" >
                 		<img src="images/subfeature2.jpg" alt="Store Front"> <?php } ?>
                 	</a>
                 </div>
@@ -183,7 +183,7 @@
             			<img src="http://www.rockingbones.site/homeportonline/feature/<?= $subFeature['sf_f3'] ?>" alt="Feature"> 
             		</a>
             		<?php }else { ?>
-                    <a href="shopItems.php?dept=138&keyName=Ornaments" >
+                    <a href="product.php?item=20793" >
             		<!--<a href="search.php?key=puzzle" >Find By Search Key-->
                 		<img src="images/subfeature3.jpg" alt="Store Front"> <?php } ?>
                 	</a>
@@ -194,7 +194,7 @@
             			<img src="http://www.rockingbones.site/homeportonline/feature/<?= $subFeature['sf_f4'] ?>" alt="Feature"> 
             		</a>
             		<?php }else { ?>
-                    <a href="shopItems.php?dept=138&keyName=Ornaments" >
+                    <a href="vendorPage.php?vendor=629&vendorName=**Nordic%20Ware" >
                     
             		<!-- Specify vendor page <a href="vendorPage.php?vendor=1460&vendorName=Professor Puzzle" > -->
                     <!-- Specify Dept and keyname<a href="https://homeportonline.com/shopItems.php?dept=1027&keyName=Mothers%20Day%20Cards">-->
