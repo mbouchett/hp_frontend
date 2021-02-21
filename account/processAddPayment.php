@@ -22,7 +22,7 @@ $state = $_POST['state'];
 
 // Encrypt Card Info
 $eCardNum = mash($cardNum);
-$ecvv = mash('xxx');
+$ecvv = mash($cvv);
 $eExpiry = mash($expiry);
 $eLine1 = mash($newaddress1);
 $eLine2 = mash($newaddress2);
